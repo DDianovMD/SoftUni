@@ -1,0 +1,7 @@
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsLab\ExcellentResult\bin\Debug\ExcellentResult.exe.config
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsLab\ExcellentResult\bin\Debug\ExcellentResult.exe
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsLab\ExcellentResult\bin\Debug\ExcellentResult.pdb
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsLab\ExcellentResult\obj\Debug\ExcellentResult.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsLab\ExcellentResult\obj\Debug\ExcellentResult.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsLab\ExcellentResult\obj\Debug\ExcellentResult.exe
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsLab\ExcellentResult\obj\Debug\ExcellentResult.pdb

@@ -1,0 +1,15 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\MiddleCharacters\bin\Debug\net5.0\MiddleCharacters.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\MiddleCharacters\bin\Debug\net5.0\MiddleCharacters.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\MiddleCharacters\bin\Debug\net5.0\MiddleCharacters.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\MiddleCharacters\bin\Debug\net5.0\MiddleCharacters.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\MiddleCharacters\bin\Debug\net5.0\MiddleCharacters.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\MiddleCharacters\bin\Debug\net5.0\ref\MiddleCharacters.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\MiddleCharacters\bin\Debug\net5.0\MiddleCharacters.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\MiddleCharacters\obj\Debug\net5.0\MiddleCharacters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\MiddleCharacters\obj\Debug\net5.0\MiddleCharacters.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\MiddleCharacters\obj\Debug\net5.0\MiddleCharacters.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\MiddleCharacters\obj\Debug\net5.0\MiddleCharacters.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\MiddleCharacters\obj\Debug\net5.0\MiddleCharacters.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\MiddleCharacters\obj\Debug\net5.0\ref\MiddleCharacters.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\MiddleCharacters\obj\Debug\net5.0\MiddleCharacters.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\MiddleCharacters\obj\Debug\net5.0\MiddleCharacters.genruntimeconfig.cache

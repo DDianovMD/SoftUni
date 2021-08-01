@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\Train\bin\Debug\net5.0\Train.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\Train\bin\Debug\net5.0\Train.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\Train\bin\Debug\net5.0\Train.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\Train\bin\Debug\net5.0\Train.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\Train\bin\Debug\net5.0\Train.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\Train\bin\Debug\net5.0\ref\Train.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\Train\bin\Debug\net5.0\Train.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\Train\obj\Debug\net5.0\Train.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\Train\obj\Debug\net5.0\Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\Train\obj\Debug\net5.0\Train.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\Train\obj\Debug\net5.0\Train.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\Train\obj\Debug\net5.0\Train.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\Train\obj\Debug\net5.0\Train.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\Train\obj\Debug\net5.0\ref\Train.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\Train\obj\Debug\net5.0\Train.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\Train\obj\Debug\net5.0\Train.genruntimeconfig.cache

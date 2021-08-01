@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\ArrayRotation\bin\Debug\net5.0\ArrayRotation.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\ArrayRotation\bin\Debug\net5.0\ArrayRotation.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\ArrayRotation\bin\Debug\net5.0\ArrayRotation.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\ArrayRotation\bin\Debug\net5.0\ArrayRotation.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\ArrayRotation\bin\Debug\net5.0\ArrayRotation.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\ArrayRotation\bin\Debug\net5.0\ref\ArrayRotation.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\ArrayRotation\bin\Debug\net5.0\ArrayRotation.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\ArrayRotation\obj\Debug\net5.0\ArrayRotation.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\ArrayRotation\obj\Debug\net5.0\ArrayRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\ArrayRotation\obj\Debug\net5.0\ArrayRotation.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\ArrayRotation\obj\Debug\net5.0\ArrayRotation.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\ArrayRotation\obj\Debug\net5.0\ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\ArrayRotation\obj\Debug\net5.0\ArrayRotation.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\ArrayRotation\obj\Debug\net5.0\ref\ArrayRotation.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\ArrayRotation\obj\Debug\net5.0\ArrayRotation.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\ArrayRotation\obj\Debug\net5.0\ArrayRotation.genruntimeconfig.cache

@@ -1,0 +1,6 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\PokeMon\bin\Debug\PokeMon.exe.config
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\PokeMon\bin\Debug\PokeMon.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\PokeMon\bin\Debug\PokeMon.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\PokeMon\obj\Debug\PokeMon.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\PokeMon\obj\Debug\PokeMon.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\PokeMon\obj\Debug\PokeMon.pdb

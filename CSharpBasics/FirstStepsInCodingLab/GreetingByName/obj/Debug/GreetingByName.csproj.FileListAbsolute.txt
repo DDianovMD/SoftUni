@@ -1,0 +1,12 @@
+C:\Users\ddian\source\repos\CSharpBasics\GreetingByName\bin\Debug\GreetingByName.exe.config
+C:\Users\ddian\source\repos\CSharpBasics\GreetingByName\bin\Debug\GreetingByName.exe
+C:\Users\ddian\source\repos\CSharpBasics\GreetingByName\bin\Debug\GreetingByName.pdb
+C:\Users\ddian\source\repos\CSharpBasics\GreetingByName\obj\Debug\GreetingByName.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpBasics\GreetingByName\obj\Debug\GreetingByName.exe
+C:\Users\ddian\source\repos\CSharpBasics\GreetingByName\obj\Debug\GreetingByName.pdb
+C:\Users\ddian\source\repos\CSharpBasics\FirstStepsInCodingLab\GreetingByName\bin\Debug\GreetingByName.exe.config
+C:\Users\ddian\source\repos\CSharpBasics\FirstStepsInCodingLab\GreetingByName\bin\Debug\GreetingByName.exe
+C:\Users\ddian\source\repos\CSharpBasics\FirstStepsInCodingLab\GreetingByName\bin\Debug\GreetingByName.pdb
+C:\Users\ddian\source\repos\CSharpBasics\FirstStepsInCodingLab\GreetingByName\obj\Debug\GreetingByName.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpBasics\FirstStepsInCodingLab\GreetingByName\obj\Debug\GreetingByName.exe
+C:\Users\ddian\source\repos\CSharpBasics\FirstStepsInCodingLab\GreetingByName\obj\Debug\GreetingByName.pdb

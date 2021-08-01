@@ -1,0 +1,6 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsMoreExercise\ReverseString\bin\Debug\ReverseString.exe.config
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsMoreExercise\ReverseString\bin\Debug\ReverseString.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsMoreExercise\ReverseString\bin\Debug\ReverseString.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsMoreExercise\ReverseString\obj\Debug\ReverseString.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsMoreExercise\ReverseString\obj\Debug\ReverseString.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsMoreExercise\ReverseString\obj\Debug\ReverseString.pdb

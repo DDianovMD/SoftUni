@@ -1,0 +1,7 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\IntegerOperations\bin\Debug\IntegerOperations.exe.config
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\IntegerOperations\bin\Debug\IntegerOperations.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\IntegerOperations\bin\Debug\IntegerOperations.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\IntegerOperations\obj\Debug\IntegerOperations.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\IntegerOperations\obj\Debug\IntegerOperations.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\IntegerOperations\obj\Debug\IntegerOperations.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\IntegerOperations\obj\Debug\IntegerOperations.pdb

@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\MultiplyEvensByOdds\bin\Debug\net5.0\MultiplyEvensByOdds.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\MultiplyEvensByOdds\bin\Debug\net5.0\MultiplyEvensByOdds.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\MultiplyEvensByOdds\bin\Debug\net5.0\MultiplyEvensByOdds.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\MultiplyEvensByOdds\bin\Debug\net5.0\MultiplyEvensByOdds.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\MultiplyEvensByOdds\bin\Debug\net5.0\MultiplyEvensByOdds.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\MultiplyEvensByOdds\bin\Debug\net5.0\ref\MultiplyEvensByOdds.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\MultiplyEvensByOdds\bin\Debug\net5.0\MultiplyEvensByOdds.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\MultiplyEvensByOdds\obj\Debug\net5.0\MultiplyEvensByOdds.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\MultiplyEvensByOdds\obj\Debug\net5.0\MultiplyEvensByOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\MultiplyEvensByOdds\obj\Debug\net5.0\MultiplyEvensByOdds.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\MultiplyEvensByOdds\obj\Debug\net5.0\MultiplyEvensByOdds.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\MultiplyEvensByOdds\obj\Debug\net5.0\MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\MultiplyEvensByOdds\obj\Debug\net5.0\MultiplyEvensByOdds.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\MultiplyEvensByOdds\obj\Debug\net5.0\ref\MultiplyEvensByOdds.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\MultiplyEvensByOdds\obj\Debug\net5.0\MultiplyEvensByOdds.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\MultiplyEvensByOdds\obj\Debug\net5.0\MultiplyEvensByOdds.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysLab\DayOfWeek\bin\Debug\net5.0\DayOfWeek.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysLab\DayOfWeek\bin\Debug\net5.0\DayOfWeek.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysLab\DayOfWeek\bin\Debug\net5.0\DayOfWeek.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysLab\DayOfWeek\bin\Debug\net5.0\DayOfWeek.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysLab\DayOfWeek\bin\Debug\net5.0\DayOfWeek.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysLab\DayOfWeek\bin\Debug\net5.0\ref\DayOfWeek.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysLab\DayOfWeek\bin\Debug\net5.0\DayOfWeek.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysLab\DayOfWeek\obj\Debug\net5.0\DayOfWeek.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysLab\DayOfWeek\obj\Debug\net5.0\DayOfWeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysLab\DayOfWeek\obj\Debug\net5.0\DayOfWeek.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysLab\DayOfWeek\obj\Debug\net5.0\DayOfWeek.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysLab\DayOfWeek\obj\Debug\net5.0\DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysLab\DayOfWeek\obj\Debug\net5.0\DayOfWeek.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysLab\DayOfWeek\obj\Debug\net5.0\ref\DayOfWeek.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysLab\DayOfWeek\obj\Debug\net5.0\DayOfWeek.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysLab\DayOfWeek\obj\Debug\net5.0\DayOfWeek.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsMoreExercise\GamingStore\bin\Debug\GamingStore.exe.config
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsMoreExercise\GamingStore\bin\Debug\GamingStore.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsMoreExercise\GamingStore\bin\Debug\GamingStore.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsMoreExercise\GamingStore\obj\Debug\GamingStore.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsMoreExercise\GamingStore\obj\Debug\GamingStore.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsMoreExercise\GamingStore\obj\Debug\GamingStore.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsMoreExercise\GamingStore\obj\Debug\GamingStore.pdb

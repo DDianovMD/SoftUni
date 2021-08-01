@@ -1,0 +1,7 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsMoreExercise\SortNumbers\bin\Debug\SortNumbers.exe.config
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsMoreExercise\SortNumbers\bin\Debug\SortNumbers.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsMoreExercise\SortNumbers\bin\Debug\SortNumbers.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsMoreExercise\SortNumbers\obj\Debug\SortNumbers.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsMoreExercise\SortNumbers\obj\Debug\SortNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsMoreExercise\SortNumbers\obj\Debug\SortNumbers.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsMoreExercise\SortNumbers\obj\Debug\SortNumbers.pdb

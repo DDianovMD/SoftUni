@@ -1,0 +1,6 @@
+C:\Users\ddian\source\repos\CSharpBasics\ConcatenateData\bin\Debug\ConcatenateData.exe.config
+C:\Users\ddian\source\repos\CSharpBasics\ConcatenateData\bin\Debug\ConcatenateData.exe
+C:\Users\ddian\source\repos\CSharpBasics\ConcatenateData\bin\Debug\ConcatenateData.pdb
+C:\Users\ddian\source\repos\CSharpBasics\ConcatenateData\obj\Debug\ConcatenateData.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpBasics\ConcatenateData\obj\Debug\ConcatenateData.exe
+C:\Users\ddian\source\repos\CSharpBasics\ConcatenateData\obj\Debug\ConcatenateData.pdb

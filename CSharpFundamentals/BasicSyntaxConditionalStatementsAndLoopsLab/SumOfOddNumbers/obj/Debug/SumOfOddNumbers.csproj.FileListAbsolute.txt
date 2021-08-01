@@ -1,0 +1,6 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.exe.config
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.pdb

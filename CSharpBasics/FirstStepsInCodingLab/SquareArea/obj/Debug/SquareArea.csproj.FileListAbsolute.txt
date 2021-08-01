@@ -1,0 +1,6 @@
+C:\Users\ddian\source\repos\CSharpBasics\SquareArea\bin\Debug\SquareArea.exe.config
+C:\Users\ddian\source\repos\CSharpBasics\SquareArea\bin\Debug\SquareArea.exe
+C:\Users\ddian\source\repos\CSharpBasics\SquareArea\bin\Debug\SquareArea.pdb
+C:\Users\ddian\source\repos\CSharpBasics\SquareArea\obj\Debug\SquareArea.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpBasics\SquareArea\obj\Debug\SquareArea.exe
+C:\Users\ddian\source\repos\CSharpBasics\SquareArea\obj\Debug\SquareArea.pdb

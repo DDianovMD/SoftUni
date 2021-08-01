@@ -1,0 +1,6 @@
+C:\Users\ddian\source\repos\CSharpBasics\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe.config
+C:\Users\ddian\source\repos\CSharpBasics\InchesToCentimeters\bin\Debug\InchesToCentimeters.exe
+C:\Users\ddian\source\repos\CSharpBasics\InchesToCentimeters\bin\Debug\InchesToCentimeters.pdb
+C:\Users\ddian\source\repos\CSharpBasics\InchesToCentimeters\obj\Debug\InchesToCentimeters.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpBasics\InchesToCentimeters\obj\Debug\InchesToCentimeters.exe
+C:\Users\ddian\source\repos\CSharpBasics\InchesToCentimeters\obj\Debug\InchesToCentimeters.pdb

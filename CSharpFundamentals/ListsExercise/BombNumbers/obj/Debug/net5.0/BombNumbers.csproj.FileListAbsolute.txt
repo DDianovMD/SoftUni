@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\BombNumbers\bin\Debug\net5.0\BombNumbers.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\BombNumbers\bin\Debug\net5.0\BombNumbers.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\BombNumbers\bin\Debug\net5.0\BombNumbers.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\BombNumbers\bin\Debug\net5.0\BombNumbers.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\BombNumbers\bin\Debug\net5.0\BombNumbers.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\BombNumbers\bin\Debug\net5.0\ref\BombNumbers.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\BombNumbers\bin\Debug\net5.0\BombNumbers.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\BombNumbers\obj\Debug\net5.0\BombNumbers.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\BombNumbers\obj\Debug\net5.0\BombNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\BombNumbers\obj\Debug\net5.0\BombNumbers.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\BombNumbers\obj\Debug\net5.0\BombNumbers.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\BombNumbers\obj\Debug\net5.0\BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\BombNumbers\obj\Debug\net5.0\BombNumbers.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\BombNumbers\obj\Debug\net5.0\ref\BombNumbers.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\BombNumbers\obj\Debug\net5.0\BombNumbers.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\BombNumbers\obj\Debug\net5.0\BombNumbers.genruntimeconfig.cache

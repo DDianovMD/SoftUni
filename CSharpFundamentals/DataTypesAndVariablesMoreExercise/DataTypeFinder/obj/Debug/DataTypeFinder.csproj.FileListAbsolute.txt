@@ -1,0 +1,7 @@
+C:\Users\ddian\source\repos\DataTypesAndVariablesMoreExercise\DataTypeFinder\bin\Debug\DataTypeFinder.exe.config
+C:\Users\ddian\source\repos\DataTypesAndVariablesMoreExercise\DataTypeFinder\bin\Debug\DataTypeFinder.exe
+C:\Users\ddian\source\repos\DataTypesAndVariablesMoreExercise\DataTypeFinder\bin\Debug\DataTypeFinder.pdb
+C:\Users\ddian\source\repos\DataTypesAndVariablesMoreExercise\DataTypeFinder\obj\Debug\DataTypeFinder.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\DataTypesAndVariablesMoreExercise\DataTypeFinder\obj\Debug\DataTypeFinder.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\DataTypesAndVariablesMoreExercise\DataTypeFinder\obj\Debug\DataTypeFinder.exe
+C:\Users\ddian\source\repos\DataTypesAndVariablesMoreExercise\DataTypeFinder\obj\Debug\DataTypeFinder.pdb

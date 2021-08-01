@@ -1,0 +1,15 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\NxNMatrix\bin\Debug\net5.0\NxNMatrix.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\NxNMatrix\bin\Debug\net5.0\NxNMatrix.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\NxNMatrix\bin\Debug\net5.0\NxNMatrix.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\NxNMatrix\bin\Debug\net5.0\NxNMatrix.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\NxNMatrix\bin\Debug\net5.0\NxNMatrix.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\NxNMatrix\bin\Debug\net5.0\ref\NxNMatrix.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\NxNMatrix\bin\Debug\net5.0\NxNMatrix.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\NxNMatrix\obj\Debug\net5.0\NxNMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\NxNMatrix\obj\Debug\net5.0\NxNMatrix.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\NxNMatrix\obj\Debug\net5.0\NxNMatrix.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\NxNMatrix\obj\Debug\net5.0\NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\NxNMatrix\obj\Debug\net5.0\NxNMatrix.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\NxNMatrix\obj\Debug\net5.0\ref\NxNMatrix.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\NxNMatrix\obj\Debug\net5.0\NxNMatrix.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\NxNMatrix\obj\Debug\net5.0\NxNMatrix.genruntimeconfig.cache

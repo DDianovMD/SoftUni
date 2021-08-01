@@ -1,0 +1,7 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsExercise\StrongNumber\bin\Debug\StrongNumber.exe.config
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsExercise\StrongNumber\bin\Debug\StrongNumber.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsExercise\StrongNumber\bin\Debug\StrongNumber.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsExercise\StrongNumber\obj\Debug\StrongNumber.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsExercise\StrongNumber\obj\Debug\StrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsExercise\StrongNumber\obj\Debug\StrongNumber.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsExercise\StrongNumber\obj\Debug\StrongNumber.pdb

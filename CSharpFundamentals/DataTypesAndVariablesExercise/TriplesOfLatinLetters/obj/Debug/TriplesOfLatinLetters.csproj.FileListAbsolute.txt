@@ -1,0 +1,7 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.exe.config
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\TriplesOfLatinLetters\bin\Debug\TriplesOfLatinLetters.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\TriplesOfLatinLetters\obj\Debug\TriplesOfLatinLetters.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\TriplesOfLatinLetters\obj\Debug\TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\TriplesOfLatinLetters\obj\Debug\TriplesOfLatinLetters.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\TriplesOfLatinLetters\obj\Debug\TriplesOfLatinLetters.pdb

@@ -1,0 +1,7 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\SumOfChars\bin\Debug\SumOfChars.exe.config
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\SumOfChars\bin\Debug\SumOfChars.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\SumOfChars\bin\Debug\SumOfChars.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\SumOfChars\obj\Debug\SumOfChars.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\SumOfChars\obj\Debug\SumOfChars.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\SumOfChars\obj\Debug\SumOfChars.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\SumOfChars\obj\Debug\SumOfChars.pdb

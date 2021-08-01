@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\ArrayManipulator\bin\Debug\net5.0\ref\ArrayManipulator.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\ArrayManipulator\bin\Debug\net5.0\ArrayManipulator.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\ArrayManipulator\obj\Debug\net5.0\ref\ArrayManipulator.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\ArrayManipulator\obj\Debug\net5.0\ArrayManipulator.genruntimeconfig.cache

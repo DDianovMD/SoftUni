@@ -1,0 +1,7 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\BackIn30Minutes\bin\Debug\BackIn30Minutes.exe.config
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\BackIn30Minutes\bin\Debug\BackIn30Minutes.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\BackIn30Minutes\bin\Debug\BackIn30Minutes.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\BackIn30Minutes\obj\Debug\BackIn30Minutes.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\BackIn30Minutes\obj\Debug\BackIn30Minutes.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\BackIn30Minutes\obj\Debug\BackIn30Minutes.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsAndLoopsLab\BackIn30Minutes\obj\Debug\BackIn30Minutes.pdb

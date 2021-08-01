@@ -1,0 +1,15 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListOfProducts\bin\Debug\net5.0\ListOfProducts.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListOfProducts\bin\Debug\net5.0\ListOfProducts.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListOfProducts\bin\Debug\net5.0\ListOfProducts.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListOfProducts\bin\Debug\net5.0\ListOfProducts.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListOfProducts\bin\Debug\net5.0\ListOfProducts.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListOfProducts\bin\Debug\net5.0\ref\ListOfProducts.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListOfProducts\bin\Debug\net5.0\ListOfProducts.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListOfProducts\obj\Debug\net5.0\ListOfProducts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListOfProducts\obj\Debug\net5.0\ListOfProducts.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListOfProducts\obj\Debug\net5.0\ListOfProducts.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListOfProducts\obj\Debug\net5.0\ListOfProducts.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListOfProducts\obj\Debug\net5.0\ListOfProducts.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListOfProducts\obj\Debug\net5.0\ref\ListOfProducts.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListOfProducts\obj\Debug\net5.0\ListOfProducts.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListOfProducts\obj\Debug\net5.0\ListOfProducts.genruntimeconfig.cache

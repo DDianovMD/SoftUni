@@ -1,0 +1,7 @@
+C:\Users\ddian\source\repos\CSharpBasics\FirstStepsInCodingExercise\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe.config
+C:\Users\ddian\source\repos\CSharpBasics\FirstStepsInCodingExercise\RadiansToDegrees\bin\Debug\RadiansToDegrees.exe
+C:\Users\ddian\source\repos\CSharpBasics\FirstStepsInCodingExercise\RadiansToDegrees\bin\Debug\RadiansToDegrees.pdb
+C:\Users\ddian\source\repos\CSharpBasics\FirstStepsInCodingExercise\RadiansToDegrees\obj\Debug\RadiansToDegrees.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpBasics\FirstStepsInCodingExercise\RadiansToDegrees\obj\Debug\RadiansToDegrees.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpBasics\FirstStepsInCodingExercise\RadiansToDegrees\obj\Debug\RadiansToDegrees.exe
+C:\Users\ddian\source\repos\CSharpBasics\FirstStepsInCodingExercise\RadiansToDegrees\obj\Debug\RadiansToDegrees.pdb

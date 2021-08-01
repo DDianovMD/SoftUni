@@ -1,0 +1,15 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Orders\bin\Debug\net5.0\Orders.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Orders\bin\Debug\net5.0\Orders.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Orders\bin\Debug\net5.0\Orders.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Orders\bin\Debug\net5.0\Orders.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Orders\bin\Debug\net5.0\Orders.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Orders\bin\Debug\net5.0\ref\Orders.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Orders\bin\Debug\net5.0\Orders.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Orders\obj\Debug\net5.0\Orders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Orders\obj\Debug\net5.0\Orders.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Orders\obj\Debug\net5.0\Orders.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Orders\obj\Debug\net5.0\Orders.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Orders\obj\Debug\net5.0\Orders.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Orders\obj\Debug\net5.0\ref\Orders.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Orders\obj\Debug\net5.0\Orders.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Orders\obj\Debug\net5.0\Orders.genruntimeconfig.cache

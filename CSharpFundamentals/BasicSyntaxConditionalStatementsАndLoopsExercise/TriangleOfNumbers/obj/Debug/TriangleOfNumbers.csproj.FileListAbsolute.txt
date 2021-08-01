@@ -1,0 +1,7 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsExercise\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe.config
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsExercise\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsExercise\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsExercise\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsExercise\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsExercise\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsExercise\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.pdb

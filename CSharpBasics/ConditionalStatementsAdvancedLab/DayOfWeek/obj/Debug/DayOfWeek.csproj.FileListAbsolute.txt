@@ -1,0 +1,7 @@
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsAdvancedLab\DayOfWeek\bin\Debug\DayOfWeek.exe.config
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsAdvancedLab\DayOfWeek\bin\Debug\DayOfWeek.exe
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsAdvancedLab\DayOfWeek\bin\Debug\DayOfWeek.pdb
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsAdvancedLab\DayOfWeek\obj\Debug\DayOfWeek.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsAdvancedLab\DayOfWeek\obj\Debug\DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsAdvancedLab\DayOfWeek\obj\Debug\DayOfWeek.exe
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsAdvancedLab\DayOfWeek\obj\Debug\DayOfWeek.pdb

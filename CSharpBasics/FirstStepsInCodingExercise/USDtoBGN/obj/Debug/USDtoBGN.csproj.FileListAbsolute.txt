@@ -1,0 +1,7 @@
+C:\Users\ddian\source\repos\CSharpBasics\FirstStepsInCodingExercise\USDtoBGN\bin\Debug\USDtoBGN.exe.config
+C:\Users\ddian\source\repos\CSharpBasics\FirstStepsInCodingExercise\USDtoBGN\bin\Debug\USDtoBGN.exe
+C:\Users\ddian\source\repos\CSharpBasics\FirstStepsInCodingExercise\USDtoBGN\bin\Debug\USDtoBGN.pdb
+C:\Users\ddian\source\repos\CSharpBasics\FirstStepsInCodingExercise\USDtoBGN\obj\Debug\USDtoBGN.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpBasics\FirstStepsInCodingExercise\USDtoBGN\obj\Debug\USDtoBGN.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpBasics\FirstStepsInCodingExercise\USDtoBGN\obj\Debug\USDtoBGN.exe
+C:\Users\ddian\source\repos\CSharpBasics\FirstStepsInCodingExercise\USDtoBGN\obj\Debug\USDtoBGN.pdb

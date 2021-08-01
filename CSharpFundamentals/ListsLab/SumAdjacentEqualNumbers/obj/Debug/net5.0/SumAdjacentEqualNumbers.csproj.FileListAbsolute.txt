@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\SumAdjacentEqualNumbers\bin\Debug\net5.0\SumAdjacentEqualNumbers.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\SumAdjacentEqualNumbers\bin\Debug\net5.0\SumAdjacentEqualNumbers.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\SumAdjacentEqualNumbers\bin\Debug\net5.0\SumAdjacentEqualNumbers.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\SumAdjacentEqualNumbers\bin\Debug\net5.0\SumAdjacentEqualNumbers.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\SumAdjacentEqualNumbers\bin\Debug\net5.0\SumAdjacentEqualNumbers.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\SumAdjacentEqualNumbers\bin\Debug\net5.0\ref\SumAdjacentEqualNumbers.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\SumAdjacentEqualNumbers\bin\Debug\net5.0\SumAdjacentEqualNumbers.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\SumAdjacentEqualNumbers\obj\Debug\net5.0\SumAdjacentEqualNumbers.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\SumAdjacentEqualNumbers\obj\Debug\net5.0\SumAdjacentEqualNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\SumAdjacentEqualNumbers\obj\Debug\net5.0\SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\SumAdjacentEqualNumbers\obj\Debug\net5.0\SumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\SumAdjacentEqualNumbers\obj\Debug\net5.0\SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\SumAdjacentEqualNumbers\obj\Debug\net5.0\SumAdjacentEqualNumbers.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\SumAdjacentEqualNumbers\obj\Debug\net5.0\ref\SumAdjacentEqualNumbers.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\SumAdjacentEqualNumbers\obj\Debug\net5.0\SumAdjacentEqualNumbers.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\SumAdjacentEqualNumbers\obj\Debug\net5.0\SumAdjacentEqualNumbers.genruntimeconfig.cache

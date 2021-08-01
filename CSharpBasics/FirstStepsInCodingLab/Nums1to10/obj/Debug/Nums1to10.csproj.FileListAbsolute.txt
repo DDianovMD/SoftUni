@@ -1,0 +1,6 @@
+C:\Users\ddian\source\repos\CSharpBasics\Nums1to10\bin\Debug\Nums1to10.exe.config
+C:\Users\ddian\source\repos\CSharpBasics\Nums1to10\bin\Debug\Nums1to10.exe
+C:\Users\ddian\source\repos\CSharpBasics\Nums1to10\bin\Debug\Nums1to10.pdb
+C:\Users\ddian\source\repos\CSharpBasics\Nums1to10\obj\Debug\Nums1to10.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpBasics\Nums1to10\obj\Debug\Nums1to10.exe
+C:\Users\ddian\source\repos\CSharpBasics\Nums1to10\obj\Debug\Nums1to10.pdb

@@ -1,0 +1,7 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\BeerKegs\obj\Debug\BeerKegs.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\BeerKegs\obj\Debug\BeerKegs.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\BeerKegs\bin\Debug\BeerKegs.exe.config
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\BeerKegs\bin\Debug\BeerKegs.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\BeerKegs\bin\Debug\BeerKegs.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\BeerKegs\obj\Debug\BeerKegs.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\BeerKegs\obj\Debug\BeerKegs.pdb

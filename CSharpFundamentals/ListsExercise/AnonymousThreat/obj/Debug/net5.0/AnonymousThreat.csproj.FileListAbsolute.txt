@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AnonymousThreat\bin\Debug\net5.0\AnonymousThreat.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AnonymousThreat\bin\Debug\net5.0\AnonymousThreat.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AnonymousThreat\bin\Debug\net5.0\AnonymousThreat.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AnonymousThreat\bin\Debug\net5.0\AnonymousThreat.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AnonymousThreat\bin\Debug\net5.0\AnonymousThreat.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AnonymousThreat\bin\Debug\net5.0\ref\AnonymousThreat.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AnonymousThreat\bin\Debug\net5.0\AnonymousThreat.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AnonymousThreat\obj\Debug\net5.0\AnonymousThreat.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AnonymousThreat\obj\Debug\net5.0\AnonymousThreat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AnonymousThreat\obj\Debug\net5.0\AnonymousThreat.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AnonymousThreat\obj\Debug\net5.0\AnonymousThreat.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AnonymousThreat\obj\Debug\net5.0\AnonymousThreat.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AnonymousThreat\obj\Debug\net5.0\AnonymousThreat.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AnonymousThreat\obj\Debug\net5.0\ref\AnonymousThreat.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AnonymousThreat\obj\Debug\net5.0\AnonymousThreat.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AnonymousThreat\obj\Debug\net5.0\AnonymousThreat.genruntimeconfig.cache

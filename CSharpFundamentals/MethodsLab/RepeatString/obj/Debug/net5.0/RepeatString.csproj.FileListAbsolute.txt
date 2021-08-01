@@ -1,0 +1,15 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\RepeatString\obj\Debug\net5.0\RepeatString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\RepeatString\obj\Debug\net5.0\RepeatString.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\RepeatString\obj\Debug\net5.0\RepeatString.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\RepeatString\obj\Debug\net5.0\RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\RepeatString\bin\Debug\net5.0\RepeatString.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\RepeatString\bin\Debug\net5.0\RepeatString.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\RepeatString\bin\Debug\net5.0\RepeatString.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\RepeatString\bin\Debug\net5.0\RepeatString.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\RepeatString\bin\Debug\net5.0\RepeatString.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\RepeatString\bin\Debug\net5.0\ref\RepeatString.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\RepeatString\bin\Debug\net5.0\RepeatString.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\RepeatString\obj\Debug\net5.0\RepeatString.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\RepeatString\obj\Debug\net5.0\ref\RepeatString.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\RepeatString\obj\Debug\net5.0\RepeatString.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\RepeatString\obj\Debug\net5.0\RepeatString.genruntimeconfig.cache

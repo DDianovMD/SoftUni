@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\net5.0\ref\MaxSequenceOfEqualElements.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\net5.0\MaxSequenceOfEqualElements.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\ref\MaxSequenceOfEqualElements.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\net5.0\MaxSequenceOfEqualElements.genruntimeconfig.cache

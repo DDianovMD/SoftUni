@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListManipulationBasics\bin\Debug\net5.0\ref\ListManipulationBasics.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListManipulationBasics\obj\Debug\net5.0\ref\ListManipulationBasics.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.genruntimeconfig.cache

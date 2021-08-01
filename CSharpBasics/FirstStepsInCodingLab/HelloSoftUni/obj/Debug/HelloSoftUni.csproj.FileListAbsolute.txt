@@ -1,0 +1,6 @@
+C:\Users\ddian\source\repos\CSharpBasics\HelloSoftUni\bin\Debug\HelloSoftUni.exe.config
+C:\Users\ddian\source\repos\CSharpBasics\HelloSoftUni\bin\Debug\HelloSoftUni.exe
+C:\Users\ddian\source\repos\CSharpBasics\HelloSoftUni\bin\Debug\HelloSoftUni.pdb
+C:\Users\ddian\source\repos\CSharpBasics\HelloSoftUni\obj\Debug\HelloSoftUni.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpBasics\HelloSoftUni\obj\Debug\HelloSoftUni.exe
+C:\Users\ddian\source\repos\CSharpBasics\HelloSoftUni\obj\Debug\HelloSoftUni.pdb

@@ -1,0 +1,7 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsExercise\PadawanEquipment\bin\Debug\PadawanEquipment.exe.config
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsExercise\PadawanEquipment\bin\Debug\PadawanEquipment.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsExercise\PadawanEquipment\bin\Debug\PadawanEquipment.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsExercise\PadawanEquipment\obj\Debug\PadawanEquipment.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsExercise\PadawanEquipment\obj\Debug\PadawanEquipment.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsExercise\PadawanEquipment\obj\Debug\PadawanEquipment.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\BasicSyntaxConditionalStatementsАndLoopsExercise\PadawanEquipment\obj\Debug\PadawanEquipment.csprojAssemblyReference.cache

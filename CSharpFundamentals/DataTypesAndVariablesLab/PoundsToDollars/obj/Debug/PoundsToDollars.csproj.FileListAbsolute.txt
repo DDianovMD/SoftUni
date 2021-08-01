@@ -1,0 +1,7 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesLab\PoundsToDollars\bin\Debug\PoundsToDollars.exe.config
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesLab\PoundsToDollars\bin\Debug\PoundsToDollars.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesLab\PoundsToDollars\bin\Debug\PoundsToDollars.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesLab\PoundsToDollars\obj\Debug\PoundsToDollars.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesLab\PoundsToDollars\obj\Debug\PoundsToDollars.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesLab\PoundsToDollars\obj\Debug\PoundsToDollars.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesLab\PoundsToDollars\obj\Debug\PoundsToDollars.pdb

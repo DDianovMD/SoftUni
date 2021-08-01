@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AppendArrays\bin\Debug\net5.0\AppendArrays.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AppendArrays\bin\Debug\net5.0\AppendArrays.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AppendArrays\bin\Debug\net5.0\AppendArrays.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AppendArrays\bin\Debug\net5.0\AppendArrays.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AppendArrays\bin\Debug\net5.0\AppendArrays.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AppendArrays\bin\Debug\net5.0\ref\AppendArrays.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AppendArrays\bin\Debug\net5.0\AppendArrays.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AppendArrays\obj\Debug\net5.0\AppendArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AppendArrays\obj\Debug\net5.0\AppendArrays.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AppendArrays\obj\Debug\net5.0\AppendArrays.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AppendArrays\obj\Debug\net5.0\AppendArrays.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AppendArrays\obj\Debug\net5.0\AppendArrays.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AppendArrays\obj\Debug\net5.0\ref\AppendArrays.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AppendArrays\obj\Debug\net5.0\AppendArrays.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AppendArrays\obj\Debug\net5.0\AppendArrays.genruntimeconfig.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\AppendArrays\obj\Debug\net5.0\AppendArrays.csprojAssemblyReference.cache

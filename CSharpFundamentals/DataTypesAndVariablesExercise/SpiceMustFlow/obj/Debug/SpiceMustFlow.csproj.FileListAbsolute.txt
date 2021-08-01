@@ -1,0 +1,7 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\SpiceMustFlow\bin\Debug\SpiceMustFlow.exe.config
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\SpiceMustFlow\bin\Debug\SpiceMustFlow.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\SpiceMustFlow\bin\Debug\SpiceMustFlow.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\SpiceMustFlow\obj\Debug\SpiceMustFlow.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\SpiceMustFlow\obj\Debug\SpiceMustFlow.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\SpiceMustFlow\obj\Debug\SpiceMustFlow.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\SpiceMustFlow\obj\Debug\SpiceMustFlow.pdb

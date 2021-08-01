@@ -1,0 +1,15 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MagicSum\bin\Debug\net5.0\MagicSum.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MagicSum\bin\Debug\net5.0\MagicSum.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MagicSum\bin\Debug\net5.0\MagicSum.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MagicSum\bin\Debug\net5.0\MagicSum.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MagicSum\bin\Debug\net5.0\MagicSum.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MagicSum\bin\Debug\net5.0\ref\MagicSum.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MagicSum\bin\Debug\net5.0\MagicSum.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MagicSum\obj\Debug\net5.0\MagicSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MagicSum\obj\Debug\net5.0\MagicSum.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MagicSum\obj\Debug\net5.0\MagicSum.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MagicSum\obj\Debug\net5.0\MagicSum.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MagicSum\obj\Debug\net5.0\MagicSum.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MagicSum\obj\Debug\net5.0\ref\MagicSum.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MagicSum\obj\Debug\net5.0\MagicSum.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\MagicSum\obj\Debug\net5.0\MagicSum.genruntimeconfig.cache

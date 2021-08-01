@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ListOperation\bin\Debug\net5.0\ListOperation.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ListOperation\bin\Debug\net5.0\ListOperation.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ListOperation\bin\Debug\net5.0\ListOperation.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ListOperation\bin\Debug\net5.0\ListOperation.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ListOperation\bin\Debug\net5.0\ListOperation.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ListOperation\bin\Debug\net5.0\ref\ListOperation.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ListOperation\bin\Debug\net5.0\ListOperation.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ListOperation\obj\Debug\net5.0\ListOperation.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ListOperation\obj\Debug\net5.0\ListOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ListOperation\obj\Debug\net5.0\ListOperation.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ListOperation\obj\Debug\net5.0\ListOperation.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ListOperation\obj\Debug\net5.0\ListOperation.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ListOperation\obj\Debug\net5.0\ListOperation.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ListOperation\obj\Debug\net5.0\ref\ListOperation.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ListOperation\obj\Debug\net5.0\ListOperation.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ListOperation\obj\Debug\net5.0\ListOperation.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\TopNumber\bin\Debug\net5.0\TopNumber.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\TopNumber\bin\Debug\net5.0\TopNumber.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\TopNumber\bin\Debug\net5.0\TopNumber.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\TopNumber\bin\Debug\net5.0\TopNumber.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\TopNumber\bin\Debug\net5.0\TopNumber.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\TopNumber\bin\Debug\net5.0\ref\TopNumber.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\TopNumber\bin\Debug\net5.0\TopNumber.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\TopNumber\obj\Debug\net5.0\TopNumber.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\TopNumber\obj\Debug\net5.0\TopNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\TopNumber\obj\Debug\net5.0\TopNumber.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\TopNumber\obj\Debug\net5.0\TopNumber.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\TopNumber\obj\Debug\net5.0\TopNumber.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\TopNumber\obj\Debug\net5.0\TopNumber.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\TopNumber\obj\Debug\net5.0\ref\TopNumber.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\TopNumber\obj\Debug\net5.0\TopNumber.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\TopNumber\obj\Debug\net5.0\TopNumber.genruntimeconfig.cache

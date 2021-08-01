@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ChangeList\obj\Debug\net5.0\ChangeList.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ChangeList\obj\Debug\net5.0\ChangeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ChangeList\obj\Debug\net5.0\ChangeList.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ChangeList\obj\Debug\net5.0\ChangeList.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ChangeList\obj\Debug\net5.0\ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ChangeList\bin\Debug\net5.0\ChangeList.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ChangeList\bin\Debug\net5.0\ChangeList.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ChangeList\bin\Debug\net5.0\ChangeList.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ChangeList\bin\Debug\net5.0\ChangeList.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ChangeList\bin\Debug\net5.0\ChangeList.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ChangeList\bin\Debug\net5.0\ref\ChangeList.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ChangeList\bin\Debug\net5.0\ChangeList.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ChangeList\obj\Debug\net5.0\ChangeList.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ChangeList\obj\Debug\net5.0\ref\ChangeList.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ChangeList\obj\Debug\net5.0\ChangeList.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\ChangeList\obj\Debug\net5.0\ChangeList.genruntimeconfig.cache

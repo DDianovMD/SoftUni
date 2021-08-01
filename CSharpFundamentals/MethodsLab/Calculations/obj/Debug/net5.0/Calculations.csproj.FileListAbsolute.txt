@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Calculations\bin\Debug\net5.0\Calculations.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Calculations\bin\Debug\net5.0\Calculations.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Calculations\bin\Debug\net5.0\Calculations.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Calculations\bin\Debug\net5.0\Calculations.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Calculations\bin\Debug\net5.0\Calculations.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Calculations\bin\Debug\net5.0\ref\Calculations.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Calculations\bin\Debug\net5.0\Calculations.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Calculations\obj\Debug\net5.0\Calculations.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Calculations\obj\Debug\net5.0\Calculations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Calculations\obj\Debug\net5.0\Calculations.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Calculations\obj\Debug\net5.0\Calculations.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Calculations\obj\Debug\net5.0\Calculations.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Calculations\obj\Debug\net5.0\Calculations.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Calculations\obj\Debug\net5.0\ref\Calculations.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Calculations\obj\Debug\net5.0\Calculations.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\Calculations\obj\Debug\net5.0\Calculations.genruntimeconfig.cache

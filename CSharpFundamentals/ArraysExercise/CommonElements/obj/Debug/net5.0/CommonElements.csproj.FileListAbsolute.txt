@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\CommonElements\bin\Debug\net5.0\ref\CommonElements.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\CommonElements\bin\Debug\net5.0\CommonElements.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\CommonElements\obj\Debug\net5.0\ref\CommonElements.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ArraysExercise\CommonElements\obj\Debug\net5.0\CommonElements.genruntimeconfig.cache

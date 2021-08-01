@@ -1,0 +1,15 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\CardsGame\bin\Debug\net5.0\CardsGame.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\CardsGame\bin\Debug\net5.0\CardsGame.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\CardsGame\bin\Debug\net5.0\CardsGame.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\CardsGame\bin\Debug\net5.0\CardsGame.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\CardsGame\bin\Debug\net5.0\CardsGame.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\CardsGame\bin\Debug\net5.0\ref\CardsGame.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\CardsGame\bin\Debug\net5.0\CardsGame.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\CardsGame\obj\Debug\net5.0\CardsGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\CardsGame\obj\Debug\net5.0\CardsGame.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\CardsGame\obj\Debug\net5.0\CardsGame.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\CardsGame\obj\Debug\net5.0\CardsGame.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\CardsGame\obj\Debug\net5.0\CardsGame.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\CardsGame\obj\Debug\net5.0\ref\CardsGame.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\CardsGame\obj\Debug\net5.0\CardsGame.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\CardsGame\obj\Debug\net5.0\CardsGame.genruntimeconfig.cache

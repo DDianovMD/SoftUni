@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\Gaus'sTrick\bin\Debug\net5.0\Gaus'sTrick.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\Gaus'sTrick\bin\Debug\net5.0\Gaus'sTrick.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\Gaus'sTrick\bin\Debug\net5.0\Gaus'sTrick.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\Gaus'sTrick\bin\Debug\net5.0\Gaus'sTrick.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\Gaus'sTrick\bin\Debug\net5.0\Gaus'sTrick.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\Gaus'sTrick\bin\Debug\net5.0\ref\Gaus'sTrick.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\Gaus'sTrick\bin\Debug\net5.0\Gaus'sTrick.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\Gaus'sTrick\obj\Debug\net5.0\Gaus'sTrick.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\Gaus'sTrick\obj\Debug\net5.0\Gaus'sTrick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\Gaus'sTrick\obj\Debug\net5.0\Gaus'sTrick.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\Gaus'sTrick\obj\Debug\net5.0\Gaus'sTrick.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\Gaus'sTrick\obj\Debug\net5.0\Gaus'sTrick.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\Gaus'sTrick\obj\Debug\net5.0\Gaus'sTrick.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\Gaus'sTrick\obj\Debug\net5.0\ref\Gaus'sTrick.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\Gaus'sTrick\obj\Debug\net5.0\Gaus'sTrick.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\Gaus'sTrick\obj\Debug\net5.0\Gaus'sTrick.genruntimeconfig.cache

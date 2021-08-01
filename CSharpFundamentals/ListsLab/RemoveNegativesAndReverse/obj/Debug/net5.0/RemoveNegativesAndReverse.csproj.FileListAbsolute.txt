@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\RemoveNegativesAndReverse\bin\Debug\net5.0\RemoveNegativesAndReverse.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\RemoveNegativesAndReverse\bin\Debug\net5.0\RemoveNegativesAndReverse.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\RemoveNegativesAndReverse\bin\Debug\net5.0\RemoveNegativesAndReverse.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\RemoveNegativesAndReverse\bin\Debug\net5.0\RemoveNegativesAndReverse.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\RemoveNegativesAndReverse\bin\Debug\net5.0\RemoveNegativesAndReverse.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\RemoveNegativesAndReverse\bin\Debug\net5.0\ref\RemoveNegativesAndReverse.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\RemoveNegativesAndReverse\bin\Debug\net5.0\RemoveNegativesAndReverse.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\RemoveNegativesAndReverse\obj\Debug\net5.0\ref\RemoveNegativesAndReverse.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsLab\ListsLab\RemoveNegativesAndReverse\obj\Debug\net5.0\RemoveNegativesAndReverse.genruntimeconfig.cache

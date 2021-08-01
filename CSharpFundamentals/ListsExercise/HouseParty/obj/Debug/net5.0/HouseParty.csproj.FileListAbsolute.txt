@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\HouseParty\bin\Debug\net5.0\HouseParty.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\HouseParty\bin\Debug\net5.0\HouseParty.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\HouseParty\bin\Debug\net5.0\HouseParty.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\HouseParty\bin\Debug\net5.0\HouseParty.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\HouseParty\bin\Debug\net5.0\HouseParty.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\HouseParty\bin\Debug\net5.0\ref\HouseParty.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\HouseParty\bin\Debug\net5.0\HouseParty.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\HouseParty\obj\Debug\net5.0\HouseParty.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\HouseParty\obj\Debug\net5.0\HouseParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\HouseParty\obj\Debug\net5.0\HouseParty.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\HouseParty\obj\Debug\net5.0\HouseParty.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\HouseParty\obj\Debug\net5.0\HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\HouseParty\obj\Debug\net5.0\HouseParty.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\HouseParty\obj\Debug\net5.0\ref\HouseParty.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\HouseParty\obj\Debug\net5.0\HouseParty.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\ListsExercise\HouseParty\obj\Debug\net5.0\HouseParty.genruntimeconfig.cache

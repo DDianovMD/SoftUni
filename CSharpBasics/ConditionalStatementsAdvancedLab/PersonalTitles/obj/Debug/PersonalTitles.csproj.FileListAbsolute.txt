@@ -1,0 +1,6 @@
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsAdvancedLab\PersonalTitles\bin\Debug\PersonalTitles.exe.config
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsAdvancedLab\PersonalTitles\bin\Debug\PersonalTitles.exe
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsAdvancedLab\PersonalTitles\bin\Debug\PersonalTitles.pdb
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsAdvancedLab\PersonalTitles\obj\Debug\PersonalTitles.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsAdvancedLab\PersonalTitles\obj\Debug\PersonalTitles.exe
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsAdvancedLab\PersonalTitles\obj\Debug\PersonalTitles.pdb

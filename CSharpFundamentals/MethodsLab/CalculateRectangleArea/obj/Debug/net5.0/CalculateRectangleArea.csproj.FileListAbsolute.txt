@@ -1,0 +1,15 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\CalculateRectangleArea\bin\Debug\net5.0\ref\CalculateRectangleArea.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\CalculateRectangleArea\bin\Debug\net5.0\CalculateRectangleArea.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\CalculateRectangleArea\obj\Debug\net5.0\ref\CalculateRectangleArea.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsLab\CalculateRectangleArea\obj\Debug\net5.0\CalculateRectangleArea.genruntimeconfig.cache

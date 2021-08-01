@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\SmallestOfThreeNumbers\bin\Debug\net5.0\SmallestOfThreeNumbers.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\SmallestOfThreeNumbers\bin\Debug\net5.0\SmallestOfThreeNumbers.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\SmallestOfThreeNumbers\bin\Debug\net5.0\SmallestOfThreeNumbers.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\SmallestOfThreeNumbers\bin\Debug\net5.0\SmallestOfThreeNumbers.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\SmallestOfThreeNumbers\bin\Debug\net5.0\SmallestOfThreeNumbers.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\SmallestOfThreeNumbers\bin\Debug\net5.0\ref\SmallestOfThreeNumbers.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\SmallestOfThreeNumbers\bin\Debug\net5.0\SmallestOfThreeNumbers.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\SmallestOfThreeNumbers\obj\Debug\net5.0\SmallestOfThreeNumbers.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\SmallestOfThreeNumbers\obj\Debug\net5.0\SmallestOfThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\SmallestOfThreeNumbers\obj\Debug\net5.0\SmallestOfThreeNumbers.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\SmallestOfThreeNumbers\obj\Debug\net5.0\SmallestOfThreeNumbers.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\SmallestOfThreeNumbers\obj\Debug\net5.0\SmallestOfThreeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\SmallestOfThreeNumbers\obj\Debug\net5.0\SmallestOfThreeNumbers.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\SmallestOfThreeNumbers\obj\Debug\net5.0\ref\SmallestOfThreeNumbers.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\SmallestOfThreeNumbers\obj\Debug\net5.0\SmallestOfThreeNumbers.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\SmallestOfThreeNumbers\obj\Debug\net5.0\SmallestOfThreeNumbers.genruntimeconfig.cache

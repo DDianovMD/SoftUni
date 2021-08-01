@@ -1,0 +1,6 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\WaterOverflow\bin\Debug\WaterOverflow.exe.config
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\WaterOverflow\bin\Debug\WaterOverflow.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\WaterOverflow\bin\Debug\WaterOverflow.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\WaterOverflow\obj\Debug\WaterOverflow.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\WaterOverflow\obj\Debug\WaterOverflow.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesExercise\WaterOverflow\obj\Debug\WaterOverflow.pdb

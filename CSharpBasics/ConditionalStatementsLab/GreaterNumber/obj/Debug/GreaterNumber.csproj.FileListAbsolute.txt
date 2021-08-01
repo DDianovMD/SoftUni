@@ -1,0 +1,7 @@
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsLab\GreaterNumber\bin\Debug\GreaterNumber.exe.config
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsLab\GreaterNumber\bin\Debug\GreaterNumber.exe
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsLab\GreaterNumber\bin\Debug\GreaterNumber.pdb
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsLab\GreaterNumber\obj\Debug\GreaterNumber.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsLab\GreaterNumber\obj\Debug\GreaterNumber.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsLab\GreaterNumber\obj\Debug\GreaterNumber.exe
+C:\Users\ddian\source\repos\CSharpBasics\ConditionalStatementsLab\GreaterNumber\obj\Debug\GreaterNumber.pdb

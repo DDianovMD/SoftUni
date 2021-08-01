@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.AssemblyInfo.cs
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.exe
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.deps.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.runtimeconfig.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\PalindromeIntegers\bin\Debug\net5.0\ref\PalindromeIntegers.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\PalindromeIntegers\bin\Debug\net5.0\PalindromeIntegers.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\ref\PalindromeIntegers.dll
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.pdb
+C:\Users\ddian\source\repos\CSharpFundamentals\MethodsExercise\PalindromeIntegers\obj\Debug\net5.0\PalindromeIntegers.genruntimeconfig.cache
