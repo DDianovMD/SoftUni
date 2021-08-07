@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2tkXs5dtODK+8MHE7mu8iTuL22JxuPGKme82y6s/RFNyrAgKNXyWsC8OE2Nxzb9clJLyot5AzoZJgtJPKJfo5Q==",
+  "dgSpecHash": "XlHOvmygI0SZ22Af/CTo2KORAhuiF4+TCavZcqOTjqYRMcf/SsNuCCwnFfnCKzdkvoXoKs9YNyctxl+dodCeRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysExercise\\MaxSequenceOfEqualElements\\MaxSequenceOfEqualElements.csproj",
+  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysExercise\\MaxSequenceOfEqualElements\\MaxSequenceOfEqualElements.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

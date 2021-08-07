@@ -113,7 +113,7 @@ namespace KaminoFactory
                         }
                         if (currentSum == bestSum && currentSum == 0)
                         {
-                            bestSampleCounter = sampleCounter;
+                            bestSampleCounter = 1;
                         }
                     }
                 }

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysExercise\\EqualSums\\EqualSums.csproj",
+      "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysExercise\\EqualSums\\EqualSums.csproj",
       "projectName": "EqualSums",
-      "projectPath": "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysExercise\\EqualSums\\EqualSums.csproj",
+      "projectPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysExercise\\EqualSums\\EqualSums.csproj",
       "packagesPath": "C:\\Users\\ddian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysExercise\\EqualSums\\obj\\",
+      "outputPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysExercise\\EqualSums\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

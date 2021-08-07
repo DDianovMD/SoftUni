@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4av9JqjaL67YGmNGpFoAja/pKnHkrpU0yd/PCE6ifE0nYoOZLv8vC+E43Eu6S/ef9d4vrnVNd2Rxwmo5JP4HeQ==",
+  "dgSpecHash": "K1l3h9jzlZYctaxPs+u+Xe4cYixgKe1HHlwTt+aJVymLcgSFYJ5T8qtyP11hFIZI4zSq8z5wyP+XiOcqKJSZpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysExercise\\EqualSums\\EqualSums.csproj",
+  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysExercise\\EqualSums\\EqualSums.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

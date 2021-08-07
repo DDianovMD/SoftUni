@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysExercise\\MagicSum\\MagicSum.csproj",
+      "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysExercise\\MagicSum\\MagicSum.csproj",
       "projectName": "MagicSum",
-      "projectPath": "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysExercise\\MagicSum\\MagicSum.csproj",
+      "projectPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysExercise\\MagicSum\\MagicSum.csproj",
       "packagesPath": "C:\\Users\\ddian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysExercise\\MagicSum\\obj\\",
+      "outputPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysExercise\\MagicSum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

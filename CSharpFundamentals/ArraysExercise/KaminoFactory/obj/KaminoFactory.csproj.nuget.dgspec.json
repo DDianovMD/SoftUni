@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysExercise\\KaminoFactory\\KaminoFactory.csproj": {}
+    "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysExercise\\KaminoFactory\\KaminoFactory.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysExercise\\KaminoFactory\\KaminoFactory.csproj": {
+    "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysExercise\\KaminoFactory\\KaminoFactory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysExercise\\KaminoFactory\\KaminoFactory.csproj",
+        "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysExercise\\KaminoFactory\\KaminoFactory.csproj",
         "projectName": "KaminoFactory",
-        "projectPath": "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysExercise\\KaminoFactory\\KaminoFactory.csproj",
+        "projectPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysExercise\\KaminoFactory\\KaminoFactory.csproj",
         "packagesPath": "C:\\Users\\ddian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysExercise\\KaminoFactory\\obj\\",
+        "outputPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysExercise\\KaminoFactory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
