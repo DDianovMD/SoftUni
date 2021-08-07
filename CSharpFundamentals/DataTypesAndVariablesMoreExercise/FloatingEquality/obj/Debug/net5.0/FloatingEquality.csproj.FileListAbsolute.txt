@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FloatingEquality\bin\Debug\net5.0\FloatingEquality.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FloatingEquality\bin\Debug\net5.0\FloatingEquality.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FloatingEquality\bin\Debug\net5.0\FloatingEquality.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FloatingEquality\bin\Debug\net5.0\FloatingEquality.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FloatingEquality\bin\Debug\net5.0\FloatingEquality.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FloatingEquality\bin\Debug\net5.0\ref\FloatingEquality.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FloatingEquality\bin\Debug\net5.0\FloatingEquality.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FloatingEquality\obj\Debug\net5.0\FloatingEquality.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FloatingEquality\obj\Debug\net5.0\FloatingEquality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FloatingEquality\obj\Debug\net5.0\FloatingEquality.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FloatingEquality\obj\Debug\net5.0\FloatingEquality.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FloatingEquality\obj\Debug\net5.0\FloatingEquality.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FloatingEquality\obj\Debug\net5.0\FloatingEquality.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FloatingEquality\obj\Debug\net5.0\ref\FloatingEquality.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FloatingEquality\obj\Debug\net5.0\FloatingEquality.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FloatingEquality\obj\Debug\net5.0\FloatingEquality.genruntimeconfig.cache
