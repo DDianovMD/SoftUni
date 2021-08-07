@@ -1,0 +1,15 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\DecryptingMessages\bin\Debug\net5.0\DecryptingMessages.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\DecryptingMessages\bin\Debug\net5.0\DecryptingMessages.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\DecryptingMessages\bin\Debug\net5.0\DecryptingMessages.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\DecryptingMessages\bin\Debug\net5.0\DecryptingMessages.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\DecryptingMessages\bin\Debug\net5.0\DecryptingMessages.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\DecryptingMessages\bin\Debug\net5.0\ref\DecryptingMessages.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\DecryptingMessages\bin\Debug\net5.0\DecryptingMessages.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\DecryptingMessages\obj\Debug\net5.0\DecryptingMessages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\DecryptingMessages\obj\Debug\net5.0\DecryptingMessages.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\DecryptingMessages\obj\Debug\net5.0\DecryptingMessages.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\DecryptingMessages\obj\Debug\net5.0\DecryptingMessages.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\DecryptingMessages\obj\Debug\net5.0\DecryptingMessages.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\DecryptingMessages\obj\Debug\net5.0\ref\DecryptingMessages.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\DecryptingMessages\obj\Debug\net5.0\DecryptingMessages.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\DecryptingMessages\obj\Debug\net5.0\DecryptingMessages.genruntimeconfig.cache
