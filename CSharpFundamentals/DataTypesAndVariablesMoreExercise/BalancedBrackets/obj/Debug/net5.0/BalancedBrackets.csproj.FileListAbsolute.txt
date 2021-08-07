@@ -1,0 +1,15 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\BalancedBrackets\bin\Debug\net5.0\BalancedBrackets.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\BalancedBrackets\bin\Debug\net5.0\BalancedBrackets.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\BalancedBrackets\bin\Debug\net5.0\BalancedBrackets.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\BalancedBrackets\bin\Debug\net5.0\BalancedBrackets.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\BalancedBrackets\bin\Debug\net5.0\BalancedBrackets.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\BalancedBrackets\bin\Debug\net5.0\ref\BalancedBrackets.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\BalancedBrackets\bin\Debug\net5.0\BalancedBrackets.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\BalancedBrackets\obj\Debug\net5.0\BalancedBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\BalancedBrackets\obj\Debug\net5.0\BalancedBrackets.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\BalancedBrackets\obj\Debug\net5.0\BalancedBrackets.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\BalancedBrackets\obj\Debug\net5.0\BalancedBrackets.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\BalancedBrackets\obj\Debug\net5.0\BalancedBrackets.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\BalancedBrackets\obj\Debug\net5.0\ref\BalancedBrackets.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\BalancedBrackets\obj\Debug\net5.0\BalancedBrackets.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\BalancedBrackets\obj\Debug\net5.0\BalancedBrackets.genruntimeconfig.cache
