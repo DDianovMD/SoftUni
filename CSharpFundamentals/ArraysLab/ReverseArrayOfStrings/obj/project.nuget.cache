@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4a3PuIG543fC+HTZ1PW8kbVH82KZoThzuCy/x/5uGCK0Z/IQxE9Gd7neSY8UIf+ol29X+fSM6iAvY9r56KAcsQ==",
+  "dgSpecHash": "r7/De7dsBerL+nDp6jeoPbNMHnl6Z4PoUwZlk21cL+nyyKj0Ig6kXp2afdxZvsJEk92Go53G55X6gdopkobcKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysLab\\ReverseArrayOfStrings\\ReverseArrayOfStrings.csproj",
+  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysLab\\ReverseArrayOfStrings\\ReverseArrayOfStrings.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LKdZYCC/9282F2lwMd51GXnbWMrDp9cCJYiXueMoZcH6SdJqyPDYIwzsBnfd6GQFaF1qK1HXbTLjCXww/vAjKw==",
+  "dgSpecHash": "9Zmm7Pq7tknEBvA+lD+6o4dvn8VZMB7UbYDEDhMRnhTwlUBS5ZAKMoEVBFaRQZC4VLSOakN97eSt7C4skkg91g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysLab\\CondenseArrayToNumber\\CondenseArrayToNumber.csproj",
+  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysLab\\CondenseArrayToNumber\\CondenseArrayToNumber.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

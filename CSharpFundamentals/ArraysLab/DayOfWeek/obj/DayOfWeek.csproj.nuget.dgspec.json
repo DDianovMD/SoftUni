@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysLab\\DayOfWeek\\DayOfWeek.csproj": {}
+    "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysLab\\DayOfWeek\\DayOfWeek.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysLab\\DayOfWeek\\DayOfWeek.csproj": {
+    "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysLab\\DayOfWeek\\DayOfWeek.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysLab\\DayOfWeek\\DayOfWeek.csproj",
+        "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysLab\\DayOfWeek\\DayOfWeek.csproj",
         "projectName": "DayOfWeek",
-        "projectPath": "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysLab\\DayOfWeek\\DayOfWeek.csproj",
+        "projectPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysLab\\DayOfWeek\\DayOfWeek.csproj",
         "packagesPath": "C:\\Users\\ddian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysLab\\DayOfWeek\\obj\\",
+        "outputPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysLab\\DayOfWeek\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

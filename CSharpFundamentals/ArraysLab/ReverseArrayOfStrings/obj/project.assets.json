@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysLab\\ReverseArrayOfStrings\\ReverseArrayOfStrings.csproj",
+      "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysLab\\ReverseArrayOfStrings\\ReverseArrayOfStrings.csproj",
       "projectName": "ReverseArrayOfStrings",
-      "projectPath": "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysLab\\ReverseArrayOfStrings\\ReverseArrayOfStrings.csproj",
+      "projectPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysLab\\ReverseArrayOfStrings\\ReverseArrayOfStrings.csproj",
       "packagesPath": "C:\\Users\\ddian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ArraysLab\\ReverseArrayOfStrings\\obj\\",
+      "outputPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ArraysLab\\ReverseArrayOfStrings\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
