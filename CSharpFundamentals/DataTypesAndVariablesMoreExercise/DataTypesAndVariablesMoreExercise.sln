@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FromLeftToTheRight", "FromL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FloatingEquality", "FloatingEquality\FloatingEquality.csproj", "{C6B98271-7435-4671-B503-BA1544D19DB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactoringPrimeChecker", "RefactoringPrimeChecker\RefactoringPrimeChecker.csproj", "{916F5E1F-A15F-400E-BEA2-6B1A3B9660F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C6B98271-7435-4671-B503-BA1544D19DB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6B98271-7435-4671-B503-BA1544D19DB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6B98271-7435-4671-B503-BA1544D19DB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{916F5E1F-A15F-400E-BEA2-6B1A3B9660F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{916F5E1F-A15F-400E-BEA2-6B1A3B9660F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{916F5E1F-A15F-400E-BEA2-6B1A3B9660F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{916F5E1F-A15F-400E-BEA2-6B1A3B9660F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

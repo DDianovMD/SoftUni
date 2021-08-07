@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\RefactoringPrimeChecker\bin\Debug\net5.0\RefactoringPrimeChecker.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\RefactoringPrimeChecker\bin\Debug\net5.0\RefactoringPrimeChecker.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\RefactoringPrimeChecker\bin\Debug\net5.0\RefactoringPrimeChecker.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\RefactoringPrimeChecker\bin\Debug\net5.0\RefactoringPrimeChecker.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\RefactoringPrimeChecker\bin\Debug\net5.0\RefactoringPrimeChecker.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\RefactoringPrimeChecker\bin\Debug\net5.0\ref\RefactoringPrimeChecker.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\RefactoringPrimeChecker\bin\Debug\net5.0\RefactoringPrimeChecker.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\RefactoringPrimeChecker\obj\Debug\net5.0\RefactoringPrimeChecker.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\RefactoringPrimeChecker\obj\Debug\net5.0\RefactoringPrimeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\RefactoringPrimeChecker\obj\Debug\net5.0\RefactoringPrimeChecker.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\RefactoringPrimeChecker\obj\Debug\net5.0\RefactoringPrimeChecker.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\RefactoringPrimeChecker\obj\Debug\net5.0\RefactoringPrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\RefactoringPrimeChecker\obj\Debug\net5.0\RefactoringPrimeChecker.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\RefactoringPrimeChecker\obj\Debug\net5.0\ref\RefactoringPrimeChecker.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\RefactoringPrimeChecker\obj\Debug\net5.0\RefactoringPrimeChecker.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\RefactoringPrimeChecker\obj\Debug\net5.0\RefactoringPrimeChecker.genruntimeconfig.cache
