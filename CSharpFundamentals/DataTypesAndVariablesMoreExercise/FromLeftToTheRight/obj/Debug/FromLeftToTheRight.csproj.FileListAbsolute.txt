@@ -12,3 +12,10 @@ C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesMoreExercise
 C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FromLeftToTheRight\obj\Debug\FromLeftToTheRight.csproj.CoreCompileInputs.cache
 C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FromLeftToTheRight\obj\Debug\FromLeftToTheRight.exe
 C:\Users\ddian\source\repos\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FromLeftToTheRight\obj\Debug\FromLeftToTheRight.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FromLeftToTheRight\obj\Debug\FromLeftToTheRight.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FromLeftToTheRight\obj\Debug\FromLeftToTheRight.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FromLeftToTheRight\obj\Debug\FromLeftToTheRight.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FromLeftToTheRight\obj\Debug\FromLeftToTheRight.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FromLeftToTheRight\bin\Debug\FromLeftToTheRight.exe.config
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FromLeftToTheRight\bin\Debug\FromLeftToTheRight.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\DataTypesAndVariablesMoreExercise\FromLeftToTheRight\bin\Debug\FromLeftToTheRight.pdb
