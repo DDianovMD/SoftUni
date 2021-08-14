@@ -26,7 +26,16 @@ namespace EncryptSortAndPrintArray
                 currentName = names[i];
                 for (int j = 0; j < currentName.Length; j++)
                 {
-                    if (currentName[j] == 'a' || currentName[j] == 'e' || currentName[j] == 'i' || currentName[j] == 'o' || currentName[j] == 'u')
+                    if (currentName[j] == 'a' ||
+                        currentName[j] == 'e' ||
+                        currentName[j] == 'i' ||
+                        currentName[j] == 'o' ||
+                        currentName[j] == 'u' ||
+                        currentName[j] == 'A' ||
+                        currentName[j] == 'E' ||
+                        currentName[j] == 'I' ||
+                        currentName[j] == 'O' ||
+                        currentName[j] == 'U')
                     {
                         encryptedNumber += (int)currentName[j] * currentName.Length;
                     }
