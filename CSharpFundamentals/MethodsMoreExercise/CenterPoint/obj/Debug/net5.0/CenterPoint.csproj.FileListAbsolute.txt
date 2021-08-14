@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\CenterPoint\bin\Debug\net5.0\CenterPoint.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\CenterPoint\bin\Debug\net5.0\CenterPoint.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\CenterPoint\bin\Debug\net5.0\CenterPoint.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\CenterPoint\bin\Debug\net5.0\CenterPoint.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\CenterPoint\bin\Debug\net5.0\CenterPoint.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\CenterPoint\bin\Debug\net5.0\ref\CenterPoint.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\CenterPoint\bin\Debug\net5.0\CenterPoint.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\CenterPoint\obj\Debug\net5.0\CenterPoint.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\CenterPoint\obj\Debug\net5.0\CenterPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\CenterPoint\obj\Debug\net5.0\CenterPoint.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\CenterPoint\obj\Debug\net5.0\CenterPoint.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\CenterPoint\obj\Debug\net5.0\CenterPoint.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\CenterPoint\obj\Debug\net5.0\CenterPoint.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\CenterPoint\obj\Debug\net5.0\ref\CenterPoint.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\CenterPoint\obj\Debug\net5.0\CenterPoint.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\CenterPoint\obj\Debug\net5.0\CenterPoint.genruntimeconfig.cache
