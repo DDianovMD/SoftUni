@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\DataTypes\bin\Debug\net5.0\DataTypes.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\DataTypes\bin\Debug\net5.0\DataTypes.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\DataTypes\bin\Debug\net5.0\DataTypes.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\DataTypes\bin\Debug\net5.0\DataTypes.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\DataTypes\bin\Debug\net5.0\DataTypes.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\DataTypes\bin\Debug\net5.0\ref\DataTypes.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\DataTypes\bin\Debug\net5.0\DataTypes.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\DataTypes\obj\Debug\net5.0\DataTypes.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\DataTypes\obj\Debug\net5.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\DataTypes\obj\Debug\net5.0\DataTypes.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\DataTypes\obj\Debug\net5.0\DataTypes.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\DataTypes\obj\Debug\net5.0\DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\DataTypes\obj\Debug\net5.0\DataTypes.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\DataTypes\obj\Debug\net5.0\ref\DataTypes.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\DataTypes\obj\Debug\net5.0\DataTypes.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\MethodsMoreExercise\DataTypes\obj\Debug\net5.0\DataTypes.genruntimeconfig.cache
