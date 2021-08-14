@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\RecursiveFibonacci\bin\Debug\net5.0\RecursiveFibonacci.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\RecursiveFibonacci\bin\Debug\net5.0\RecursiveFibonacci.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\RecursiveFibonacci\bin\Debug\net5.0\RecursiveFibonacci.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\RecursiveFibonacci\bin\Debug\net5.0\RecursiveFibonacci.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\RecursiveFibonacci\bin\Debug\net5.0\RecursiveFibonacci.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\RecursiveFibonacci\bin\Debug\net5.0\ref\RecursiveFibonacci.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\RecursiveFibonacci\bin\Debug\net5.0\RecursiveFibonacci.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\RecursiveFibonacci\obj\Debug\net5.0\RecursiveFibonacci.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\RecursiveFibonacci\obj\Debug\net5.0\RecursiveFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\RecursiveFibonacci\obj\Debug\net5.0\RecursiveFibonacci.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\RecursiveFibonacci\obj\Debug\net5.0\RecursiveFibonacci.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\RecursiveFibonacci\obj\Debug\net5.0\RecursiveFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\RecursiveFibonacci\obj\Debug\net5.0\RecursiveFibonacci.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\RecursiveFibonacci\obj\Debug\net5.0\ref\RecursiveFibonacci.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\RecursiveFibonacci\obj\Debug\net5.0\RecursiveFibonacci.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\RecursiveFibonacci\obj\Debug\net5.0\RecursiveFibonacci.genruntimeconfig.cache

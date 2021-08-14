@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptSortAndPrintArray", "EncryptSortAndPrintArray\EncryptSortAndPrintArray.csproj", "{4B6952F2-835A-4711-80CF-0B794083AAEF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EncryptSortAndPrintArray", "EncryptSortAndPrintArray\EncryptSortAndPrintArray.csproj", "{4B6952F2-835A-4711-80CF-0B794083AAEF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PascalTriangle", "PascalTriangle\PascalTriangle.csproj", "{ACD17E0E-7158-461C-AF99-9B11E249040D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PascalTriangle", "PascalTriangle\PascalTriangle.csproj", "{ACD17E0E-7158-461C-AF99-9B11E249040D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursiveFibonacci", "RecursiveFibonacci\RecursiveFibonacci.csproj", "{B00F73B2-1369-475F-8087-E7EDC2818B70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{ACD17E0E-7158-461C-AF99-9B11E249040D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACD17E0E-7158-461C-AF99-9B11E249040D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACD17E0E-7158-461C-AF99-9B11E249040D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B00F73B2-1369-475F-8087-E7EDC2818B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B00F73B2-1369-475F-8087-E7EDC2818B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B00F73B2-1369-475F-8087-E7EDC2818B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B00F73B2-1369-475F-8087-E7EDC2818B70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
