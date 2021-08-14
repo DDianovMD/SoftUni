@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\EncryptSortAndPrintArray\bin\Debug\net5.0\EncryptSortAndPrintArray.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\EncryptSortAndPrintArray\bin\Debug\net5.0\EncryptSortAndPrintArray.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\EncryptSortAndPrintArray\bin\Debug\net5.0\EncryptSortAndPrintArray.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\EncryptSortAndPrintArray\bin\Debug\net5.0\EncryptSortAndPrintArray.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\EncryptSortAndPrintArray\bin\Debug\net5.0\EncryptSortAndPrintArray.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\EncryptSortAndPrintArray\bin\Debug\net5.0\ref\EncryptSortAndPrintArray.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\EncryptSortAndPrintArray\bin\Debug\net5.0\EncryptSortAndPrintArray.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\EncryptSortAndPrintArray\obj\Debug\net5.0\ref\EncryptSortAndPrintArray.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\EncryptSortAndPrintArray\obj\Debug\net5.0\EncryptSortAndPrintArray.genruntimeconfig.cache

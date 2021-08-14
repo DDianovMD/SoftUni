@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\PascalTriangle\bin\Debug\net5.0\PascalTriangle.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\PascalTriangle\bin\Debug\net5.0\PascalTriangle.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\PascalTriangle\bin\Debug\net5.0\PascalTriangle.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\PascalTriangle\bin\Debug\net5.0\PascalTriangle.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\PascalTriangle\bin\Debug\net5.0\PascalTriangle.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\PascalTriangle\bin\Debug\net5.0\ref\PascalTriangle.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\PascalTriangle\bin\Debug\net5.0\PascalTriangle.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\PascalTriangle\obj\Debug\net5.0\PascalTriangle.csprojAssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\PascalTriangle\obj\Debug\net5.0\PascalTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\PascalTriangle\obj\Debug\net5.0\PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\PascalTriangle\obj\Debug\net5.0\PascalTriangle.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\PascalTriangle\obj\Debug\net5.0\PascalTriangle.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\PascalTriangle\obj\Debug\net5.0\PascalTriangle.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\PascalTriangle\obj\Debug\net5.0\ref\PascalTriangle.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\PascalTriangle\obj\Debug\net5.0\PascalTriangle.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\PascalTriangle\obj\Debug\net5.0\PascalTriangle.genruntimeconfig.cache
