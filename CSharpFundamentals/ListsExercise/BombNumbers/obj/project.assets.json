@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ListsExercise\\BombNumbers\\BombNumbers.csproj",
+      "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ListsExercise\\BombNumbers\\BombNumbers.csproj",
       "projectName": "BombNumbers",
-      "projectPath": "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ListsExercise\\BombNumbers\\BombNumbers.csproj",
+      "projectPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ListsExercise\\BombNumbers\\BombNumbers.csproj",
       "packagesPath": "C:\\Users\\ddian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ddian\\source\\repos\\CSharpFundamentals\\ListsExercise\\BombNumbers\\obj\\",
+      "outputPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\ListsExercise\\BombNumbers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
