@@ -25,26 +25,57 @@ namespace AnonymousThreat
                     int startIndex = int.Parse(command[1]);
                     int endIndex = int.Parse(command[2]);
 
-                    if (endIndex > userInput.Count)
+                    if (startIndex < 0)
                     {
-                        endIndex = userInput.Count;
+                        startIndex = 0;
+                    }
+                    if (startIndex > userInput.Count - 1)
+                    {
+                        startIndex = userInput.Count - 1;
+                    }
+                    if (endIndex < 0)
+                    {
+                        endIndex = 0;
+                    }
+                    if (endIndex > userInput.Count - 1)
+                    {
+                        endIndex = userInput.Count - 1;
                     }
 
-                    if (startIndex < userInput.Count)
+                    if (startIndex < userInput.Count && startIndex >= 0)
                     {
-                        for (int i = startIndex; i < endIndex; i++)
-                        {                            
-                                temporaryString += userInput[i];                            
-                        }
-
-                        userInput.Insert(startIndex, temporaryString);
-
-                        for (int i = 0; i < endIndex - startIndex; i++)
+                        if (endIndex <= userInput.Count - 1 && endIndex >= 0)
                         {
-                            userInput.RemoveAt(startIndex + 1);
-                        }
+                            for (int i = startIndex; i <= endIndex; i++)
+                            {
+                                temporaryString += userInput[i];
+                            }
 
-                        temporaryString = string.Empty;
+                            userInput.Insert(startIndex, temporaryString);
+
+                            for (int i = 0; i <= endIndex - startIndex; i++)
+                            {
+                                userInput.RemoveAt(startIndex + 1);
+                            }
+
+                            temporaryString = string.Empty;
+                        }
+                        else
+                        {
+                            for (int i = startIndex; i <= userInput.Count - 1; i++)
+                            {
+                                temporaryString += userInput[i];
+                            }
+
+                            userInput.Insert(startIndex, temporaryString);
+
+                            for (int i = 0; i <= userInput.Count - startIndex; i++)
+                            {
+                                userInput.RemoveAt(startIndex + 1);
+                            }
+
+                            temporaryString = string.Empty;
+                        }
                     }
 
                 }
@@ -55,6 +86,12 @@ namespace AnonymousThreat
                 {
                     int index = int.Parse(command[1]);
                     int partitions = int.Parse(command[2]);
+
+                    if (userInput[index].Length < partitions)
+                    {
+                        partitions = 1;
+                    }
+
                     string itemNeededToBeSplitted = userInput[index];
                     int separatedPartsCount = 0; // counting how many parts are separated already
 
@@ -65,15 +102,14 @@ namespace AnonymousThreat
                         charList.Add(itemNeededToBeSplitted[i]);
                     }
 
-
                     List<string> partsList = new List<string>(partitions); // creating list for parts
 
                     if (charList.Count % partitions == 0) // if all parts are with equal length
-                    {                        
-                        for (int currentChar = 1; currentChar <= charList.Count; currentChar++) 
+                    {
+                        for (int currentChar = 1; currentChar <= charList.Count; currentChar++)
                         {
                             if (currentChar % (charList.Count / partitions) == 0) // check if we have all chars to form a whole part
-                            {                                
+                            {
                                 for (int j = separatedPartsCount * (charList.Count / partitions); j < currentChar; j++) // grouping needed chars as whole part
                                 {
                                     temporaryString += charList[j];
@@ -82,7 +118,7 @@ namespace AnonymousThreat
                                 separatedPartsCount += 1;
                                 partsList.Add(temporaryString); // adding created part in the list
                                 temporaryString = string.Empty; // clearing temporary string used to create whole part
-                            }                            
+                            }
                         }
 
                         for (int i = 0; i < partsList.Count; i++) // adding each part in the original list
@@ -119,7 +155,7 @@ namespace AnonymousThreat
                                 partsList.Add(temporaryString); // adding created part in the list
                                 temporaryString = string.Empty; // clearing temporary string used to create whole part
                                 break; // breaking the cycle since we have formed the last part already
-                            }
+                            }                            
                         }
 
                         for (int i = 0; i < partsList.Count; i++) // adding each part in the original list
