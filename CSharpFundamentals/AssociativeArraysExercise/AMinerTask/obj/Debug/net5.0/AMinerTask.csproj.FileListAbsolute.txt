@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\AMinerTask\bin\Debug\net5.0\AMinerTask.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\AMinerTask\bin\Debug\net5.0\AMinerTask.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\AMinerTask\bin\Debug\net5.0\AMinerTask.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\AMinerTask\bin\Debug\net5.0\AMinerTask.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\AMinerTask\bin\Debug\net5.0\AMinerTask.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\AMinerTask\bin\Debug\net5.0\ref\AMinerTask.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\AMinerTask\bin\Debug\net5.0\AMinerTask.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\AMinerTask\obj\Debug\net5.0\AMinerTask.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\AMinerTask\obj\Debug\net5.0\AMinerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\AMinerTask\obj\Debug\net5.0\AMinerTask.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\AMinerTask\obj\Debug\net5.0\AMinerTask.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\AMinerTask\obj\Debug\net5.0\AMinerTask.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\AMinerTask\obj\Debug\net5.0\AMinerTask.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\AMinerTask\obj\Debug\net5.0\ref\AMinerTask.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\AMinerTask\obj\Debug\net5.0\AMinerTask.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\AMinerTask\obj\Debug\net5.0\AMinerTask.genruntimeconfig.cache

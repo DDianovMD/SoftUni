@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCharsInAString", "CountCharsInAString\CountCharsInAString.csproj", "{068887F4-463C-4577-BD58-52CB43E2E7B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountCharsInAString", "CountCharsInAString\CountCharsInAString.csproj", "{068887F4-463C-4577-BD58-52CB43E2E7B8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMinerTask", "AMinerTask\AMinerTask.csproj", "{FF0987ED-3132-4FEE-A6A8-6D9C99C06E0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{068887F4-463C-4577-BD58-52CB43E2E7B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{068887F4-463C-4577-BD58-52CB43E2E7B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{068887F4-463C-4577-BD58-52CB43E2E7B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF0987ED-3132-4FEE-A6A8-6D9C99C06E0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0987ED-3132-4FEE-A6A8-6D9C99C06E0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0987ED-3132-4FEE-A6A8-6D9C99C06E0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0987ED-3132-4FEE-A6A8-6D9C99C06E0F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
