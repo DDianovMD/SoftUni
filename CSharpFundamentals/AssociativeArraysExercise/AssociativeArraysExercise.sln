@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orders", "Orders\Orders.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniParking", "SoftUniParking\SoftUniParking.csproj", "{68F66BEF-79A8-449E-A0F0-7D17051B1EEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Courses", "Courses\Courses.csproj", "{49323B49-6E45-4977-A9E0-16ABB243AEB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{68F66BEF-79A8-449E-A0F0-7D17051B1EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68F66BEF-79A8-449E-A0F0-7D17051B1EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68F66BEF-79A8-449E-A0F0-7D17051B1EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49323B49-6E45-4977-A9E0-16ABB243AEB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49323B49-6E45-4977-A9E0-16ABB243AEB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49323B49-6E45-4977-A9E0-16ABB243AEB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49323B49-6E45-4977-A9E0-16ABB243AEB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

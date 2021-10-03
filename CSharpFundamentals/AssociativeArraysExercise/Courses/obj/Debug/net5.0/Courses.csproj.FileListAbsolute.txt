@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\Courses\bin\Debug\net5.0\Courses.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\Courses\bin\Debug\net5.0\Courses.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\Courses\bin\Debug\net5.0\Courses.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\Courses\bin\Debug\net5.0\Courses.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\Courses\bin\Debug\net5.0\Courses.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\Courses\bin\Debug\net5.0\ref\Courses.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\Courses\bin\Debug\net5.0\Courses.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\Courses\obj\Debug\net5.0\Courses.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\Courses\obj\Debug\net5.0\Courses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\Courses\obj\Debug\net5.0\Courses.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\Courses\obj\Debug\net5.0\Courses.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\Courses\obj\Debug\net5.0\Courses.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\Courses\obj\Debug\net5.0\Courses.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\Courses\obj\Debug\net5.0\ref\Courses.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\Courses\obj\Debug\net5.0\Courses.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\Courses\obj\Debug\net5.0\Courses.genruntimeconfig.cache
