@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1HnL4aFcYSIkstPRdlnKVamQA5l967M6OjckxtmbpDXrk53ClgUi0bz1OJQX4NWkQsf87JHyP9lVoP3vxKE2xQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\AssociativeArraysExercise\\CountCharsInAString\\CountCharsInAString.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

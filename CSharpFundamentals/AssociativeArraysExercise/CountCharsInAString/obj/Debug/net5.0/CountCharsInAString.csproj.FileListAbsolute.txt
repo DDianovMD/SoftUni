@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CountCharsInAString\bin\Debug\net5.0\CountCharsInAString.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CountCharsInAString\bin\Debug\net5.0\CountCharsInAString.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CountCharsInAString\bin\Debug\net5.0\CountCharsInAString.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CountCharsInAString\bin\Debug\net5.0\CountCharsInAString.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CountCharsInAString\bin\Debug\net5.0\CountCharsInAString.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CountCharsInAString\bin\Debug\net5.0\ref\CountCharsInAString.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CountCharsInAString\bin\Debug\net5.0\CountCharsInAString.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CountCharsInAString\obj\Debug\net5.0\CountCharsInAString.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CountCharsInAString\obj\Debug\net5.0\CountCharsInAString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CountCharsInAString\obj\Debug\net5.0\CountCharsInAString.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CountCharsInAString\obj\Debug\net5.0\CountCharsInAString.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CountCharsInAString\obj\Debug\net5.0\CountCharsInAString.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CountCharsInAString\obj\Debug\net5.0\CountCharsInAString.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CountCharsInAString\obj\Debug\net5.0\ref\CountCharsInAString.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CountCharsInAString\obj\Debug\net5.0\CountCharsInAString.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CountCharsInAString\obj\Debug\net5.0\CountCharsInAString.genruntimeconfig.cache
