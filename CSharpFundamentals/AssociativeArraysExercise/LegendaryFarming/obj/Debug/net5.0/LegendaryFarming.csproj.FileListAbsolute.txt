@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\LegendaryFarming\bin\Debug\net5.0\LegendaryFarming.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\LegendaryFarming\bin\Debug\net5.0\LegendaryFarming.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\LegendaryFarming\bin\Debug\net5.0\LegendaryFarming.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\LegendaryFarming\bin\Debug\net5.0\LegendaryFarming.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\LegendaryFarming\bin\Debug\net5.0\LegendaryFarming.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\LegendaryFarming\bin\Debug\net5.0\ref\LegendaryFarming.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\LegendaryFarming\bin\Debug\net5.0\LegendaryFarming.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\LegendaryFarming\obj\Debug\net5.0\LegendaryFarming.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\LegendaryFarming\obj\Debug\net5.0\LegendaryFarming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\LegendaryFarming\obj\Debug\net5.0\LegendaryFarming.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\LegendaryFarming\obj\Debug\net5.0\LegendaryFarming.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\LegendaryFarming\obj\Debug\net5.0\LegendaryFarming.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\LegendaryFarming\obj\Debug\net5.0\LegendaryFarming.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\LegendaryFarming\obj\Debug\net5.0\ref\LegendaryFarming.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\LegendaryFarming\obj\Debug\net5.0\LegendaryFarming.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\LegendaryFarming\obj\Debug\net5.0\LegendaryFarming.genruntimeconfig.cache
