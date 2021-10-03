@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CompanyUsers\bin\Debug\net5.0\CompanyUsers.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CompanyUsers\bin\Debug\net5.0\CompanyUsers.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CompanyUsers\bin\Debug\net5.0\CompanyUsers.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CompanyUsers\bin\Debug\net5.0\CompanyUsers.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CompanyUsers\bin\Debug\net5.0\CompanyUsers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CompanyUsers\bin\Debug\net5.0\ref\CompanyUsers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CompanyUsers\bin\Debug\net5.0\CompanyUsers.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CompanyUsers\obj\Debug\net5.0\CompanyUsers.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CompanyUsers\obj\Debug\net5.0\CompanyUsers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CompanyUsers\obj\Debug\net5.0\CompanyUsers.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CompanyUsers\obj\Debug\net5.0\CompanyUsers.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CompanyUsers\obj\Debug\net5.0\CompanyUsers.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CompanyUsers\obj\Debug\net5.0\CompanyUsers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CompanyUsers\obj\Debug\net5.0\ref\CompanyUsers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CompanyUsers\obj\Debug\net5.0\CompanyUsers.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\CompanyUsers\obj\Debug\net5.0\CompanyUsers.genruntimeconfig.cache
