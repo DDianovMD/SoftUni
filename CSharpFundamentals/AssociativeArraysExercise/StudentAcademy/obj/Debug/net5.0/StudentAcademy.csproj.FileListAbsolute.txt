@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\StudentAcademy\obj\Debug\net5.0\StudentAcademy.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\StudentAcademy\obj\Debug\net5.0\StudentAcademy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\StudentAcademy\obj\Debug\net5.0\StudentAcademy.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\StudentAcademy\obj\Debug\net5.0\StudentAcademy.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\StudentAcademy\obj\Debug\net5.0\StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\StudentAcademy\bin\Debug\net5.0\StudentAcademy.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\StudentAcademy\bin\Debug\net5.0\StudentAcademy.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\StudentAcademy\bin\Debug\net5.0\StudentAcademy.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\StudentAcademy\bin\Debug\net5.0\StudentAcademy.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\StudentAcademy\bin\Debug\net5.0\StudentAcademy.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\StudentAcademy\bin\Debug\net5.0\ref\StudentAcademy.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\StudentAcademy\bin\Debug\net5.0\StudentAcademy.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\StudentAcademy\obj\Debug\net5.0\StudentAcademy.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\StudentAcademy\obj\Debug\net5.0\ref\StudentAcademy.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\StudentAcademy\obj\Debug\net5.0\StudentAcademy.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\StudentAcademy\obj\Debug\net5.0\StudentAcademy.genruntimeconfig.cache
