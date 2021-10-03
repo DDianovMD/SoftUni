@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegendaryFarming", "Legenda
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orders", "Orders\Orders.csproj", "{AF53C0F1-65A0-461F-8D01-DBE1E5AAF52B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniParking", "SoftUniParking\SoftUniParking.csproj", "{68F66BEF-79A8-449E-A0F0-7D17051B1EEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{AF53C0F1-65A0-461F-8D01-DBE1E5AAF52B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF53C0F1-65A0-461F-8D01-DBE1E5AAF52B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF53C0F1-65A0-461F-8D01-DBE1E5AAF52B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F66BEF-79A8-449E-A0F0-7D17051B1EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F66BEF-79A8-449E-A0F0-7D17051B1EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F66BEF-79A8-449E-A0F0-7D17051B1EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F66BEF-79A8-449E-A0F0-7D17051B1EEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

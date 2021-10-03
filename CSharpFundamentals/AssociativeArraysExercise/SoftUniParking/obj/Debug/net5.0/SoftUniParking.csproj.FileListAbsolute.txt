@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\SoftUniParking\bin\Debug\net5.0\SoftUniParking.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\SoftUniParking\bin\Debug\net5.0\SoftUniParking.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\SoftUniParking\bin\Debug\net5.0\SoftUniParking.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\SoftUniParking\bin\Debug\net5.0\SoftUniParking.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\SoftUniParking\bin\Debug\net5.0\SoftUniParking.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\SoftUniParking\bin\Debug\net5.0\ref\SoftUniParking.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\SoftUniParking\bin\Debug\net5.0\SoftUniParking.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\SoftUniParking\obj\Debug\net5.0\SoftUniParking.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\SoftUniParking\obj\Debug\net5.0\SoftUniParking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\SoftUniParking\obj\Debug\net5.0\SoftUniParking.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\SoftUniParking\obj\Debug\net5.0\SoftUniParking.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\SoftUniParking\obj\Debug\net5.0\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\SoftUniParking\obj\Debug\net5.0\SoftUniParking.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\SoftUniParking\obj\Debug\net5.0\ref\SoftUniParking.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\SoftUniParking\obj\Debug\net5.0\SoftUniParking.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysExercise\SoftUniParking\obj\Debug\net5.0\SoftUniParking.genruntimeconfig.cache
