@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CharacterMultiplier\bin\Debug\net5.0\CharacterMultiplier.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CharacterMultiplier\bin\Debug\net5.0\CharacterMultiplier.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CharacterMultiplier\bin\Debug\net5.0\CharacterMultiplier.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CharacterMultiplier\bin\Debug\net5.0\CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CharacterMultiplier\bin\Debug\net5.0\CharacterMultiplier.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CharacterMultiplier\bin\Debug\net5.0\ref\CharacterMultiplier.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CharacterMultiplier\bin\Debug\net5.0\CharacterMultiplier.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CharacterMultiplier\obj\Debug\net5.0\ref\CharacterMultiplier.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CharacterMultiplier\obj\Debug\net5.0\CharacterMultiplier.genruntimeconfig.cache
