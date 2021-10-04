@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\MultiplyBigNumber\bin\Debug\net5.0\MultiplyBigNumber.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\MultiplyBigNumber\bin\Debug\net5.0\MultiplyBigNumber.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\MultiplyBigNumber\bin\Debug\net5.0\MultiplyBigNumber.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\MultiplyBigNumber\bin\Debug\net5.0\MultiplyBigNumber.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\MultiplyBigNumber\bin\Debug\net5.0\MultiplyBigNumber.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\MultiplyBigNumber\bin\Debug\net5.0\ref\MultiplyBigNumber.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\MultiplyBigNumber\bin\Debug\net5.0\MultiplyBigNumber.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\MultiplyBigNumber\obj\Debug\net5.0\MultiplyBigNumber.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\MultiplyBigNumber\obj\Debug\net5.0\MultiplyBigNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\MultiplyBigNumber\obj\Debug\net5.0\MultiplyBigNumber.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\MultiplyBigNumber\obj\Debug\net5.0\MultiplyBigNumber.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\MultiplyBigNumber\obj\Debug\net5.0\MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\MultiplyBigNumber\obj\Debug\net5.0\MultiplyBigNumber.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\MultiplyBigNumber\obj\Debug\net5.0\ref\MultiplyBigNumber.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\MultiplyBigNumber\obj\Debug\net5.0\MultiplyBigNumber.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\MultiplyBigNumber\obj\Debug\net5.0\MultiplyBigNumber.genruntimeconfig.cache
