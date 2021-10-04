@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ValidUsernames\bin\Debug\net5.0\ValidUsernames.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ValidUsernames\bin\Debug\net5.0\ValidUsernames.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ValidUsernames\bin\Debug\net5.0\ValidUsernames.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ValidUsernames\bin\Debug\net5.0\ValidUsernames.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ValidUsernames\bin\Debug\net5.0\ValidUsernames.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ValidUsernames\bin\Debug\net5.0\ref\ValidUsernames.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ValidUsernames\bin\Debug\net5.0\ValidUsernames.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ValidUsernames\obj\Debug\net5.0\ValidUsernames.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ValidUsernames\obj\Debug\net5.0\ValidUsernames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ValidUsernames\obj\Debug\net5.0\ValidUsernames.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ValidUsernames\obj\Debug\net5.0\ValidUsernames.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ValidUsernames\obj\Debug\net5.0\ValidUsernames.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ValidUsernames\obj\Debug\net5.0\ValidUsernames.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ValidUsernames\obj\Debug\net5.0\ref\ValidUsernames.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ValidUsernames\obj\Debug\net5.0\ValidUsernames.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ValidUsernames\obj\Debug\net5.0\ValidUsernames.genruntimeconfig.cache
