@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ReplaceRepeatingChars\bin\Debug\net5.0\ReplaceRepeatingChars.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ReplaceRepeatingChars\bin\Debug\net5.0\ReplaceRepeatingChars.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ReplaceRepeatingChars\bin\Debug\net5.0\ReplaceRepeatingChars.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ReplaceRepeatingChars\bin\Debug\net5.0\ReplaceRepeatingChars.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ReplaceRepeatingChars\bin\Debug\net5.0\ReplaceRepeatingChars.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ReplaceRepeatingChars\bin\Debug\net5.0\ref\ReplaceRepeatingChars.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ReplaceRepeatingChars\bin\Debug\net5.0\ReplaceRepeatingChars.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ReplaceRepeatingChars\obj\Debug\net5.0\ReplaceRepeatingChars.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ReplaceRepeatingChars\obj\Debug\net5.0\ReplaceRepeatingChars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ReplaceRepeatingChars\obj\Debug\net5.0\ReplaceRepeatingChars.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ReplaceRepeatingChars\obj\Debug\net5.0\ReplaceRepeatingChars.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ReplaceRepeatingChars\obj\Debug\net5.0\ReplaceRepeatingChars.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ReplaceRepeatingChars\obj\Debug\net5.0\ReplaceRepeatingChars.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ReplaceRepeatingChars\obj\Debug\net5.0\ref\ReplaceRepeatingChars.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ReplaceRepeatingChars\obj\Debug\net5.0\ReplaceRepeatingChars.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ReplaceRepeatingChars\obj\Debug\net5.0\ReplaceRepeatingChars.genruntimeconfig.cache
