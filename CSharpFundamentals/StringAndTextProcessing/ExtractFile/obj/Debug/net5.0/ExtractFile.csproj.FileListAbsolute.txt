@@ -1,0 +1,15 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ExtractFile\bin\Debug\net5.0\ExtractFile.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ExtractFile\bin\Debug\net5.0\ExtractFile.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ExtractFile\bin\Debug\net5.0\ExtractFile.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ExtractFile\bin\Debug\net5.0\ExtractFile.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ExtractFile\bin\Debug\net5.0\ExtractFile.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ExtractFile\bin\Debug\net5.0\ref\ExtractFile.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ExtractFile\bin\Debug\net5.0\ExtractFile.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ExtractFile\obj\Debug\net5.0\ExtractFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ExtractFile\obj\Debug\net5.0\ExtractFile.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ExtractFile\obj\Debug\net5.0\ExtractFile.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ExtractFile\obj\Debug\net5.0\ExtractFile.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ExtractFile\obj\Debug\net5.0\ExtractFile.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ExtractFile\obj\Debug\net5.0\ref\ExtractFile.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ExtractFile\obj\Debug\net5.0\ExtractFile.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\ExtractFile\obj\Debug\net5.0\ExtractFile.genruntimeconfig.cache
