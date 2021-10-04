@@ -1,0 +1,15 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CaesarCipher\bin\Debug\net5.0\CaesarCipher.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CaesarCipher\bin\Debug\net5.0\CaesarCipher.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CaesarCipher\bin\Debug\net5.0\CaesarCipher.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CaesarCipher\bin\Debug\net5.0\CaesarCipher.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CaesarCipher\bin\Debug\net5.0\CaesarCipher.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CaesarCipher\bin\Debug\net5.0\ref\CaesarCipher.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CaesarCipher\bin\Debug\net5.0\CaesarCipher.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CaesarCipher\obj\Debug\net5.0\CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CaesarCipher\obj\Debug\net5.0\CaesarCipher.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CaesarCipher\obj\Debug\net5.0\CaesarCipher.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CaesarCipher\obj\Debug\net5.0\CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CaesarCipher\obj\Debug\net5.0\CaesarCipher.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CaesarCipher\obj\Debug\net5.0\ref\CaesarCipher.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CaesarCipher\obj\Debug\net5.0\CaesarCipher.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\CaesarCipher\obj\Debug\net5.0\CaesarCipher.genruntimeconfig.cache
