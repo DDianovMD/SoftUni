@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\StringExplosion\bin\Debug\net5.0\StringExplosion.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\StringExplosion\bin\Debug\net5.0\StringExplosion.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\StringExplosion\bin\Debug\net5.0\StringExplosion.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\StringExplosion\bin\Debug\net5.0\StringExplosion.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\StringExplosion\bin\Debug\net5.0\StringExplosion.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\StringExplosion\bin\Debug\net5.0\ref\StringExplosion.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\StringExplosion\bin\Debug\net5.0\StringExplosion.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\StringExplosion\obj\Debug\net5.0\StringExplosion.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\StringExplosion\obj\Debug\net5.0\StringExplosion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\StringExplosion\obj\Debug\net5.0\StringExplosion.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\StringExplosion\obj\Debug\net5.0\StringExplosion.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\StringExplosion\obj\Debug\net5.0\StringExplosion.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\StringExplosion\obj\Debug\net5.0\StringExplosion.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\StringExplosion\obj\Debug\net5.0\ref\StringExplosion.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\StringExplosion\obj\Debug\net5.0\StringExplosion.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessing\StringExplosion\obj\Debug\net5.0\StringExplosion.genruntimeconfig.cache
