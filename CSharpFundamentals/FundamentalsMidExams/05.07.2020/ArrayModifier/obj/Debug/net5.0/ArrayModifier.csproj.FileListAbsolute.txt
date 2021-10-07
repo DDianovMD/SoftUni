@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\ArrayModifier\bin\Debug\net5.0\ArrayModifier.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\ArrayModifier\bin\Debug\net5.0\ArrayModifier.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\ArrayModifier\bin\Debug\net5.0\ArrayModifier.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\ArrayModifier\bin\Debug\net5.0\ArrayModifier.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\ArrayModifier\bin\Debug\net5.0\ArrayModifier.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\ArrayModifier\bin\Debug\net5.0\ref\ArrayModifier.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\ArrayModifier\bin\Debug\net5.0\ArrayModifier.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\ArrayModifier\obj\Debug\net5.0\ArrayModifier.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\ArrayModifier\obj\Debug\net5.0\ArrayModifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\ArrayModifier\obj\Debug\net5.0\ArrayModifier.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\ArrayModifier\obj\Debug\net5.0\ArrayModifier.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\ArrayModifier\obj\Debug\net5.0\ArrayModifier.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\ArrayModifier\obj\Debug\net5.0\ArrayModifier.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\ArrayModifier\obj\Debug\net5.0\ref\ArrayModifier.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\ArrayModifier\obj\Debug\net5.0\ArrayModifier.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\ArrayModifier\obj\Debug\net5.0\ArrayModifier.genruntimeconfig.cache

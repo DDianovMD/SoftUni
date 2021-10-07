@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\SoftUniReception\bin\Debug\net5.0\SoftUniReception.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\SoftUniReception\bin\Debug\net5.0\SoftUniReception.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\SoftUniReception\bin\Debug\net5.0\SoftUniReception.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\SoftUniReception\bin\Debug\net5.0\SoftUniReception.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\SoftUniReception\bin\Debug\net5.0\SoftUniReception.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\SoftUniReception\bin\Debug\net5.0\ref\SoftUniReception.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\SoftUniReception\bin\Debug\net5.0\SoftUniReception.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\SoftUniReception\obj\Debug\net5.0\SoftUniReception.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\SoftUniReception\obj\Debug\net5.0\SoftUniReception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\SoftUniReception\obj\Debug\net5.0\SoftUniReception.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\SoftUniReception\obj\Debug\net5.0\SoftUniReception.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\SoftUniReception\obj\Debug\net5.0\SoftUniReception.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\SoftUniReception\obj\Debug\net5.0\SoftUniReception.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\SoftUniReception\obj\Debug\net5.0\ref\SoftUniReception.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\SoftUniReception\obj\Debug\net5.0\SoftUniReception.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\05.07.2020\SoftUniReception\obj\Debug\net5.0\SoftUniReception.genruntimeconfig.cache
