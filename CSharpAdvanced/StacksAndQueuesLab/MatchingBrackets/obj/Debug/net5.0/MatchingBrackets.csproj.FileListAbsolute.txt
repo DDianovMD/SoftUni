@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\MatchingBrackets\bin\Debug\net5.0\MatchingBrackets.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\MatchingBrackets\bin\Debug\net5.0\MatchingBrackets.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\MatchingBrackets\bin\Debug\net5.0\MatchingBrackets.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\MatchingBrackets\bin\Debug\net5.0\MatchingBrackets.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\MatchingBrackets\bin\Debug\net5.0\MatchingBrackets.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\MatchingBrackets\bin\Debug\net5.0\ref\MatchingBrackets.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\MatchingBrackets\bin\Debug\net5.0\MatchingBrackets.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\MatchingBrackets\obj\Debug\net5.0\ref\MatchingBrackets.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\MatchingBrackets\obj\Debug\net5.0\MatchingBrackets.genruntimeconfig.cache
