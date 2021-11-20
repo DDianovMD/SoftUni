@@ -21,9 +21,7 @@ namespace PrintEvenNumbers
             }
 
             for (int i = 0; i < userInput.Length; i++)
-            {
-                
-
+            {               
                 if (intQueue.Peek() % 2 == 0 && i < userInput.Length - 1)
                 {
                     Console.Write($"{intQueue.Peek()}, ");                    

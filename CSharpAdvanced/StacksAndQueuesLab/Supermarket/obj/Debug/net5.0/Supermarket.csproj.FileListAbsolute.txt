@@ -1,0 +1,15 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\Supermarket\bin\Debug\net5.0\Supermarket.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\Supermarket\bin\Debug\net5.0\Supermarket.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\Supermarket\bin\Debug\net5.0\Supermarket.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\Supermarket\bin\Debug\net5.0\Supermarket.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\Supermarket\bin\Debug\net5.0\Supermarket.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\Supermarket\bin\Debug\net5.0\ref\Supermarket.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\Supermarket\bin\Debug\net5.0\Supermarket.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\Supermarket\obj\Debug\net5.0\Supermarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\Supermarket\obj\Debug\net5.0\Supermarket.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\Supermarket\obj\Debug\net5.0\Supermarket.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\Supermarket\obj\Debug\net5.0\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\Supermarket\obj\Debug\net5.0\Supermarket.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\Supermarket\obj\Debug\net5.0\ref\Supermarket.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\Supermarket\obj\Debug\net5.0\Supermarket.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\Supermarket\obj\Debug\net5.0\Supermarket.genruntimeconfig.cache
