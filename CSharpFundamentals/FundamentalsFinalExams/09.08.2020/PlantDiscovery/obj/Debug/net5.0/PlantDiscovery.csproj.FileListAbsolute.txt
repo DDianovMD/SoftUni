@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\PlantDiscovery\obj\Debug\net5.0\PlantDiscovery.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\PlantDiscovery\obj\Debug\net5.0\PlantDiscovery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\PlantDiscovery\obj\Debug\net5.0\PlantDiscovery.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\PlantDiscovery\obj\Debug\net5.0\PlantDiscovery.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\PlantDiscovery\obj\Debug\net5.0\PlantDiscovery.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\PlantDiscovery\bin\Debug\net5.0\PlantDiscovery.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\PlantDiscovery\bin\Debug\net5.0\PlantDiscovery.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\PlantDiscovery\bin\Debug\net5.0\PlantDiscovery.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\PlantDiscovery\bin\Debug\net5.0\PlantDiscovery.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\PlantDiscovery\bin\Debug\net5.0\PlantDiscovery.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\PlantDiscovery\bin\Debug\net5.0\ref\PlantDiscovery.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\PlantDiscovery\bin\Debug\net5.0\PlantDiscovery.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\PlantDiscovery\obj\Debug\net5.0\PlantDiscovery.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\PlantDiscovery\obj\Debug\net5.0\ref\PlantDiscovery.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\PlantDiscovery\obj\Debug\net5.0\PlantDiscovery.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\PlantDiscovery\obj\Debug\net5.0\PlantDiscovery.genruntimeconfig.cache

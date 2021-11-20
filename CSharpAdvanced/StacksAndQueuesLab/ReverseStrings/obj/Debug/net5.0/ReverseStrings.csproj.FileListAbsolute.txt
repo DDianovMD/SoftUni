@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\ReverseStrings\bin\Debug\net5.0\ReverseStrings.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\ReverseStrings\bin\Debug\net5.0\ReverseStrings.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\ReverseStrings\bin\Debug\net5.0\ReverseStrings.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\ReverseStrings\bin\Debug\net5.0\ReverseStrings.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\ReverseStrings\bin\Debug\net5.0\ReverseStrings.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\ReverseStrings\bin\Debug\net5.0\ref\ReverseStrings.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\ReverseStrings\bin\Debug\net5.0\ReverseStrings.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\ReverseStrings\obj\Debug\net5.0\ReverseStrings.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\ReverseStrings\obj\Debug\net5.0\ReverseStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\ReverseStrings\obj\Debug\net5.0\ReverseStrings.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\ReverseStrings\obj\Debug\net5.0\ReverseStrings.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\ReverseStrings\obj\Debug\net5.0\ReverseStrings.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\ReverseStrings\obj\Debug\net5.0\ReverseStrings.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\ReverseStrings\obj\Debug\net5.0\ref\ReverseStrings.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\ReverseStrings\obj\Debug\net5.0\ReverseStrings.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\ReverseStrings\obj\Debug\net5.0\ReverseStrings.genruntimeconfig.cache
