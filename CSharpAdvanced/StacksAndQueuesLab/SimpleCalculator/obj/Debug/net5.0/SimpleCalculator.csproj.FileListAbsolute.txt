@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\SimpleCalculator\bin\Debug\net5.0\SimpleCalculator.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\SimpleCalculator\bin\Debug\net5.0\SimpleCalculator.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\SimpleCalculator\bin\Debug\net5.0\SimpleCalculator.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\SimpleCalculator\bin\Debug\net5.0\SimpleCalculator.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\SimpleCalculator\bin\Debug\net5.0\SimpleCalculator.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\SimpleCalculator\bin\Debug\net5.0\ref\SimpleCalculator.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\SimpleCalculator\bin\Debug\net5.0\SimpleCalculator.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\SimpleCalculator\obj\Debug\net5.0\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\SimpleCalculator\obj\Debug\net5.0\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\SimpleCalculator\obj\Debug\net5.0\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\SimpleCalculator\obj\Debug\net5.0\SimpleCalculator.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\SimpleCalculator\obj\Debug\net5.0\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\SimpleCalculator\obj\Debug\net5.0\SimpleCalculator.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\SimpleCalculator\obj\Debug\net5.0\ref\SimpleCalculator.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\SimpleCalculator\obj\Debug\net5.0\SimpleCalculator.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\SimpleCalculator\obj\Debug\net5.0\SimpleCalculator.genruntimeconfig.cache

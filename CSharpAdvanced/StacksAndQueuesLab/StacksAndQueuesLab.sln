@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseStrings", "ReverseStrings\ReverseStrings.csproj", "{4F4BC6CA-1EE7-48B4-B1C8-5F8C467B3C1D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseStrings", "ReverseStrings\ReverseStrings.csproj", "{4F4BC6CA-1EE7-48B4-B1C8-5F8C467B3C1D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackSum", "StackSum\StackSum.csproj", "{2DD01467-02C6-43DF-A38F-F0EEE3431E00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackSum", "StackSum\StackSum.csproj", "{2DD01467-02C6-43DF-A38F-F0EEE3431E00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.csproj", "{0E721AA5-D9E5-458E-894F-671F00C6D23C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{2DD01467-02C6-43DF-A38F-F0EEE3431E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DD01467-02C6-43DF-A38F-F0EEE3431E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DD01467-02C6-43DF-A38F-F0EEE3431E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E721AA5-D9E5-458E-894F-671F00C6D23C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E721AA5-D9E5-458E-894F-671F00C6D23C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E721AA5-D9E5-458E-894F-671F00C6D23C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E721AA5-D9E5-458E-894F-671F00C6D23C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
