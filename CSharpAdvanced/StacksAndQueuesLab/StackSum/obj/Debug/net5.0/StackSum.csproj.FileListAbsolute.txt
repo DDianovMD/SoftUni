@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\StackSum\bin\Debug\net5.0\StackSum.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\StackSum\bin\Debug\net5.0\StackSum.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\StackSum\bin\Debug\net5.0\StackSum.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\StackSum\bin\Debug\net5.0\StackSum.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\StackSum\bin\Debug\net5.0\StackSum.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\StackSum\bin\Debug\net5.0\ref\StackSum.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\StackSum\bin\Debug\net5.0\StackSum.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\StackSum\obj\Debug\net5.0\StackSum.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\StackSum\obj\Debug\net5.0\StackSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\StackSum\obj\Debug\net5.0\StackSum.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\StackSum\obj\Debug\net5.0\StackSum.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\StackSum\obj\Debug\net5.0\StackSum.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\StackSum\obj\Debug\net5.0\StackSum.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\StackSum\obj\Debug\net5.0\ref\StackSum.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\StackSum\obj\Debug\net5.0\StackSum.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\StackSum\obj\Debug\net5.0\StackSum.genruntimeconfig.cache
