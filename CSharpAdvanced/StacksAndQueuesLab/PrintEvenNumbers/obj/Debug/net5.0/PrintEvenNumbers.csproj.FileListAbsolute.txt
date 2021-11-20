@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\PrintEvenNumbers\bin\Debug\net5.0\PrintEvenNumbers.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\PrintEvenNumbers\bin\Debug\net5.0\PrintEvenNumbers.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\PrintEvenNumbers\bin\Debug\net5.0\PrintEvenNumbers.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\PrintEvenNumbers\bin\Debug\net5.0\PrintEvenNumbers.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\PrintEvenNumbers\bin\Debug\net5.0\PrintEvenNumbers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\PrintEvenNumbers\bin\Debug\net5.0\ref\PrintEvenNumbers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\PrintEvenNumbers\bin\Debug\net5.0\PrintEvenNumbers.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\PrintEvenNumbers\obj\Debug\net5.0\PrintEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\PrintEvenNumbers\obj\Debug\net5.0\PrintEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\PrintEvenNumbers\obj\Debug\net5.0\PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\PrintEvenNumbers\obj\Debug\net5.0\PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\PrintEvenNumbers\obj\Debug\net5.0\PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\PrintEvenNumbers\obj\Debug\net5.0\PrintEvenNumbers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\PrintEvenNumbers\obj\Debug\net5.0\ref\PrintEvenNumbers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\PrintEvenNumbers\obj\Debug\net5.0\PrintEvenNumbers.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\PrintEvenNumbers\obj\Debug\net5.0\PrintEvenNumbers.genruntimeconfig.cache
