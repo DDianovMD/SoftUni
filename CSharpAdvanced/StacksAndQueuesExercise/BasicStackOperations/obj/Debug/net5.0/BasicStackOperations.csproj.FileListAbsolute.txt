@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BasicStackOperations\bin\Debug\net5.0\BasicStackOperations.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BasicStackOperations\bin\Debug\net5.0\BasicStackOperations.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BasicStackOperations\bin\Debug\net5.0\BasicStackOperations.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BasicStackOperations\bin\Debug\net5.0\BasicStackOperations.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BasicStackOperations\bin\Debug\net5.0\BasicStackOperations.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BasicStackOperations\bin\Debug\net5.0\ref\BasicStackOperations.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BasicStackOperations\bin\Debug\net5.0\BasicStackOperations.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BasicStackOperations\obj\Debug\net5.0\BasicStackOperations.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BasicStackOperations\obj\Debug\net5.0\BasicStackOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BasicStackOperations\obj\Debug\net5.0\BasicStackOperations.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BasicStackOperations\obj\Debug\net5.0\BasicStackOperations.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BasicStackOperations\obj\Debug\net5.0\BasicStackOperations.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BasicStackOperations\obj\Debug\net5.0\BasicStackOperations.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BasicStackOperations\obj\Debug\net5.0\ref\BasicStackOperations.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BasicStackOperations\obj\Debug\net5.0\BasicStackOperations.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BasicStackOperations\obj\Debug\net5.0\BasicStackOperations.genruntimeconfig.cache
