@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\HotPotato\bin\Debug\net5.0\HotPotato.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\HotPotato\bin\Debug\net5.0\HotPotato.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\HotPotato\bin\Debug\net5.0\HotPotato.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\HotPotato\bin\Debug\net5.0\HotPotato.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\HotPotato\bin\Debug\net5.0\HotPotato.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\HotPotato\bin\Debug\net5.0\ref\HotPotato.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\HotPotato\bin\Debug\net5.0\HotPotato.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\HotPotato\obj\Debug\net5.0\HotPotato.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\HotPotato\obj\Debug\net5.0\HotPotato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\HotPotato\obj\Debug\net5.0\HotPotato.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\HotPotato\obj\Debug\net5.0\HotPotato.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\HotPotato\obj\Debug\net5.0\HotPotato.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\HotPotato\obj\Debug\net5.0\HotPotato.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\HotPotato\obj\Debug\net5.0\ref\HotPotato.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\HotPotato\obj\Debug\net5.0\HotPotato.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\HotPotato\obj\Debug\net5.0\HotPotato.genruntimeconfig.cache

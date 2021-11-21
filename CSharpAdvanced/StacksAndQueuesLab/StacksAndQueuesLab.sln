@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintEvenNumbers", "PrintEv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supermarket", "Supermarket\Supermarket.csproj", "{58FF12BC-F257-4065-BF45-1DBB9ACFDF27}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotPotato", "HotPotato\HotPotato.csproj", "{13808FD3-F909-4C37-BCB3-E1376320AC16}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{58FF12BC-F257-4065-BF45-1DBB9ACFDF27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{58FF12BC-F257-4065-BF45-1DBB9ACFDF27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{58FF12BC-F257-4065-BF45-1DBB9ACFDF27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13808FD3-F909-4C37-BCB3-E1376320AC16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13808FD3-F909-4C37-BCB3-E1376320AC16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13808FD3-F909-4C37-BCB3-E1376320AC16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13808FD3-F909-4C37-BCB3-E1376320AC16}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
