@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\TrafficJam\bin\Debug\net5.0\TrafficJam.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\TrafficJam\bin\Debug\net5.0\TrafficJam.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\TrafficJam\bin\Debug\net5.0\TrafficJam.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\TrafficJam\bin\Debug\net5.0\TrafficJam.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\TrafficJam\bin\Debug\net5.0\TrafficJam.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\TrafficJam\bin\Debug\net5.0\ref\TrafficJam.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\TrafficJam\bin\Debug\net5.0\TrafficJam.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\TrafficJam\obj\Debug\net5.0\TrafficJam.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\TrafficJam\obj\Debug\net5.0\TrafficJam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\TrafficJam\obj\Debug\net5.0\TrafficJam.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\TrafficJam\obj\Debug\net5.0\TrafficJam.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\TrafficJam\obj\Debug\net5.0\TrafficJam.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\TrafficJam\obj\Debug\net5.0\TrafficJam.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\TrafficJam\obj\Debug\net5.0\ref\TrafficJam.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\TrafficJam\obj\Debug\net5.0\TrafficJam.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesLab\TrafficJam\obj\Debug\net5.0\TrafficJam.genruntimeconfig.cache

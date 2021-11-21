@@ -66,7 +66,6 @@ namespace HotPotato
                 else if (potato == playersCircle.Count)
                 {
                     int removeAtIndex = playersCircle.Count;
-
                     SaveFirstHalfPlayers(removeAtIndex, playersCircle, firstHalf);
                     AnnounceLosingPlayer(playersCircle);
                     SaveSecondHalfPlayers(playersCircle, secondHalf);
