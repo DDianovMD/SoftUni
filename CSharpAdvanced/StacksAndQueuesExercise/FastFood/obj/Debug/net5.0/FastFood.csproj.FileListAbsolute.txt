@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FastFood\bin\Debug\net5.0\FastFood.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FastFood\bin\Debug\net5.0\FastFood.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FastFood\bin\Debug\net5.0\FastFood.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FastFood\bin\Debug\net5.0\FastFood.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FastFood\bin\Debug\net5.0\FastFood.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FastFood\bin\Debug\net5.0\ref\FastFood.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FastFood\bin\Debug\net5.0\FastFood.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FastFood\obj\Debug\net5.0\FastFood.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FastFood\obj\Debug\net5.0\FastFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FastFood\obj\Debug\net5.0\FastFood.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FastFood\obj\Debug\net5.0\FastFood.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FastFood\obj\Debug\net5.0\FastFood.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FastFood\obj\Debug\net5.0\FastFood.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FastFood\obj\Debug\net5.0\ref\FastFood.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FastFood\obj\Debug\net5.0\FastFood.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FastFood\obj\Debug\net5.0\FastFood.genruntimeconfig.cache
