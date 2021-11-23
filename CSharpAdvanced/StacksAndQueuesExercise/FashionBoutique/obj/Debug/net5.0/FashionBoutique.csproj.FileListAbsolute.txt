@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FashionBoutique\bin\Debug\net5.0\FashionBoutique.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FashionBoutique\bin\Debug\net5.0\FashionBoutique.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FashionBoutique\bin\Debug\net5.0\FashionBoutique.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FashionBoutique\bin\Debug\net5.0\FashionBoutique.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FashionBoutique\bin\Debug\net5.0\FashionBoutique.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FashionBoutique\bin\Debug\net5.0\ref\FashionBoutique.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FashionBoutique\bin\Debug\net5.0\FashionBoutique.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FashionBoutique\obj\Debug\net5.0\FashionBoutique.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FashionBoutique\obj\Debug\net5.0\FashionBoutique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FashionBoutique\obj\Debug\net5.0\FashionBoutique.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FashionBoutique\obj\Debug\net5.0\FashionBoutique.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FashionBoutique\obj\Debug\net5.0\FashionBoutique.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FashionBoutique\obj\Debug\net5.0\FashionBoutique.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FashionBoutique\obj\Debug\net5.0\ref\FashionBoutique.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FashionBoutique\obj\Debug\net5.0\FashionBoutique.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\FashionBoutique\obj\Debug\net5.0\FashionBoutique.genruntimeconfig.cache
