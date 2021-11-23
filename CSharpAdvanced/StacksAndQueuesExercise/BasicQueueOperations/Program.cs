@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace BasicStackOperations
+namespace BasicQueueOperations
 {
     class Program
     {
@@ -18,55 +18,50 @@ namespace BasicStackOperations
                 .Select(int.Parse)
                 .ToArray();
 
-            Stack<int> stackOfNumbers = new Stack<int>();
+            Queue<int> numbersQueue = new Queue<int>();
 
             for (int i = 0; i < commands[0]; i++)
             {
-                stackOfNumbers.Push(numbers[i]);
+                numbersQueue.Enqueue(numbers[i]);
             }
 
             for (int i = 0; i < commands[1]; i++)
             {
-                if (stackOfNumbers.Count > 0)
+                if (numbersQueue.Count > 0)
                 {
-                    stackOfNumbers.Pop();
-                }
+                    numbersQueue.Dequeue();
+                }                
             }
 
-            //If stack is not empty:
-            if (stackOfNumbers.Count > 0)
+            if (numbersQueue.Count > 0)
             {
-                int smallestNumberInStack = int.MaxValue;
+                int smallestNumberInQueue = int.MaxValue;
                 bool printSmallestNumber = true;
 
-                for (int i = 0; i < stackOfNumbers.Count; i++)
+                for (int i = 0; i < numbersQueue.Count; i++)
                 {
-                    // If number is presented in the stack -> print "true".
-                    if (commands[2] == stackOfNumbers.Peek())
+                    if (commands[2] == numbersQueue.Peek())
                     {
                         Console.WriteLine("true");
                         printSmallestNumber = false;
-                        break;
+                        break;                    
                     }
-                    // If number is not presented in the stack -> remember smallest number.
                     else
                     {
-                        if (stackOfNumbers.Peek() <= smallestNumberInStack)
+                        if (numbersQueue.Peek() <= smallestNumberInQueue)
                         {
-                            smallestNumberInStack = stackOfNumbers.Peek();
-                            stackOfNumbers.Pop();
+                            smallestNumberInQueue = numbersQueue.Peek();
+                            numbersQueue.Dequeue();
                             i--;
                         }
                     }
                 }
 
-                // Print smallest number.
                 if (printSmallestNumber == true)
                 {
-                    Console.WriteLine(smallestNumberInStack);
+                    Console.WriteLine(smallestNumberInQueue);
                 }
             }
-            // If stack is empty -> print 0
             else
             {
                 Console.WriteLine(0);

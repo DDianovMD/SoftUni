@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\CupsAndBottles\bin\Debug\net5.0\CupsAndBottles.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\CupsAndBottles\bin\Debug\net5.0\CupsAndBottles.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\CupsAndBottles\bin\Debug\net5.0\CupsAndBottles.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\CupsAndBottles\bin\Debug\net5.0\CupsAndBottles.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\CupsAndBottles\bin\Debug\net5.0\CupsAndBottles.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\CupsAndBottles\bin\Debug\net5.0\ref\CupsAndBottles.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\CupsAndBottles\bin\Debug\net5.0\CupsAndBottles.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\net5.0\CupsAndBottles.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\net5.0\CupsAndBottles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\net5.0\CupsAndBottles.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\net5.0\CupsAndBottles.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\net5.0\CupsAndBottles.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\net5.0\CupsAndBottles.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\net5.0\ref\CupsAndBottles.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\net5.0\CupsAndBottles.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\CupsAndBottles\obj\Debug\net5.0\CupsAndBottles.genruntimeconfig.cache

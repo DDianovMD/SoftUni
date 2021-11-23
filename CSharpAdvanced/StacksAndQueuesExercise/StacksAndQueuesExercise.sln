@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicStackOperations", "BasicStackOperations\BasicStackOperations.csproj", "{85FF0B49-8DD6-4CAF-A1E7-5A5F99C90772}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicStackOperations", "BasicStackOperations\BasicStackOperations.csproj", "{85FF0B49-8DD6-4CAF-A1E7-5A5F99C90772}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CupsAndBottles", "CupsAndBottles\CupsAndBottles.csproj", "{4BD35241-F12E-46F4-B4E4-BEF7816D9CDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicQueueOperations", "BasicQueueOperations\BasicQueueOperations.csproj", "{85503B89-8B54-4749-B4FC-2848454954F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{85FF0B49-8DD6-4CAF-A1E7-5A5F99C90772}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{85FF0B49-8DD6-4CAF-A1E7-5A5F99C90772}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{85FF0B49-8DD6-4CAF-A1E7-5A5F99C90772}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BD35241-F12E-46F4-B4E4-BEF7816D9CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BD35241-F12E-46F4-B4E4-BEF7816D9CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BD35241-F12E-46F4-B4E4-BEF7816D9CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BD35241-F12E-46F4-B4E4-BEF7816D9CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85503B89-8B54-4749-B4FC-2848454954F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85503B89-8B54-4749-B4FC-2848454954F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85503B89-8B54-4749-B4FC-2848454954F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85503B89-8B54-4749-B4FC-2848454954F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
