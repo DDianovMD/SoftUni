@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SongsQueue\bin\Debug\net5.0\SongsQueue.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SongsQueue\bin\Debug\net5.0\SongsQueue.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SongsQueue\bin\Debug\net5.0\SongsQueue.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SongsQueue\bin\Debug\net5.0\SongsQueue.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SongsQueue\bin\Debug\net5.0\SongsQueue.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SongsQueue\bin\Debug\net5.0\ref\SongsQueue.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SongsQueue\bin\Debug\net5.0\SongsQueue.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SongsQueue\obj\Debug\net5.0\SongsQueue.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SongsQueue\obj\Debug\net5.0\SongsQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SongsQueue\obj\Debug\net5.0\SongsQueue.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SongsQueue\obj\Debug\net5.0\SongsQueue.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SongsQueue\obj\Debug\net5.0\SongsQueue.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SongsQueue\obj\Debug\net5.0\SongsQueue.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SongsQueue\obj\Debug\net5.0\ref\SongsQueue.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SongsQueue\obj\Debug\net5.0\SongsQueue.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SongsQueue\obj\Debug\net5.0\SongsQueue.genruntimeconfig.cache
