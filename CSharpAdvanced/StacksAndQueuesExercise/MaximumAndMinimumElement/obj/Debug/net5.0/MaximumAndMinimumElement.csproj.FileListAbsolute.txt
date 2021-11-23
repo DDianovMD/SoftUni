@@ -1,0 +1,15 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\MaximumAndMinimumElement\bin\Debug\net5.0\MaximumAndMinimumElement.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\MaximumAndMinimumElement\bin\Debug\net5.0\MaximumAndMinimumElement.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\MaximumAndMinimumElement\bin\Debug\net5.0\MaximumAndMinimumElement.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\MaximumAndMinimumElement\bin\Debug\net5.0\MaximumAndMinimumElement.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\MaximumAndMinimumElement\bin\Debug\net5.0\MaximumAndMinimumElement.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\MaximumAndMinimumElement\bin\Debug\net5.0\ref\MaximumAndMinimumElement.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\MaximumAndMinimumElement\bin\Debug\net5.0\MaximumAndMinimumElement.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\MaximumAndMinimumElement\obj\Debug\net5.0\ref\MaximumAndMinimumElement.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\MaximumAndMinimumElement\obj\Debug\net5.0\MaximumAndMinimumElement.genruntimeconfig.cache
