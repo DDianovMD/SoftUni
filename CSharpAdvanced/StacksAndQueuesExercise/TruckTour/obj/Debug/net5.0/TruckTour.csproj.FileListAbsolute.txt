@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\TruckTour\bin\Debug\net5.0\TruckTour.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\TruckTour\bin\Debug\net5.0\TruckTour.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\TruckTour\bin\Debug\net5.0\TruckTour.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\TruckTour\bin\Debug\net5.0\TruckTour.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\TruckTour\bin\Debug\net5.0\TruckTour.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\TruckTour\bin\Debug\net5.0\ref\TruckTour.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\TruckTour\bin\Debug\net5.0\TruckTour.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\TruckTour\obj\Debug\net5.0\TruckTour.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\TruckTour\obj\Debug\net5.0\TruckTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\TruckTour\obj\Debug\net5.0\TruckTour.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\TruckTour\obj\Debug\net5.0\TruckTour.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\TruckTour\obj\Debug\net5.0\TruckTour.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\TruckTour\obj\Debug\net5.0\TruckTour.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\TruckTour\obj\Debug\net5.0\ref\TruckTour.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\TruckTour\obj\Debug\net5.0\TruckTour.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\TruckTour\obj\Debug\net5.0\TruckTour.genruntimeconfig.cache

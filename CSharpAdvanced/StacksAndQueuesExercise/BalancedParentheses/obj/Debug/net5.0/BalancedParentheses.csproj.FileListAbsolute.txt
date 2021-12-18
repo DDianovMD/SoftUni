@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BalancedParentheses\bin\Debug\net5.0\BalancedParentheses.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BalancedParentheses\bin\Debug\net5.0\BalancedParentheses.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BalancedParentheses\bin\Debug\net5.0\BalancedParentheses.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BalancedParentheses\bin\Debug\net5.0\BalancedParentheses.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BalancedParentheses\bin\Debug\net5.0\BalancedParentheses.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BalancedParentheses\bin\Debug\net5.0\ref\BalancedParentheses.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BalancedParentheses\bin\Debug\net5.0\BalancedParentheses.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BalancedParentheses\obj\Debug\net5.0\BalancedParentheses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BalancedParentheses\obj\Debug\net5.0\BalancedParentheses.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BalancedParentheses\obj\Debug\net5.0\BalancedParentheses.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BalancedParentheses\obj\Debug\net5.0\BalancedParentheses.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BalancedParentheses\obj\Debug\net5.0\BalancedParentheses.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BalancedParentheses\obj\Debug\net5.0\ref\BalancedParentheses.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BalancedParentheses\obj\Debug\net5.0\BalancedParentheses.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BalancedParentheses\obj\Debug\net5.0\BalancedParentheses.genruntimeconfig.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\BalancedParentheses\obj\Debug\net5.0\BalancedParentheses.csproj.AssemblyReference.cache

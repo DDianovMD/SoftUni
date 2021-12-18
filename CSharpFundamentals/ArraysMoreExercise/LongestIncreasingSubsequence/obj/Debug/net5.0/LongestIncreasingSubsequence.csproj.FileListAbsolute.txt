@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\LongestIncreasingSubsequence\bin\Debug\net5.0\LongestIncreasingSubsequence.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\LongestIncreasingSubsequence\bin\Debug\net5.0\LongestIncreasingSubsequence.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\LongestIncreasingSubsequence\bin\Debug\net5.0\LongestIncreasingSubsequence.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\LongestIncreasingSubsequence\bin\Debug\net5.0\LongestIncreasingSubsequence.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\LongestIncreasingSubsequence\bin\Debug\net5.0\LongestIncreasingSubsequence.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\LongestIncreasingSubsequence\bin\Debug\net5.0\ref\LongestIncreasingSubsequence.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\LongestIncreasingSubsequence\bin\Debug\net5.0\LongestIncreasingSubsequence.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\LongestIncreasingSubsequence\obj\Debug\net5.0\LongestIncreasingSubsequence.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\LongestIncreasingSubsequence\obj\Debug\net5.0\LongestIncreasingSubsequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\LongestIncreasingSubsequence\obj\Debug\net5.0\LongestIncreasingSubsequence.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\LongestIncreasingSubsequence\obj\Debug\net5.0\LongestIncreasingSubsequence.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\LongestIncreasingSubsequence\obj\Debug\net5.0\LongestIncreasingSubsequence.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\LongestIncreasingSubsequence\obj\Debug\net5.0\LongestIncreasingSubsequence.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\LongestIncreasingSubsequence\obj\Debug\net5.0\ref\LongestIncreasingSubsequence.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\LongestIncreasingSubsequence\obj\Debug\net5.0\LongestIncreasingSubsequence.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ArraysMoreExercise\LongestIncreasingSubsequence\obj\Debug\net5.0\LongestIncreasingSubsequence.genruntimeconfig.cache

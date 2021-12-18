@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes", "DataTypes\DataTypes.csproj", "{8712E0EB-98CE-4005-B2E7-2F9F0E5F798E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataTypes", "DataTypes\DataTypes.csproj", "{8712E0EB-98CE-4005-B2E7-2F9F0E5F798E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenterPoint", "CenterPoint\CenterPoint.csproj", "{535E9E8D-0A36-499F-B758-BAA7B599A0AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CenterPoint", "CenterPoint\CenterPoint.csproj", "{535E9E8D-0A36-499F-B758-BAA7B599A0AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongerLine", "LongerLine\LongerLine.csproj", "{D407F648-1F91-45F9-AF67-FBF50310ECC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongerLine", "LongerLine\LongerLine.csproj", "{D407F648-1F91-45F9-AF67-FBF50310ECC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TribonacciSequence", "TribonacciSequence\TribonacciSequence.csproj", "{2031A7B9-BEC7-4D4E-9F14-C6B721286563}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D407F648-1F91-45F9-AF67-FBF50310ECC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D407F648-1F91-45F9-AF67-FBF50310ECC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D407F648-1F91-45F9-AF67-FBF50310ECC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2031A7B9-BEC7-4D4E-9F14-C6B721286563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2031A7B9-BEC7-4D4E-9F14-C6B721286563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2031A7B9-BEC7-4D4E-9F14-C6B721286563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2031A7B9-BEC7-4D4E-9F14-C6B721286563}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
