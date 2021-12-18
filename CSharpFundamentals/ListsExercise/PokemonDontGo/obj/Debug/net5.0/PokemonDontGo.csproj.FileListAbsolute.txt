@@ -1,0 +1,15 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsExercise\PokemonDontGo\bin\Debug\net5.0\PokemonDontGo.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsExercise\PokemonDontGo\bin\Debug\net5.0\PokemonDontGo.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsExercise\PokemonDontGo\bin\Debug\net5.0\PokemonDontGo.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsExercise\PokemonDontGo\bin\Debug\net5.0\PokemonDontGo.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsExercise\PokemonDontGo\bin\Debug\net5.0\PokemonDontGo.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsExercise\PokemonDontGo\bin\Debug\net5.0\ref\PokemonDontGo.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsExercise\PokemonDontGo\bin\Debug\net5.0\PokemonDontGo.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsExercise\PokemonDontGo\obj\Debug\net5.0\PokemonDontGo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsExercise\PokemonDontGo\obj\Debug\net5.0\PokemonDontGo.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsExercise\PokemonDontGo\obj\Debug\net5.0\PokemonDontGo.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsExercise\PokemonDontGo\obj\Debug\net5.0\PokemonDontGo.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsExercise\PokemonDontGo\obj\Debug\net5.0\PokemonDontGo.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsExercise\PokemonDontGo\obj\Debug\net5.0\ref\PokemonDontGo.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsExercise\PokemonDontGo\obj\Debug\net5.0\PokemonDontGo.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsExercise\PokemonDontGo\obj\Debug\net5.0\PokemonDontGo.genruntimeconfig.cache
