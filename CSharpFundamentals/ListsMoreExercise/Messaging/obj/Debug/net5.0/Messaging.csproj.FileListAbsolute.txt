@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\Messaging\bin\Debug\net5.0\Messaging.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\Messaging\bin\Debug\net5.0\Messaging.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\Messaging\bin\Debug\net5.0\Messaging.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\Messaging\bin\Debug\net5.0\Messaging.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\Messaging\bin\Debug\net5.0\Messaging.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\Messaging\bin\Debug\net5.0\ref\Messaging.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\Messaging\bin\Debug\net5.0\Messaging.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\Messaging\obj\Debug\net5.0\Messaging.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\Messaging\obj\Debug\net5.0\Messaging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\Messaging\obj\Debug\net5.0\Messaging.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\Messaging\obj\Debug\net5.0\Messaging.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\Messaging\obj\Debug\net5.0\Messaging.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\Messaging\obj\Debug\net5.0\Messaging.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\Messaging\obj\Debug\net5.0\ref\Messaging.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\Messaging\obj\Debug\net5.0\Messaging.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\Messaging\obj\Debug\net5.0\Messaging.genruntimeconfig.cache
