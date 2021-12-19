@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Messaging", "Messaging\Messaging.csproj", "{5DBA37B3-47C7-49DD-924C-7D73BDB7EDCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRace", "CarRace\CarRace.csproj", "{569EE209-2674-41E9-B2A6-96BDE61600FC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarRace", "CarRace\CarRace.csproj", "{569EE209-2674-41E9-B2A6-96BDE61600FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakeSkipRope", "TakeSkipRope\TakeSkipRope.csproj", "{1441A740-A8E1-4519-8F34-D016C908AB41}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{569EE209-2674-41E9-B2A6-96BDE61600FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{569EE209-2674-41E9-B2A6-96BDE61600FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{569EE209-2674-41E9-B2A6-96BDE61600FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1441A740-A8E1-4519-8F34-D016C908AB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1441A740-A8E1-4519-8F34-D016C908AB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1441A740-A8E1-4519-8F34-D016C908AB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1441A740-A8E1-4519-8F34-D016C908AB41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\TakeSkipRope\obj\Debug\net5.0\TakeSkipRope.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\TakeSkipRope\obj\Debug\net5.0\TakeSkipRope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\TakeSkipRope\obj\Debug\net5.0\TakeSkipRope.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\TakeSkipRope\obj\Debug\net5.0\TakeSkipRope.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\TakeSkipRope\obj\Debug\net5.0\TakeSkipRope.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\TakeSkipRope\bin\Debug\net5.0\TakeSkipRope.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\TakeSkipRope\bin\Debug\net5.0\TakeSkipRope.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\TakeSkipRope\bin\Debug\net5.0\TakeSkipRope.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\TakeSkipRope\bin\Debug\net5.0\TakeSkipRope.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\TakeSkipRope\bin\Debug\net5.0\TakeSkipRope.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\TakeSkipRope\bin\Debug\net5.0\ref\TakeSkipRope.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\TakeSkipRope\bin\Debug\net5.0\TakeSkipRope.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\TakeSkipRope\obj\Debug\net5.0\TakeSkipRope.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\TakeSkipRope\obj\Debug\net5.0\ref\TakeSkipRope.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\TakeSkipRope\obj\Debug\net5.0\TakeSkipRope.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\TakeSkipRope\obj\Debug\net5.0\TakeSkipRope.genruntimeconfig.cache
