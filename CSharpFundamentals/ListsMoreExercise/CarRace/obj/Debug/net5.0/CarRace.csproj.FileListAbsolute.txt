@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\CarRace\bin\Debug\net5.0\CarRace.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\CarRace\bin\Debug\net5.0\CarRace.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\CarRace\bin\Debug\net5.0\CarRace.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\CarRace\bin\Debug\net5.0\CarRace.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\CarRace\bin\Debug\net5.0\CarRace.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\CarRace\bin\Debug\net5.0\ref\CarRace.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\CarRace\bin\Debug\net5.0\CarRace.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\CarRace\obj\Debug\net5.0\CarRace.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\CarRace\obj\Debug\net5.0\CarRace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\CarRace\obj\Debug\net5.0\CarRace.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\CarRace\obj\Debug\net5.0\CarRace.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\CarRace\obj\Debug\net5.0\CarRace.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\CarRace\obj\Debug\net5.0\CarRace.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\CarRace\obj\Debug\net5.0\ref\CarRace.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\CarRace\obj\Debug\net5.0\CarRace.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\CarRace\obj\Debug\net5.0\CarRace.genruntimeconfig.cache
