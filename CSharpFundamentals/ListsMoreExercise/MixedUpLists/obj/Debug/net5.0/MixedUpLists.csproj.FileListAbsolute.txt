@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\MixedUpLists\bin\Debug\net5.0\MixedUpLists.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\MixedUpLists\bin\Debug\net5.0\MixedUpLists.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\MixedUpLists\bin\Debug\net5.0\MixedUpLists.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\MixedUpLists\bin\Debug\net5.0\MixedUpLists.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\MixedUpLists\bin\Debug\net5.0\MixedUpLists.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\MixedUpLists\bin\Debug\net5.0\ref\MixedUpLists.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\MixedUpLists\bin\Debug\net5.0\MixedUpLists.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\MixedUpLists\obj\Debug\net5.0\MixedUpLists.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\MixedUpLists\obj\Debug\net5.0\MixedUpLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\MixedUpLists\obj\Debug\net5.0\MixedUpLists.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\MixedUpLists\obj\Debug\net5.0\MixedUpLists.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\MixedUpLists\obj\Debug\net5.0\MixedUpLists.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\MixedUpLists\obj\Debug\net5.0\MixedUpLists.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\MixedUpLists\obj\Debug\net5.0\ref\MixedUpLists.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\MixedUpLists\obj\Debug\net5.0\MixedUpLists.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ListsMoreExercise\MixedUpLists\obj\Debug\net5.0\MixedUpLists.genruntimeconfig.cache
