@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\BigFactorial\bin\Debug\net5.0\BigFactorial.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\BigFactorial\bin\Debug\net5.0\BigFactorial.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\BigFactorial\bin\Debug\net5.0\BigFactorial.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\BigFactorial\bin\Debug\net5.0\BigFactorial.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\BigFactorial\bin\Debug\net5.0\BigFactorial.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\BigFactorial\bin\Debug\net5.0\ref\BigFactorial.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\BigFactorial\bin\Debug\net5.0\BigFactorial.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\BigFactorial\obj\Debug\net5.0\BigFactorial.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\BigFactorial\obj\Debug\net5.0\BigFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\BigFactorial\obj\Debug\net5.0\BigFactorial.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\BigFactorial\obj\Debug\net5.0\BigFactorial.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\BigFactorial\obj\Debug\net5.0\BigFactorial.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\BigFactorial\obj\Debug\net5.0\BigFactorial.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\BigFactorial\obj\Debug\net5.0\ref\BigFactorial.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\BigFactorial\obj\Debug\net5.0\BigFactorial.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\BigFactorial\obj\Debug\net5.0\BigFactorial.genruntimeconfig.cache
