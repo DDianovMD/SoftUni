@@ -17,7 +17,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salary", "Salary\Salary.csp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oscars", "Oscars\Oscars.csproj", "{282F282C-8641-4B8D-A120-75C4831CD1A6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrekkingMania", "TrekkingMania\TrekkingMania.csproj", "{E0061BE8-CC02-45A7-AF4E-10BF54AAC325}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrekkingMania", "TrekkingMania\TrekkingMania.csproj", "{E0061BE8-CC02-45A7-AF4E-10BF54AAC325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TennisRanklist", "TennisRanklist\TennisRanklist.csproj", "{8684F030-A0B0-4C3D-8031-44482B76FA40}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{E0061BE8-CC02-45A7-AF4E-10BF54AAC325}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0061BE8-CC02-45A7-AF4E-10BF54AAC325}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0061BE8-CC02-45A7-AF4E-10BF54AAC325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8684F030-A0B0-4C3D-8031-44482B76FA40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8684F030-A0B0-4C3D-8031-44482B76FA40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8684F030-A0B0-4C3D-8031-44482B76FA40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8684F030-A0B0-4C3D-8031-44482B76FA40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
