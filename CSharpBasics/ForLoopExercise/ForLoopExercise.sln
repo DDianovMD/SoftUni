@@ -15,7 +15,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideWithoutRemainder", "D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salary", "Salary\Salary.csproj", "{B341256E-6D70-451E-B5EB-7A3402D7DC18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oscars", "Oscars\Oscars.csproj", "{282F282C-8641-4B8D-A120-75C4831CD1A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oscars", "Oscars\Oscars.csproj", "{282F282C-8641-4B8D-A120-75C4831CD1A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrekkingMania", "TrekkingMania\TrekkingMania.csproj", "{E0061BE8-CC02-45A7-AF4E-10BF54AAC325}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{282F282C-8641-4B8D-A120-75C4831CD1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{282F282C-8641-4B8D-A120-75C4831CD1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{282F282C-8641-4B8D-A120-75C4831CD1A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0061BE8-CC02-45A7-AF4E-10BF54AAC325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0061BE8-CC02-45A7-AF4E-10BF54AAC325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0061BE8-CC02-45A7-AF4E-10BF54AAC325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0061BE8-CC02-45A7-AF4E-10BF54AAC325}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
