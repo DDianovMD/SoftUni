@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarRace", "CarRace\CarRace.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TakeSkipRope", "TakeSkipRope\TakeSkipRope.csproj", "{1441A740-A8E1-4519-8F34-D016C908AB41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MixedUpLists", "MixedUpLists\MixedUpLists.csproj", "{98C9EBFF-AA3E-4EBF-A239-EFFC6E01041A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MixedUpLists", "MixedUpLists\MixedUpLists.csproj", "{98C9EBFF-AA3E-4EBF-A239-EFFC6E01041A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrumSet", "DrumSet\DrumSet.csproj", "{F9252D91-19D0-4123-9B2F-3E1409327D97}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{98C9EBFF-AA3E-4EBF-A239-EFFC6E01041A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98C9EBFF-AA3E-4EBF-A239-EFFC6E01041A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98C9EBFF-AA3E-4EBF-A239-EFFC6E01041A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9252D91-19D0-4123-9B2F-3E1409327D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9252D91-19D0-4123-9B2F-3E1409327D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9252D91-19D0-4123-9B2F-3E1409327D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9252D91-19D0-4123-9B2F-3E1409327D97}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
