@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1401
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersEndingIn7", "NumbersEndingIn7\NumbersEndingIn7.csproj", "{BB57A999-982A-4D45-8AB4-F3C8EEE47FD4}"
 EndProject
@@ -14,6 +14,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideWithoutRemainder", "DivideWithoutRemainder\DivideWithoutRemainder.csproj", "{A8ECF8B6-2D71-4CA2-AB93-EA54C010ECE6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salary", "Salary\Salary.csproj", "{B341256E-6D70-451E-B5EB-7A3402D7DC18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oscars", "Oscars\Oscars.csproj", "{282F282C-8641-4B8D-A120-75C4831CD1A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{B341256E-6D70-451E-B5EB-7A3402D7DC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B341256E-6D70-451E-B5EB-7A3402D7DC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B341256E-6D70-451E-B5EB-7A3402D7DC18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{282F282C-8641-4B8D-A120-75C4831CD1A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282F282C-8641-4B8D-A120-75C4831CD1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282F282C-8641-4B8D-A120-75C4831CD1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282F282C-8641-4B8D-A120-75C4831CD1A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
