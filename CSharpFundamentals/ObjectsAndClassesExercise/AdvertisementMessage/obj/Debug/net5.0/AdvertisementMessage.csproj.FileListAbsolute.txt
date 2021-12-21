@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\AdvertisementMessage\bin\Debug\net5.0\AdvertisementMessage.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\AdvertisementMessage\bin\Debug\net5.0\AdvertisementMessage.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\AdvertisementMessage\bin\Debug\net5.0\AdvertisementMessage.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\AdvertisementMessage\bin\Debug\net5.0\AdvertisementMessage.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\AdvertisementMessage\bin\Debug\net5.0\AdvertisementMessage.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\AdvertisementMessage\bin\Debug\net5.0\ref\AdvertisementMessage.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\AdvertisementMessage\bin\Debug\net5.0\AdvertisementMessage.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\AdvertisementMessage\obj\Debug\net5.0\AdvertisementMessage.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\AdvertisementMessage\obj\Debug\net5.0\AdvertisementMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\AdvertisementMessage\obj\Debug\net5.0\AdvertisementMessage.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\AdvertisementMessage\obj\Debug\net5.0\AdvertisementMessage.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\AdvertisementMessage\obj\Debug\net5.0\AdvertisementMessage.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\AdvertisementMessage\obj\Debug\net5.0\AdvertisementMessage.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\AdvertisementMessage\obj\Debug\net5.0\ref\AdvertisementMessage.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\AdvertisementMessage\obj\Debug\net5.0\AdvertisementMessage.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\AdvertisementMessage\obj\Debug\net5.0\AdvertisementMessage.genruntimeconfig.cache
