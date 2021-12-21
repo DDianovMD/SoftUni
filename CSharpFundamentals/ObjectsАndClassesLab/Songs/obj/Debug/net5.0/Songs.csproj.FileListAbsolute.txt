@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\Songs\obj\Debug\net5.0\Songs.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\Songs\obj\Debug\net5.0\Songs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\Songs\obj\Debug\net5.0\Songs.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\Songs\obj\Debug\net5.0\Songs.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\Songs\obj\Debug\net5.0\Songs.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\Songs\bin\Debug\net5.0\Songs.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\Songs\bin\Debug\net5.0\Songs.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\Songs\bin\Debug\net5.0\Songs.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\Songs\bin\Debug\net5.0\Songs.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\Songs\bin\Debug\net5.0\Songs.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\Songs\bin\Debug\net5.0\ref\Songs.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\Songs\bin\Debug\net5.0\Songs.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\Songs\obj\Debug\net5.0\Songs.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\Songs\obj\Debug\net5.0\ref\Songs.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\Songs\obj\Debug\net5.0\Songs.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsАndClassesLab\Songs\obj\Debug\net5.0\Songs.genruntimeconfig.cache

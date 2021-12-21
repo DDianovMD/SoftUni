@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomizeWords", "RandomizeWords\RandomizeWords.csproj", "{99F8091E-ED68-45F7-B303-90272D0B0924}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigFactorial", "BigFactorial\BigFactorial.csproj", "{8CA81CBA-5444-424B-8F9B-AA7A9A257877}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BigFactorial", "BigFactorial\BigFactorial.csproj", "{8CA81CBA-5444-424B-8F9B-AA7A9A257877}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Songs", "Songs\Songs.csproj", "{AA310550-8C46-4938-96F9-68E91F25BF94}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8CA81CBA-5444-424B-8F9B-AA7A9A257877}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CA81CBA-5444-424B-8F9B-AA7A9A257877}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CA81CBA-5444-424B-8F9B-AA7A9A257877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA310550-8C46-4938-96F9-68E91F25BF94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA310550-8C46-4938-96F9-68E91F25BF94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA310550-8C46-4938-96F9-68E91F25BF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA310550-8C46-4938-96F9-68E91F25BF94}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
