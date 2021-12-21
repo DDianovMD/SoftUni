@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomizeWords", "Randomize
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BigFactorial", "BigFactorial\BigFactorial.csproj", "{8CA81CBA-5444-424B-8F9B-AA7A9A257877}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Songs", "Songs\Songs.csproj", "{AA310550-8C46-4938-96F9-68E91F25BF94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Songs", "Songs\Songs.csproj", "{AA310550-8C46-4938-96F9-68E91F25BF94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Students", "Students\Students.csproj", "{3C606352-E5E0-4548-9F27-4D888324BF85}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{AA310550-8C46-4938-96F9-68E91F25BF94}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA310550-8C46-4938-96F9-68E91F25BF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA310550-8C46-4938-96F9-68E91F25BF94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C606352-E5E0-4548-9F27-4D888324BF85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C606352-E5E0-4548-9F27-4D888324BF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C606352-E5E0-4548-9F27-4D888324BF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C606352-E5E0-4548-9F27-4D888324BF85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
