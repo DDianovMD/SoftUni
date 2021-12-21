@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BigFactorial", "BigFactoria
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Songs", "Songs\Songs.csproj", "{AA310550-8C46-4938-96F9-68E91F25BF94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Students", "Students\Students.csproj", "{3C606352-E5E0-4548-9F27-4D888324BF85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Students", "Students\Students.csproj", "{3C606352-E5E0-4548-9F27-4D888324BF85}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Students2.0", "Students2.0\Students2.0.csproj", "{D8BB46E0-D568-4A3F-A29B-F5D7B55B19D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{3C606352-E5E0-4548-9F27-4D888324BF85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C606352-E5E0-4548-9F27-4D888324BF85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C606352-E5E0-4548-9F27-4D888324BF85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8BB46E0-D568-4A3F-A29B-F5D7B55B19D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8BB46E0-D568-4A3F-A29B-F5D7B55B19D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8BB46E0-D568-4A3F-A29B-F5D7B55B19D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8BB46E0-D568-4A3F-A29B-F5D7B55B19D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
