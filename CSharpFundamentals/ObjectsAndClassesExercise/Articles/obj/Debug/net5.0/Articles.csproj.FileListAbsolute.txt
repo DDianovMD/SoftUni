@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\Articles\bin\Debug\net5.0\Articles.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\Articles\bin\Debug\net5.0\Articles.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\Articles\bin\Debug\net5.0\Articles.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\Articles\bin\Debug\net5.0\Articles.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\Articles\bin\Debug\net5.0\Articles.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\Articles\bin\Debug\net5.0\ref\Articles.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\Articles\bin\Debug\net5.0\Articles.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\Articles\obj\Debug\net5.0\Articles.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\Articles\obj\Debug\net5.0\Articles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\Articles\obj\Debug\net5.0\Articles.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\Articles\obj\Debug\net5.0\Articles.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\Articles\obj\Debug\net5.0\Articles.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\Articles\obj\Debug\net5.0\Articles.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\Articles\obj\Debug\net5.0\ref\Articles.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\Articles\obj\Debug\net5.0\Articles.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\Articles\obj\Debug\net5.0\Articles.genruntimeconfig.cache
