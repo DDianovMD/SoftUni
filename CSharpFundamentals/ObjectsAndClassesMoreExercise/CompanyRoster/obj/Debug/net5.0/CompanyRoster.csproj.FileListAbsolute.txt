@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\CompanyRoster\bin\Debug\net5.0\CompanyRoster.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\CompanyRoster\bin\Debug\net5.0\CompanyRoster.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\CompanyRoster\bin\Debug\net5.0\CompanyRoster.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\CompanyRoster\bin\Debug\net5.0\CompanyRoster.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\CompanyRoster\bin\Debug\net5.0\CompanyRoster.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\CompanyRoster\bin\Debug\net5.0\ref\CompanyRoster.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\CompanyRoster\bin\Debug\net5.0\CompanyRoster.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\CompanyRoster\obj\Debug\net5.0\CompanyRoster.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\CompanyRoster\obj\Debug\net5.0\CompanyRoster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\CompanyRoster\obj\Debug\net5.0\CompanyRoster.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\CompanyRoster\obj\Debug\net5.0\CompanyRoster.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\CompanyRoster\obj\Debug\net5.0\CompanyRoster.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\CompanyRoster\obj\Debug\net5.0\CompanyRoster.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\CompanyRoster\obj\Debug\net5.0\ref\CompanyRoster.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\CompanyRoster\obj\Debug\net5.0\CompanyRoster.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\CompanyRoster\obj\Debug\net5.0\CompanyRoster.genruntimeconfig.cache
