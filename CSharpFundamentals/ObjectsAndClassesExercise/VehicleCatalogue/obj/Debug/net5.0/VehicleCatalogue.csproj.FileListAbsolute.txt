@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\VehicleCatalogue\bin\Debug\net5.0\VehicleCatalogue.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\VehicleCatalogue\bin\Debug\net5.0\VehicleCatalogue.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\VehicleCatalogue\bin\Debug\net5.0\VehicleCatalogue.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\VehicleCatalogue\bin\Debug\net5.0\VehicleCatalogue.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\VehicleCatalogue\bin\Debug\net5.0\VehicleCatalogue.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\VehicleCatalogue\bin\Debug\net5.0\ref\VehicleCatalogue.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\VehicleCatalogue\bin\Debug\net5.0\VehicleCatalogue.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\VehicleCatalogue\obj\Debug\net5.0\ref\VehicleCatalogue.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesExercise\VehicleCatalogue\obj\Debug\net5.0\VehicleCatalogue.genruntimeconfig.cache

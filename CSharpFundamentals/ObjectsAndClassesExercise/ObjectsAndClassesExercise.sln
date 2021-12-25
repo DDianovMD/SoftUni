@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Students", "Students\Studen
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamworkProjects", "TeamworkProjects\TeamworkProjects.csproj", "{F8BCA47B-6186-42F9-BB76-EC266A835B34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderByAge", "OrderByAge\OrderByAge.csproj", "{D591AA06-2DFF-4A0F-8FD7-04BD833A65D8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderByAge", "OrderByAge\OrderByAge.csproj", "{D591AA06-2DFF-4A0F-8FD7-04BD833A65D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleCatalogue", "VehicleCatalogue\VehicleCatalogue.csproj", "{B6592D0E-13D0-4FB8-B7A5-6A2563C578EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{D591AA06-2DFF-4A0F-8FD7-04BD833A65D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D591AA06-2DFF-4A0F-8FD7-04BD833A65D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D591AA06-2DFF-4A0F-8FD7-04BD833A65D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6592D0E-13D0-4FB8-B7A5-6A2563C578EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6592D0E-13D0-4FB8-B7A5-6A2563C578EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6592D0E-13D0-4FB8-B7A5-6A2563C578EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6592D0E-13D0-4FB8-B7A5-6A2563C578EB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
