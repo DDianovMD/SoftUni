@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\SpeedRacing\bin\Debug\net5.0\SpeedRacing.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\SpeedRacing\bin\Debug\net5.0\SpeedRacing.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\SpeedRacing\bin\Debug\net5.0\SpeedRacing.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\SpeedRacing\bin\Debug\net5.0\SpeedRacing.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\SpeedRacing\bin\Debug\net5.0\SpeedRacing.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\SpeedRacing\bin\Debug\net5.0\ref\SpeedRacing.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\SpeedRacing\bin\Debug\net5.0\SpeedRacing.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\SpeedRacing\obj\Debug\net5.0\SpeedRacing.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\SpeedRacing\obj\Debug\net5.0\SpeedRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\SpeedRacing\obj\Debug\net5.0\SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\SpeedRacing\obj\Debug\net5.0\SpeedRacing.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\SpeedRacing\obj\Debug\net5.0\SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\SpeedRacing\obj\Debug\net5.0\SpeedRacing.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\SpeedRacing\obj\Debug\net5.0\ref\SpeedRacing.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\SpeedRacing\obj\Debug\net5.0\SpeedRacing.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\SpeedRacing\obj\Debug\net5.0\SpeedRacing.genruntimeconfig.cache

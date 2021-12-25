@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompanyRoster", "CompanyRoster\CompanyRoster.csproj", "{DC591675-2F85-4988-BDF8-B43CA5620F12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldestFamilyMember", "OldestFamilyMember\OldestFamilyMember.csproj", "{448EEBC0-AD41-4304-B71E-D2E1FB6A24B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OldestFamilyMember", "OldestFamilyMember\OldestFamilyMember.csproj", "{448EEBC0-AD41-4304-B71E-D2E1FB6A24B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedRacing", "SpeedRacing\SpeedRacing.csproj", "{0F552740-C720-4BA1-B6F3-195D5FB1A7D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{448EEBC0-AD41-4304-B71E-D2E1FB6A24B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{448EEBC0-AD41-4304-B71E-D2E1FB6A24B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{448EEBC0-AD41-4304-B71E-D2E1FB6A24B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F552740-C720-4BA1-B6F3-195D5FB1A7D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F552740-C720-4BA1-B6F3-195D5FB1A7D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F552740-C720-4BA1-B6F3-195D5FB1A7D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F552740-C720-4BA1-B6F3-195D5FB1A7D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
