@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\RawData\bin\Debug\net5.0\RawData.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\RawData\bin\Debug\net5.0\RawData.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\RawData\bin\Debug\net5.0\RawData.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\RawData\bin\Debug\net5.0\RawData.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\RawData\bin\Debug\net5.0\RawData.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\RawData\bin\Debug\net5.0\ref\RawData.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\RawData\bin\Debug\net5.0\RawData.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\RawData\obj\Debug\net5.0\RawData.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\RawData\obj\Debug\net5.0\RawData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\RawData\obj\Debug\net5.0\RawData.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\RawData\obj\Debug\net5.0\RawData.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\RawData\obj\Debug\net5.0\RawData.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\RawData\obj\Debug\net5.0\RawData.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\RawData\obj\Debug\net5.0\ref\RawData.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\RawData\obj\Debug\net5.0\RawData.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\RawData\obj\Debug\net5.0\RawData.genruntimeconfig.cache
