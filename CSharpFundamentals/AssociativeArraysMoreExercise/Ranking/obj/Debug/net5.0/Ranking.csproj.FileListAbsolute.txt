@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Ranking\bin\Debug\net5.0\Ranking.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Ranking\bin\Debug\net5.0\Ranking.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Ranking\bin\Debug\net5.0\Ranking.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Ranking\bin\Debug\net5.0\Ranking.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Ranking\bin\Debug\net5.0\Ranking.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Ranking\bin\Debug\net5.0\ref\Ranking.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Ranking\bin\Debug\net5.0\Ranking.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Ranking\obj\Debug\net5.0\Ranking.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Ranking\obj\Debug\net5.0\Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Ranking\obj\Debug\net5.0\Ranking.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Ranking\obj\Debug\net5.0\Ranking.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Ranking\obj\Debug\net5.0\Ranking.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Ranking\obj\Debug\net5.0\Ranking.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Ranking\obj\Debug\net5.0\ref\Ranking.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Ranking\obj\Debug\net5.0\Ranking.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Ranking\obj\Debug\net5.0\Ranking.genruntimeconfig.cache
