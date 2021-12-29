@@ -1,0 +1,15 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordFilter\bin\Debug\net5.0\WordFilter.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordFilter\bin\Debug\net5.0\WordFilter.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordFilter\bin\Debug\net5.0\WordFilter.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordFilter\bin\Debug\net5.0\WordFilter.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordFilter\bin\Debug\net5.0\WordFilter.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordFilter\bin\Debug\net5.0\ref\WordFilter.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordFilter\bin\Debug\net5.0\WordFilter.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordFilter\obj\Debug\net5.0\WordFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordFilter\obj\Debug\net5.0\WordFilter.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordFilter\obj\Debug\net5.0\WordFilter.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordFilter\obj\Debug\net5.0\WordFilter.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordFilter\obj\Debug\net5.0\WordFilter.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordFilter\obj\Debug\net5.0\ref\WordFilter.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordFilter\obj\Debug\net5.0\WordFilter.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordFilter\obj\Debug\net5.0\WordFilter.genruntimeconfig.cache
