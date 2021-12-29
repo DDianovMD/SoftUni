@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\CountRealNumbers\bin\Debug\net5.0\CountRealNumbers.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\CountRealNumbers\bin\Debug\net5.0\CountRealNumbers.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\CountRealNumbers\bin\Debug\net5.0\CountRealNumbers.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\CountRealNumbers\bin\Debug\net5.0\CountRealNumbers.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\CountRealNumbers\bin\Debug\net5.0\CountRealNumbers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\CountRealNumbers\bin\Debug\net5.0\ref\CountRealNumbers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\CountRealNumbers\bin\Debug\net5.0\CountRealNumbers.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\CountRealNumbers\obj\Debug\net5.0\CountRealNumbers.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\CountRealNumbers\obj\Debug\net5.0\CountRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\CountRealNumbers\obj\Debug\net5.0\CountRealNumbers.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\CountRealNumbers\obj\Debug\net5.0\CountRealNumbers.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\CountRealNumbers\obj\Debug\net5.0\CountRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\CountRealNumbers\obj\Debug\net5.0\CountRealNumbers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\CountRealNumbers\obj\Debug\net5.0\ref\CountRealNumbers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\CountRealNumbers\obj\Debug\net5.0\CountRealNumbers.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\CountRealNumbers\obj\Debug\net5.0\CountRealNumbers.genruntimeconfig.cache
