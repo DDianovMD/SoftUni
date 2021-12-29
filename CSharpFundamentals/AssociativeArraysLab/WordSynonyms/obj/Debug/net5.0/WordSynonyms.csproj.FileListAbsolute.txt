@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordSynonyms\bin\Debug\net5.0\WordSynonyms.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordSynonyms\bin\Debug\net5.0\WordSynonyms.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordSynonyms\bin\Debug\net5.0\WordSynonyms.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordSynonyms\bin\Debug\net5.0\WordSynonyms.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordSynonyms\bin\Debug\net5.0\WordSynonyms.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordSynonyms\bin\Debug\net5.0\ref\WordSynonyms.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordSynonyms\bin\Debug\net5.0\WordSynonyms.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordSynonyms\obj\Debug\net5.0\WordSynonyms.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordSynonyms\obj\Debug\net5.0\WordSynonyms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordSynonyms\obj\Debug\net5.0\WordSynonyms.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordSynonyms\obj\Debug\net5.0\WordSynonyms.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordSynonyms\obj\Debug\net5.0\WordSynonyms.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordSynonyms\obj\Debug\net5.0\WordSynonyms.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordSynonyms\obj\Debug\net5.0\ref\WordSynonyms.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordSynonyms\obj\Debug\net5.0\WordSynonyms.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\WordSynonyms\obj\Debug\net5.0\WordSynonyms.genruntimeconfig.cache
