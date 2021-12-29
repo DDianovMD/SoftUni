@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\MOBAChallenger\bin\Debug\net5.0\MOBAChallenger.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\MOBAChallenger\bin\Debug\net5.0\MOBAChallenger.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\MOBAChallenger\bin\Debug\net5.0\MOBAChallenger.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\MOBAChallenger\bin\Debug\net5.0\MOBAChallenger.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\MOBAChallenger\bin\Debug\net5.0\MOBAChallenger.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\MOBAChallenger\bin\Debug\net5.0\ref\MOBAChallenger.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\MOBAChallenger\bin\Debug\net5.0\MOBAChallenger.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\MOBAChallenger\obj\Debug\net5.0\MOBAChallenger.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\MOBAChallenger\obj\Debug\net5.0\MOBAChallenger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\MOBAChallenger\obj\Debug\net5.0\MOBAChallenger.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\MOBAChallenger\obj\Debug\net5.0\MOBAChallenger.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\MOBAChallenger\obj\Debug\net5.0\MOBAChallenger.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\MOBAChallenger\obj\Debug\net5.0\MOBAChallenger.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\MOBAChallenger\obj\Debug\net5.0\ref\MOBAChallenger.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\MOBAChallenger\obj\Debug\net5.0\MOBAChallenger.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\MOBAChallenger\obj\Debug\net5.0\MOBAChallenger.genruntimeconfig.cache
