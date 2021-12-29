@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\OddOccurrences\bin\Debug\net5.0\OddOccurrences.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\OddOccurrences\bin\Debug\net5.0\OddOccurrences.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\OddOccurrences\bin\Debug\net5.0\OddOccurrences.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\OddOccurrences\bin\Debug\net5.0\OddOccurrences.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\OddOccurrences\bin\Debug\net5.0\OddOccurrences.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\OddOccurrences\bin\Debug\net5.0\ref\OddOccurrences.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\OddOccurrences\bin\Debug\net5.0\OddOccurrences.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\OddOccurrences\obj\Debug\net5.0\OddOccurrences.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\OddOccurrences\obj\Debug\net5.0\OddOccurrences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\OddOccurrences\obj\Debug\net5.0\OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\OddOccurrences\obj\Debug\net5.0\OddOccurrences.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\OddOccurrences\obj\Debug\net5.0\OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\OddOccurrences\obj\Debug\net5.0\OddOccurrences.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\OddOccurrences\obj\Debug\net5.0\ref\OddOccurrences.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\OddOccurrences\obj\Debug\net5.0\OddOccurrences.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysLab\OddOccurrences\obj\Debug\net5.0\OddOccurrences.genruntimeconfig.cache

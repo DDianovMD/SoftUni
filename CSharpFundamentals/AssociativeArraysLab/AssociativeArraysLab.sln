@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountRealNumbers", "CountRealNumbers\CountRealNumbers.csproj", "{40630B67-2EB5-4DCC-B2CA-7FBF4D1F9498}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountRealNumbers", "CountRealNumbers\CountRealNumbers.csproj", "{40630B67-2EB5-4DCC-B2CA-7FBF4D1F9498}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOccurrences", "OddOccurrences\OddOccurrences.csproj", "{494DA34F-8B4C-46A9-BE9C-E3E4774FA854}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{40630B67-2EB5-4DCC-B2CA-7FBF4D1F9498}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40630B67-2EB5-4DCC-B2CA-7FBF4D1F9498}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40630B67-2EB5-4DCC-B2CA-7FBF4D1F9498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{494DA34F-8B4C-46A9-BE9C-E3E4774FA854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494DA34F-8B4C-46A9-BE9C-E3E4774FA854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494DA34F-8B4C-46A9-BE9C-E3E4774FA854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494DA34F-8B4C-46A9-BE9C-E3E4774FA854}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
