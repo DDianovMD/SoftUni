@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\ShoppingSpree\bin\Debug\net5.0\ShoppingSpree.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\ShoppingSpree\bin\Debug\net5.0\ShoppingSpree.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\ShoppingSpree\bin\Debug\net5.0\ShoppingSpree.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\ShoppingSpree\bin\Debug\net5.0\ShoppingSpree.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\ShoppingSpree\bin\Debug\net5.0\ShoppingSpree.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\ShoppingSpree\bin\Debug\net5.0\ref\ShoppingSpree.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\ShoppingSpree\bin\Debug\net5.0\ShoppingSpree.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\ShoppingSpree\obj\Debug\net5.0\ShoppingSpree.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\ShoppingSpree\obj\Debug\net5.0\ShoppingSpree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\ShoppingSpree\obj\Debug\net5.0\ShoppingSpree.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\ShoppingSpree\obj\Debug\net5.0\ShoppingSpree.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\ShoppingSpree\obj\Debug\net5.0\ShoppingSpree.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\ShoppingSpree\obj\Debug\net5.0\ShoppingSpree.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\ShoppingSpree\obj\Debug\net5.0\ref\ShoppingSpree.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\ShoppingSpree\obj\Debug\net5.0\ShoppingSpree.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\ObjectsAndClassesMoreExercise\ShoppingSpree\obj\Debug\net5.0\ShoppingSpree.genruntimeconfig.cache
