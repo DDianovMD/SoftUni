@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Snowwhite\bin\Debug\net5.0\Snowwhite.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Snowwhite\bin\Debug\net5.0\Snowwhite.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Snowwhite\bin\Debug\net5.0\Snowwhite.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Snowwhite\bin\Debug\net5.0\Snowwhite.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Snowwhite\bin\Debug\net5.0\Snowwhite.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Snowwhite\bin\Debug\net5.0\ref\Snowwhite.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Snowwhite\bin\Debug\net5.0\Snowwhite.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Snowwhite\obj\Debug\net5.0\Snowwhite.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Snowwhite\obj\Debug\net5.0\Snowwhite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Snowwhite\obj\Debug\net5.0\Snowwhite.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Snowwhite\obj\Debug\net5.0\Snowwhite.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Snowwhite\obj\Debug\net5.0\Snowwhite.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Snowwhite\obj\Debug\net5.0\Snowwhite.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Snowwhite\obj\Debug\net5.0\ref\Snowwhite.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Snowwhite\obj\Debug\net5.0\Snowwhite.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\Snowwhite\obj\Debug\net5.0\Snowwhite.genruntimeconfig.cache
