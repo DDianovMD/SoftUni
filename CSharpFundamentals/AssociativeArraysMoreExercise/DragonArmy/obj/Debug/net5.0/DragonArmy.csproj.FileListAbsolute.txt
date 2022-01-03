@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\DragonArmy\bin\Debug\net5.0\DragonArmy.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\DragonArmy\bin\Debug\net5.0\DragonArmy.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\DragonArmy\bin\Debug\net5.0\DragonArmy.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\DragonArmy\bin\Debug\net5.0\DragonArmy.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\DragonArmy\bin\Debug\net5.0\DragonArmy.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\DragonArmy\bin\Debug\net5.0\ref\DragonArmy.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\DragonArmy\bin\Debug\net5.0\DragonArmy.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\DragonArmy\obj\Debug\net5.0\DragonArmy.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\DragonArmy\obj\Debug\net5.0\DragonArmy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\DragonArmy\obj\Debug\net5.0\DragonArmy.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\DragonArmy\obj\Debug\net5.0\DragonArmy.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\DragonArmy\obj\Debug\net5.0\DragonArmy.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\DragonArmy\obj\Debug\net5.0\DragonArmy.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\DragonArmy\obj\Debug\net5.0\ref\DragonArmy.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\DragonArmy\obj\Debug\net5.0\DragonArmy.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\AssociativeArraysMoreExercise\DragonArmy\obj\Debug\net5.0\DragonArmy.genruntimeconfig.cache
