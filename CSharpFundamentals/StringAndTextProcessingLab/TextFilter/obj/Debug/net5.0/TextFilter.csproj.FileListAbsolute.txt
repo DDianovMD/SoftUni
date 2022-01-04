@@ -1,0 +1,15 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\TextFilter\bin\Debug\net5.0\TextFilter.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\TextFilter\bin\Debug\net5.0\TextFilter.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\TextFilter\bin\Debug\net5.0\TextFilter.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\TextFilter\bin\Debug\net5.0\TextFilter.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\TextFilter\bin\Debug\net5.0\TextFilter.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\TextFilter\bin\Debug\net5.0\ref\TextFilter.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\TextFilter\bin\Debug\net5.0\TextFilter.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\TextFilter\obj\Debug\net5.0\TextFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\TextFilter\obj\Debug\net5.0\TextFilter.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\TextFilter\obj\Debug\net5.0\TextFilter.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\TextFilter\obj\Debug\net5.0\TextFilter.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\TextFilter\obj\Debug\net5.0\TextFilter.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\TextFilter\obj\Debug\net5.0\ref\TextFilter.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\TextFilter\obj\Debug\net5.0\TextFilter.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\TextFilter\obj\Debug\net5.0\TextFilter.genruntimeconfig.cache
