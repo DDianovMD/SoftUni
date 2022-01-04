@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\Substring\bin\Debug\net5.0\Substring.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\Substring\bin\Debug\net5.0\Substring.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\Substring\bin\Debug\net5.0\Substring.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\Substring\bin\Debug\net5.0\Substring.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\Substring\bin\Debug\net5.0\Substring.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\Substring\bin\Debug\net5.0\ref\Substring.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\Substring\bin\Debug\net5.0\Substring.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\Substring\obj\Debug\net5.0\Substring.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\Substring\obj\Debug\net5.0\Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\Substring\obj\Debug\net5.0\Substring.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\Substring\obj\Debug\net5.0\Substring.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\Substring\obj\Debug\net5.0\Substring.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\Substring\obj\Debug\net5.0\Substring.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\Substring\obj\Debug\net5.0\ref\Substring.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\Substring\obj\Debug\net5.0\Substring.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\Substring\obj\Debug\net5.0\Substring.genruntimeconfig.cache
