@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5Thbf3Tc9vKSLzisJ4RI3OitR4oB//nkjQnlfy2F8MbjgiXXWmnpm4AQKqDTsKFX1liTLebAzI00YCRzK1DU7w==",
+  "dgSpecHash": "FCyaaERxWYJpmOLdXhaTqb2PYBwkOoQW5LaRkjIhIMl5ru4fs9XZ+SQvguMw+ilaOioGHk5SQrGFZOWjIY4X8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\StringAndTextProcessing\\CaesarCipher\\CaesarCipher.csproj",
+  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\StringAndTextProcessingExercise\\CaesarCipher\\CaesarCipher.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

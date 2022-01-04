@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\StringAndTextProcessing\\CharacterMultiplier\\CharacterMultiplier.csproj",
+      "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\StringAndTextProcessingExercise\\CharacterMultiplier\\CharacterMultiplier.csproj",
       "projectName": "CharacterMultiplier",
-      "projectPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\StringAndTextProcessing\\CharacterMultiplier\\CharacterMultiplier.csproj",
+      "projectPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\StringAndTextProcessingExercise\\CharacterMultiplier\\CharacterMultiplier.csproj",
       "packagesPath": "C:\\Users\\ddian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\StringAndTextProcessing\\CharacterMultiplier\\obj\\",
+      "outputPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\StringAndTextProcessingExercise\\CharacterMultiplier\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

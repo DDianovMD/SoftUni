@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "LettersChangeNumbers/1.0.0": {
+        "runtime": {
+          "LettersChangeNumbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LettersChangeNumbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

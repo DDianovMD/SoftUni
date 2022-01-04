@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Inc8luX+1aI6s8/gfNxygkl9hZT4cuXBUlAhvSRgHrMpOG2PtYWEhV0EPb/vyq0Uh5ljX4WCJwg1aGN9hpXmdQ==",
+  "dgSpecHash": "XGzyYl9w1Qz+fXSZAPLloFZFH18uYK0l2LPq0CVpSKNsYM3DRP/cCkhPfLL7Mg8j/F7JmHhCHniASMjSdMS9Gg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\StringAndTextProcessing\\ValidUsernames\\ValidUsernames.csproj",
+  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\StringAndTextProcessingExercise\\ValidUsernames\\ValidUsernames.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

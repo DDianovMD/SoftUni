@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingExercise\LettersChangeNumbers\bin\Debug\net5.0\LettersChangeNumbers.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingExercise\LettersChangeNumbers\bin\Debug\net5.0\LettersChangeNumbers.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingExercise\LettersChangeNumbers\bin\Debug\net5.0\LettersChangeNumbers.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingExercise\LettersChangeNumbers\bin\Debug\net5.0\LettersChangeNumbers.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingExercise\LettersChangeNumbers\bin\Debug\net5.0\LettersChangeNumbers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingExercise\LettersChangeNumbers\bin\Debug\net5.0\ref\LettersChangeNumbers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingExercise\LettersChangeNumbers\bin\Debug\net5.0\LettersChangeNumbers.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingExercise\LettersChangeNumbers\obj\Debug\net5.0\LettersChangeNumbers.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingExercise\LettersChangeNumbers\obj\Debug\net5.0\LettersChangeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingExercise\LettersChangeNumbers\obj\Debug\net5.0\LettersChangeNumbers.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingExercise\LettersChangeNumbers\obj\Debug\net5.0\LettersChangeNumbers.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingExercise\LettersChangeNumbers\obj\Debug\net5.0\LettersChangeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingExercise\LettersChangeNumbers\obj\Debug\net5.0\LettersChangeNumbers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingExercise\LettersChangeNumbers\obj\Debug\net5.0\ref\LettersChangeNumbers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingExercise\LettersChangeNumbers\obj\Debug\net5.0\LettersChangeNumbers.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingExercise\LettersChangeNumbers\obj\Debug\net5.0\LettersChangeNumbers.genruntimeconfig.cache

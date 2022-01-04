@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xDD8/pXhIdXIEO1dSo+185xgHWm9b00rdSWVqt3lKntA6OdSO3PCZOkTZghLh9GN0BJRWeyz7BhpJBybSz3DpQ==",
+  "dgSpecHash": "ZJMq8KOY+ft8HUOtq1ZIfbgjEb+he06KQoG/TjKtWwfr3XxpFOWFrq10M1l5+wlucrxO+3N+BquawVRsDkXwnw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\StringAndTextProcessing\\ExtractFile\\ExtractFile.csproj",
+  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\StringAndTextProcessingExercise\\ExtractFile\\ExtractFile.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

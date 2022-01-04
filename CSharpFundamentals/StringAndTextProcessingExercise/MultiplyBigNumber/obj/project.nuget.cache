@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fvQ5EeIB5cVXefNv6fKfEFnUJzxlpzpIgbe5H+jMeJtJtuaxA7uRrel3tZk+yd2o9nsHKaBaVEjZ1813ycMyrw==",
+  "dgSpecHash": "JDior/HpG1Ha+H2l0JqqD9GLrOPtRMbaoQXVts+Nv5e9h+g+Po+ptODfhcFbGaItN0uhzpkruDYY7Rp+e6p5Bw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\StringAndTextProcessing\\MultiplyBigNumber\\MultiplyBigNumber.csproj",
+  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpFundamentals\\StringAndTextProcessingExercise\\MultiplyBigNumber\\MultiplyBigNumber.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
