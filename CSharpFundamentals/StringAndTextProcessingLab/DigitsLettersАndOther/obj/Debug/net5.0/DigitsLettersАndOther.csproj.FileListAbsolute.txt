@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\DigitsLettersАndOther\bin\Debug\net5.0\DigitsLettersАndOther.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\DigitsLettersАndOther\bin\Debug\net5.0\DigitsLettersАndOther.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\DigitsLettersАndOther\bin\Debug\net5.0\DigitsLettersАndOther.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\DigitsLettersАndOther\bin\Debug\net5.0\DigitsLettersАndOther.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\DigitsLettersАndOther\bin\Debug\net5.0\DigitsLettersАndOther.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\DigitsLettersАndOther\bin\Debug\net5.0\ref\DigitsLettersАndOther.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\DigitsLettersАndOther\bin\Debug\net5.0\DigitsLettersАndOther.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\DigitsLettersАndOther\obj\Debug\net5.0\DigitsLettersАndOther.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\DigitsLettersАndOther\obj\Debug\net5.0\DigitsLettersАndOther.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\DigitsLettersАndOther\obj\Debug\net5.0\DigitsLettersАndOther.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\DigitsLettersАndOther\obj\Debug\net5.0\DigitsLettersАndOther.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\DigitsLettersАndOther\obj\Debug\net5.0\DigitsLettersАndOther.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\DigitsLettersАndOther\obj\Debug\net5.0\DigitsLettersАndOther.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\DigitsLettersАndOther\obj\Debug\net5.0\ref\DigitsLettersАndOther.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\DigitsLettersАndOther\obj\Debug\net5.0\DigitsLettersАndOther.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\DigitsLettersАndOther\obj\Debug\net5.0\DigitsLettersАndOther.genruntimeconfig.cache
