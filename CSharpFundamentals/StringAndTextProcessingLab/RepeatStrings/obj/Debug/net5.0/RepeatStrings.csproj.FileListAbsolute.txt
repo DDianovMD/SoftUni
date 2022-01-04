@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\RepeatStrings\bin\Debug\net5.0\RepeatStrings.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\RepeatStrings\bin\Debug\net5.0\RepeatStrings.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\RepeatStrings\bin\Debug\net5.0\RepeatStrings.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\RepeatStrings\bin\Debug\net5.0\RepeatStrings.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\RepeatStrings\bin\Debug\net5.0\RepeatStrings.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\RepeatStrings\bin\Debug\net5.0\ref\RepeatStrings.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\RepeatStrings\bin\Debug\net5.0\RepeatStrings.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\RepeatStrings\obj\Debug\net5.0\RepeatStrings.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\RepeatStrings\obj\Debug\net5.0\RepeatStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\RepeatStrings\obj\Debug\net5.0\RepeatStrings.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\RepeatStrings\obj\Debug\net5.0\RepeatStrings.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\RepeatStrings\obj\Debug\net5.0\RepeatStrings.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\RepeatStrings\obj\Debug\net5.0\RepeatStrings.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\RepeatStrings\obj\Debug\net5.0\ref\RepeatStrings.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\RepeatStrings\obj\Debug\net5.0\RepeatStrings.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingLab\RepeatStrings\obj\Debug\net5.0\RepeatStrings.genruntimeconfig.cache
