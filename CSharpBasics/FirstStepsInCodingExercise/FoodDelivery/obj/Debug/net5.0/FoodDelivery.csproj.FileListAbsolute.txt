@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\FoodDelivery\bin\Debug\net5.0\FoodDelivery.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\FoodDelivery\bin\Debug\net5.0\FoodDelivery.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\FoodDelivery\bin\Debug\net5.0\FoodDelivery.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\FoodDelivery\bin\Debug\net5.0\FoodDelivery.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\FoodDelivery\bin\Debug\net5.0\FoodDelivery.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\FoodDelivery\bin\Debug\net5.0\ref\FoodDelivery.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\FoodDelivery\bin\Debug\net5.0\FoodDelivery.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\FoodDelivery\obj\Debug\net5.0\FoodDelivery.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\FoodDelivery\obj\Debug\net5.0\FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\FoodDelivery\obj\Debug\net5.0\FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\FoodDelivery\obj\Debug\net5.0\FoodDelivery.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\FoodDelivery\obj\Debug\net5.0\FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\FoodDelivery\obj\Debug\net5.0\FoodDelivery.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\FoodDelivery\obj\Debug\net5.0\ref\FoodDelivery.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\FoodDelivery\obj\Debug\net5.0\FoodDelivery.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\FoodDelivery\obj\Debug\net5.0\FoodDelivery.genruntimeconfig.cache
