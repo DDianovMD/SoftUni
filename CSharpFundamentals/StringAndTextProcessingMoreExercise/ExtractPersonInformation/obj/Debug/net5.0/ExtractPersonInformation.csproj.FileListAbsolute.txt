@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ExtractPersonInformation\bin\Debug\net5.0\ExtractPersonInformation.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ExtractPersonInformation\bin\Debug\net5.0\ExtractPersonInformation.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ExtractPersonInformation\bin\Debug\net5.0\ExtractPersonInformation.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ExtractPersonInformation\bin\Debug\net5.0\ExtractPersonInformation.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ExtractPersonInformation\bin\Debug\net5.0\ExtractPersonInformation.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ExtractPersonInformation\bin\Debug\net5.0\ref\ExtractPersonInformation.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ExtractPersonInformation\bin\Debug\net5.0\ExtractPersonInformation.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ExtractPersonInformation\obj\Debug\net5.0\ExtractPersonInformation.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ExtractPersonInformation\obj\Debug\net5.0\ExtractPersonInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ExtractPersonInformation\obj\Debug\net5.0\ExtractPersonInformation.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ExtractPersonInformation\obj\Debug\net5.0\ExtractPersonInformation.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ExtractPersonInformation\obj\Debug\net5.0\ExtractPersonInformation.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ExtractPersonInformation\obj\Debug\net5.0\ExtractPersonInformation.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ExtractPersonInformation\obj\Debug\net5.0\ref\ExtractPersonInformation.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ExtractPersonInformation\obj\Debug\net5.0\ExtractPersonInformation.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ExtractPersonInformation\obj\Debug\net5.0\ExtractPersonInformation.genruntimeconfig.cache
