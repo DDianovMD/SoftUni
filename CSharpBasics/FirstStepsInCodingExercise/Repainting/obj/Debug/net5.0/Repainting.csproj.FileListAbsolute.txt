@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\Repainting\bin\Debug\net5.0\Repainting.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\Repainting\bin\Debug\net5.0\Repainting.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\Repainting\bin\Debug\net5.0\Repainting.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\Repainting\bin\Debug\net5.0\Repainting.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\Repainting\bin\Debug\net5.0\Repainting.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\Repainting\bin\Debug\net5.0\ref\Repainting.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\Repainting\bin\Debug\net5.0\Repainting.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\Repainting\obj\Debug\net5.0\Repainting.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\Repainting\obj\Debug\net5.0\Repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\Repainting\obj\Debug\net5.0\Repainting.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\Repainting\obj\Debug\net5.0\Repainting.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\Repainting\obj\Debug\net5.0\Repainting.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\Repainting\obj\Debug\net5.0\Repainting.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\Repainting\obj\Debug\net5.0\ref\Repainting.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\Repainting\obj\Debug\net5.0\Repainting.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\Repainting\obj\Debug\net5.0\Repainting.genruntimeconfig.cache
