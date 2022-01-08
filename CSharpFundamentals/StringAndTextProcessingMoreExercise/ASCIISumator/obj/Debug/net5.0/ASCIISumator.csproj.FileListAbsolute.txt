@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ASCIISumator\bin\Debug\net5.0\ASCIISumator.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ASCIISumator\bin\Debug\net5.0\ASCIISumator.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ASCIISumator\bin\Debug\net5.0\ASCIISumator.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ASCIISumator\bin\Debug\net5.0\ASCIISumator.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ASCIISumator\bin\Debug\net5.0\ASCIISumator.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ASCIISumator\bin\Debug\net5.0\ref\ASCIISumator.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ASCIISumator\bin\Debug\net5.0\ASCIISumator.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ASCIISumator\obj\Debug\net5.0\ASCIISumator.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ASCIISumator\obj\Debug\net5.0\ASCIISumator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ASCIISumator\obj\Debug\net5.0\ASCIISumator.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ASCIISumator\obj\Debug\net5.0\ASCIISumator.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ASCIISumator\obj\Debug\net5.0\ASCIISumator.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ASCIISumator\obj\Debug\net5.0\ASCIISumator.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ASCIISumator\obj\Debug\net5.0\ref\ASCIISumator.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ASCIISumator\obj\Debug\net5.0\ASCIISumator.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\ASCIISumator\obj\Debug\net5.0\ASCIISumator.genruntimeconfig.cache
