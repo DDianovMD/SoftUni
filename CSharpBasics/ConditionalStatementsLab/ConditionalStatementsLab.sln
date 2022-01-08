@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1401
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcellentResult", "ExcellentResult\ExcellentResult.csproj", "{FCC672FE-BC21-450A-8D5F-A08832E82C54}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaOfFigures", "AreaOfFigures\AreaOfFigures.csproj", "{8E90D09D-A03A-49F3-954F-AFFDD8DDA656}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToyShop", "ToyShop\ToyShop.csproj", "{43F0830D-1A87-4D75-A686-6A9E74AFE508}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedInfo", "SpeedInfo\SpeedInfo.csproj", "{F2F75AA9-E973-4311-BEA0-0F585227EB14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{43F0830D-1A87-4D75-A686-6A9E74AFE508}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43F0830D-1A87-4D75-A686-6A9E74AFE508}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43F0830D-1A87-4D75-A686-6A9E74AFE508}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2F75AA9-E973-4311-BEA0-0F585227EB14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2F75AA9-E973-4311-BEA0-0F585227EB14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2F75AA9-E973-4311-BEA0-0F585227EB14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2F75AA9-E973-4311-BEA0-0F585227EB14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
