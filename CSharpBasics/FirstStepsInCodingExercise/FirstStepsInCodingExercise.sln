@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.1401
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "USDtoBGN", "USDtoBGN\USDtoBGN.csproj", "{6B1FB428-5E3B-4ABD-9E14-BC0498EEBC9D}"
 EndProject
@@ -18,6 +18,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FruitMarket", "FruitMarket\FruitMarket.csproj", "{40AE626B-5F14-4630-AFC8-F81A2456B25A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FishTank", "FishTank\FishTank.csproj", "{CC59A0C9-3255-4686-8825-A265D7DA2FAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuppliesForSchool", "SuppliesForSchool\SuppliesForSchool.csproj", "{252865D3-064E-42D9-9105-DB0770D5EBE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{CC59A0C9-3255-4686-8825-A265D7DA2FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC59A0C9-3255-4686-8825-A265D7DA2FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC59A0C9-3255-4686-8825-A265D7DA2FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{252865D3-064E-42D9-9105-DB0770D5EBE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252865D3-064E-42D9-9105-DB0770D5EBE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252865D3-064E-42D9-9105-DB0770D5EBE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252865D3-064E-42D9-9105-DB0770D5EBE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
