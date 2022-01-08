@@ -1,0 +1,15 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\BasketballEquipment\bin\Debug\net5.0\BasketballEquipment.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\BasketballEquipment\bin\Debug\net5.0\BasketballEquipment.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\BasketballEquipment\bin\Debug\net5.0\BasketballEquipment.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\BasketballEquipment\bin\Debug\net5.0\BasketballEquipment.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\BasketballEquipment\bin\Debug\net5.0\BasketballEquipment.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\BasketballEquipment\bin\Debug\net5.0\ref\BasketballEquipment.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\BasketballEquipment\bin\Debug\net5.0\BasketballEquipment.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\net5.0\BasketballEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\net5.0\BasketballEquipment.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\net5.0\BasketballEquipment.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\net5.0\BasketballEquipment.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\net5.0\BasketballEquipment.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\net5.0\ref\BasketballEquipment.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\net5.0\BasketballEquipment.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\FirstStepsInCodingExercise\BasketballEquipment\obj\Debug\net5.0\BasketballEquipment.genruntimeconfig.cache

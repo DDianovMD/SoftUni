@@ -23,7 +23,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuppliesForSchool", "Suppli
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repainting", "Repainting\Repainting.csproj", "{D7EBA9B1-4F41-48C1-A7F3-BDA18E94C2E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodDelivery", "FoodDelivery\FoodDelivery.csproj", "{2AE71B0F-A336-4B87-BC1A-9AD029F2BC07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoodDelivery", "FoodDelivery\FoodDelivery.csproj", "{2AE71B0F-A336-4B87-BC1A-9AD029F2BC07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasketballEquipment", "BasketballEquipment\BasketballEquipment.csproj", "{D0C310BB-7A87-4EF3-8D48-DADF8C8E5FC5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{2AE71B0F-A336-4B87-BC1A-9AD029F2BC07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2AE71B0F-A336-4B87-BC1A-9AD029F2BC07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2AE71B0F-A336-4B87-BC1A-9AD029F2BC07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C310BB-7A87-4EF3-8D48-DADF8C8E5FC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C310BB-7A87-4EF3-8D48-DADF8C8E5FC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C310BB-7A87-4EF3-8D48-DADF8C8E5FC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C310BB-7A87-4EF3-8D48-DADF8C8E5FC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
