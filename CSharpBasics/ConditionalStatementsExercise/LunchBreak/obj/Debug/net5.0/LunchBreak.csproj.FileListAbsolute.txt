@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\ConditionalStatementsExercise\LunchBreak\bin\Debug\net5.0\LunchBreak.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\ConditionalStatementsExercise\LunchBreak\bin\Debug\net5.0\LunchBreak.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\ConditionalStatementsExercise\LunchBreak\bin\Debug\net5.0\LunchBreak.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\ConditionalStatementsExercise\LunchBreak\bin\Debug\net5.0\LunchBreak.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\ConditionalStatementsExercise\LunchBreak\bin\Debug\net5.0\LunchBreak.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\ConditionalStatementsExercise\LunchBreak\bin\Debug\net5.0\ref\LunchBreak.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\ConditionalStatementsExercise\LunchBreak\bin\Debug\net5.0\LunchBreak.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\ConditionalStatementsExercise\LunchBreak\obj\Debug\net5.0\LunchBreak.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\ConditionalStatementsExercise\LunchBreak\obj\Debug\net5.0\LunchBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\ConditionalStatementsExercise\LunchBreak\obj\Debug\net5.0\LunchBreak.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\ConditionalStatementsExercise\LunchBreak\obj\Debug\net5.0\LunchBreak.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\ConditionalStatementsExercise\LunchBreak\obj\Debug\net5.0\LunchBreak.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\ConditionalStatementsExercise\LunchBreak\obj\Debug\net5.0\LunchBreak.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\ConditionalStatementsExercise\LunchBreak\obj\Debug\net5.0\ref\LunchBreak.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\ConditionalStatementsExercise\LunchBreak\obj\Debug\net5.0\LunchBreak.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpBasics\ConditionalStatementsExercise\LunchBreak\obj\Debug\net5.0\LunchBreak.genruntimeconfig.cache
