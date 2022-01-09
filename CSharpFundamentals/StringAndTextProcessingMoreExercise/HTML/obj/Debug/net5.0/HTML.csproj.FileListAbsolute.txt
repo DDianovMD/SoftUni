@@ -1,0 +1,15 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\HTML\bin\Debug\net5.0\HTML.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\HTML\bin\Debug\net5.0\HTML.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\HTML\bin\Debug\net5.0\HTML.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\HTML\bin\Debug\net5.0\HTML.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\HTML\bin\Debug\net5.0\HTML.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\HTML\bin\Debug\net5.0\ref\HTML.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\HTML\bin\Debug\net5.0\HTML.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\HTML\obj\Debug\net5.0\HTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\HTML\obj\Debug\net5.0\HTML.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\HTML\obj\Debug\net5.0\HTML.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\HTML\obj\Debug\net5.0\HTML.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\HTML\obj\Debug\net5.0\HTML.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\HTML\obj\Debug\net5.0\ref\HTML.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\HTML\obj\Debug\net5.0\HTML.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\HTML\obj\Debug\net5.0\HTML.genruntimeconfig.cache
