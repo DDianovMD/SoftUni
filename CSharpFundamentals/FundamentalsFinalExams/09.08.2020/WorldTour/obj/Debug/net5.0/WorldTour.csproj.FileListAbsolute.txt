@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\WorldTour\bin\Debug\net5.0\WorldTour.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\WorldTour\bin\Debug\net5.0\WorldTour.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\WorldTour\bin\Debug\net5.0\WorldTour.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\WorldTour\bin\Debug\net5.0\WorldTour.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\WorldTour\bin\Debug\net5.0\WorldTour.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\WorldTour\bin\Debug\net5.0\ref\WorldTour.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\WorldTour\bin\Debug\net5.0\WorldTour.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\WorldTour\obj\Debug\net5.0\WorldTour.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\WorldTour\obj\Debug\net5.0\WorldTour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\WorldTour\obj\Debug\net5.0\WorldTour.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\WorldTour\obj\Debug\net5.0\WorldTour.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\WorldTour\obj\Debug\net5.0\WorldTour.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\WorldTour\obj\Debug\net5.0\WorldTour.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\WorldTour\obj\Debug\net5.0\ref\WorldTour.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\WorldTour\obj\Debug\net5.0\WorldTour.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\WorldTour\obj\Debug\net5.0\WorldTour.genruntimeconfig.cache
