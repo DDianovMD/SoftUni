@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\TreasureFinder\bin\Debug\net5.0\TreasureFinder.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\TreasureFinder\bin\Debug\net5.0\TreasureFinder.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\TreasureFinder\bin\Debug\net5.0\TreasureFinder.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\TreasureFinder\bin\Debug\net5.0\TreasureFinder.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\TreasureFinder\bin\Debug\net5.0\TreasureFinder.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\TreasureFinder\bin\Debug\net5.0\ref\TreasureFinder.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\TreasureFinder\bin\Debug\net5.0\TreasureFinder.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\TreasureFinder\obj\Debug\net5.0\TreasureFinder.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\TreasureFinder\obj\Debug\net5.0\TreasureFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\TreasureFinder\obj\Debug\net5.0\TreasureFinder.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\TreasureFinder\obj\Debug\net5.0\TreasureFinder.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\TreasureFinder\obj\Debug\net5.0\TreasureFinder.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\TreasureFinder\obj\Debug\net5.0\TreasureFinder.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\TreasureFinder\obj\Debug\net5.0\ref\TreasureFinder.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\TreasureFinder\obj\Debug\net5.0\TreasureFinder.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\TreasureFinder\obj\Debug\net5.0\TreasureFinder.genruntimeconfig.cache
