@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\MorseCodeTranslator\bin\Debug\net5.0\MorseCodeTranslator.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\MorseCodeTranslator\bin\Debug\net5.0\MorseCodeTranslator.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\MorseCodeTranslator\bin\Debug\net5.0\MorseCodeTranslator.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\MorseCodeTranslator\bin\Debug\net5.0\MorseCodeTranslator.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\MorseCodeTranslator\bin\Debug\net5.0\MorseCodeTranslator.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\MorseCodeTranslator\bin\Debug\net5.0\ref\MorseCodeTranslator.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\MorseCodeTranslator\bin\Debug\net5.0\MorseCodeTranslator.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\MorseCodeTranslator\obj\Debug\net5.0\MorseCodeTranslator.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\MorseCodeTranslator\obj\Debug\net5.0\MorseCodeTranslator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\MorseCodeTranslator\obj\Debug\net5.0\MorseCodeTranslator.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\MorseCodeTranslator\obj\Debug\net5.0\MorseCodeTranslator.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\MorseCodeTranslator\obj\Debug\net5.0\MorseCodeTranslator.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\MorseCodeTranslator\obj\Debug\net5.0\MorseCodeTranslator.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\MorseCodeTranslator\obj\Debug\net5.0\ref\MorseCodeTranslator.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\MorseCodeTranslator\obj\Debug\net5.0\MorseCodeTranslator.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\StringAndTextProcessingMoreExercise\MorseCodeTranslator\obj\Debug\net5.0\MorseCodeTranslator.genruntimeconfig.cache
