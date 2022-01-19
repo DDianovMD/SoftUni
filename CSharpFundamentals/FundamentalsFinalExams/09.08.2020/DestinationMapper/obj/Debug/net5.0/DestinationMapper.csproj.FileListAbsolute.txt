@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\DestinationMapper\bin\Debug\net5.0\DestinationMapper.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\DestinationMapper\bin\Debug\net5.0\DestinationMapper.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\DestinationMapper\bin\Debug\net5.0\DestinationMapper.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\DestinationMapper\bin\Debug\net5.0\DestinationMapper.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\DestinationMapper\bin\Debug\net5.0\DestinationMapper.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\DestinationMapper\bin\Debug\net5.0\ref\DestinationMapper.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\DestinationMapper\bin\Debug\net5.0\DestinationMapper.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\DestinationMapper\obj\Debug\net5.0\DestinationMapper.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\DestinationMapper\obj\Debug\net5.0\DestinationMapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\DestinationMapper\obj\Debug\net5.0\DestinationMapper.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\DestinationMapper\obj\Debug\net5.0\DestinationMapper.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\DestinationMapper\obj\Debug\net5.0\DestinationMapper.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\DestinationMapper\obj\Debug\net5.0\DestinationMapper.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\DestinationMapper\obj\Debug\net5.0\ref\DestinationMapper.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\DestinationMapper\obj\Debug\net5.0\DestinationMapper.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\09.08.2020\DestinationMapper\obj\Debug\net5.0\DestinationMapper.genruntimeconfig.cache
