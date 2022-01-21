@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchFullName\bin\Debug\net5.0\MatchFullName.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchFullName\bin\Debug\net5.0\MatchFullName.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchFullName\bin\Debug\net5.0\MatchFullName.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchFullName\bin\Debug\net5.0\MatchFullName.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchFullName\bin\Debug\net5.0\MatchFullName.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchFullName\bin\Debug\net5.0\ref\MatchFullName.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchFullName\bin\Debug\net5.0\MatchFullName.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchFullName\obj\Debug\net5.0\MatchFullName.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchFullName\obj\Debug\net5.0\MatchFullName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchFullName\obj\Debug\net5.0\MatchFullName.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchFullName\obj\Debug\net5.0\MatchFullName.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchFullName\obj\Debug\net5.0\MatchFullName.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchFullName\obj\Debug\net5.0\MatchFullName.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchFullName\obj\Debug\net5.0\ref\MatchFullName.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchFullName\obj\Debug\net5.0\MatchFullName.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchFullName\obj\Debug\net5.0\MatchFullName.genruntimeconfig.cache
