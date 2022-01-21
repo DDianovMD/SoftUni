@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchPhoneNumber\bin\Debug\net5.0\MatchPhoneNumber.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchPhoneNumber\bin\Debug\net5.0\MatchPhoneNumber.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchPhoneNumber\bin\Debug\net5.0\MatchPhoneNumber.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchPhoneNumber\bin\Debug\net5.0\MatchPhoneNumber.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchPhoneNumber\bin\Debug\net5.0\MatchPhoneNumber.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchPhoneNumber\bin\Debug\net5.0\ref\MatchPhoneNumber.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchPhoneNumber\bin\Debug\net5.0\MatchPhoneNumber.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchPhoneNumber\obj\Debug\net5.0\MatchPhoneNumber.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchPhoneNumber\obj\Debug\net5.0\MatchPhoneNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchPhoneNumber\obj\Debug\net5.0\MatchPhoneNumber.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchPhoneNumber\obj\Debug\net5.0\MatchPhoneNumber.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchPhoneNumber\obj\Debug\net5.0\MatchPhoneNumber.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchPhoneNumber\obj\Debug\net5.0\MatchPhoneNumber.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchPhoneNumber\obj\Debug\net5.0\ref\MatchPhoneNumber.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchPhoneNumber\obj\Debug\net5.0\MatchPhoneNumber.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchPhoneNumber\obj\Debug\net5.0\MatchPhoneNumber.genruntimeconfig.cache
