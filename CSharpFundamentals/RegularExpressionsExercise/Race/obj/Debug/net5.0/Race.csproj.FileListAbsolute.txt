@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Race\bin\Debug\net5.0\Race.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Race\bin\Debug\net5.0\Race.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Race\bin\Debug\net5.0\Race.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Race\bin\Debug\net5.0\Race.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Race\bin\Debug\net5.0\Race.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Race\bin\Debug\net5.0\ref\Race.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Race\bin\Debug\net5.0\Race.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Race\obj\Debug\net5.0\Race.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Race\obj\Debug\net5.0\Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Race\obj\Debug\net5.0\Race.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Race\obj\Debug\net5.0\Race.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Race\obj\Debug\net5.0\Race.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Race\obj\Debug\net5.0\Race.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Race\obj\Debug\net5.0\ref\Race.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Race\obj\Debug\net5.0\Race.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Race\obj\Debug\net5.0\Race.genruntimeconfig.cache
