@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\SoftUniBarIncome\bin\Debug\net5.0\SoftUniBarIncome.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\SoftUniBarIncome\bin\Debug\net5.0\SoftUniBarIncome.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\SoftUniBarIncome\bin\Debug\net5.0\SoftUniBarIncome.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\SoftUniBarIncome\bin\Debug\net5.0\SoftUniBarIncome.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\SoftUniBarIncome\bin\Debug\net5.0\SoftUniBarIncome.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\SoftUniBarIncome\bin\Debug\net5.0\ref\SoftUniBarIncome.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\SoftUniBarIncome\bin\Debug\net5.0\SoftUniBarIncome.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\SoftUniBarIncome\obj\Debug\net5.0\SoftUniBarIncome.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\SoftUniBarIncome\obj\Debug\net5.0\SoftUniBarIncome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\SoftUniBarIncome\obj\Debug\net5.0\SoftUniBarIncome.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\SoftUniBarIncome\obj\Debug\net5.0\SoftUniBarIncome.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\SoftUniBarIncome\obj\Debug\net5.0\SoftUniBarIncome.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\SoftUniBarIncome\obj\Debug\net5.0\SoftUniBarIncome.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\SoftUniBarIncome\obj\Debug\net5.0\ref\SoftUniBarIncome.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\SoftUniBarIncome\obj\Debug\net5.0\SoftUniBarIncome.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\SoftUniBarIncome\obj\Debug\net5.0\SoftUniBarIncome.genruntimeconfig.cache
