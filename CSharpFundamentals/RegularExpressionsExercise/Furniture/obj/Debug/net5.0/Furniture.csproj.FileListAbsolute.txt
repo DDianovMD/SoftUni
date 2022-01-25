@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Furniture\bin\Debug\net5.0\Furniture.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Furniture\bin\Debug\net5.0\Furniture.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Furniture\bin\Debug\net5.0\Furniture.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Furniture\bin\Debug\net5.0\Furniture.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Furniture\bin\Debug\net5.0\Furniture.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Furniture\bin\Debug\net5.0\ref\Furniture.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Furniture\bin\Debug\net5.0\Furniture.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Furniture\obj\Debug\net5.0\Furniture.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Furniture\obj\Debug\net5.0\Furniture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Furniture\obj\Debug\net5.0\Furniture.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Furniture\obj\Debug\net5.0\Furniture.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Furniture\obj\Debug\net5.0\Furniture.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Furniture\obj\Debug\net5.0\Furniture.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Furniture\obj\Debug\net5.0\ref\Furniture.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Furniture\obj\Debug\net5.0\Furniture.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\Furniture\obj\Debug\net5.0\Furniture.genruntimeconfig.cache
