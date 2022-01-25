@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\StarEnigma\bin\Debug\net5.0\StarEnigma.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\StarEnigma\bin\Debug\net5.0\StarEnigma.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\StarEnigma\bin\Debug\net5.0\StarEnigma.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\StarEnigma\bin\Debug\net5.0\StarEnigma.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\StarEnigma\bin\Debug\net5.0\StarEnigma.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\StarEnigma\bin\Debug\net5.0\ref\StarEnigma.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\StarEnigma\bin\Debug\net5.0\StarEnigma.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\StarEnigma\obj\Debug\net5.0\StarEnigma.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\StarEnigma\obj\Debug\net5.0\StarEnigma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\StarEnigma\obj\Debug\net5.0\StarEnigma.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\StarEnigma\obj\Debug\net5.0\StarEnigma.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\StarEnigma\obj\Debug\net5.0\StarEnigma.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\StarEnigma\obj\Debug\net5.0\StarEnigma.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\StarEnigma\obj\Debug\net5.0\ref\StarEnigma.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\StarEnigma\obj\Debug\net5.0\StarEnigma.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\StarEnigma\obj\Debug\net5.0\StarEnigma.genruntimeconfig.cache
