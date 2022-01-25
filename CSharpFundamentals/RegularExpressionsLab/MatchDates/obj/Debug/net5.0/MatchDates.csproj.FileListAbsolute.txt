@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchDates\bin\Debug\net5.0\MatchDates.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchDates\bin\Debug\net5.0\MatchDates.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchDates\bin\Debug\net5.0\MatchDates.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchDates\bin\Debug\net5.0\MatchDates.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchDates\bin\Debug\net5.0\MatchDates.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchDates\bin\Debug\net5.0\ref\MatchDates.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchDates\bin\Debug\net5.0\MatchDates.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchDates\obj\Debug\net5.0\MatchDates.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchDates\obj\Debug\net5.0\MatchDates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchDates\obj\Debug\net5.0\MatchDates.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchDates\obj\Debug\net5.0\MatchDates.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchDates\obj\Debug\net5.0\MatchDates.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchDates\obj\Debug\net5.0\MatchDates.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchDates\obj\Debug\net5.0\ref\MatchDates.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchDates\obj\Debug\net5.0\MatchDates.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsLab\MatchDates\obj\Debug\net5.0\MatchDates.genruntimeconfig.cache
