@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\NetherRealms\bin\Debug\net5.0\NetherRealms.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\NetherRealms\bin\Debug\net5.0\NetherRealms.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\NetherRealms\bin\Debug\net5.0\NetherRealms.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\NetherRealms\bin\Debug\net5.0\NetherRealms.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\NetherRealms\bin\Debug\net5.0\NetherRealms.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\NetherRealms\bin\Debug\net5.0\ref\NetherRealms.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\NetherRealms\bin\Debug\net5.0\NetherRealms.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\NetherRealms\obj\Debug\net5.0\NetherRealms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\NetherRealms\obj\Debug\net5.0\NetherRealms.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\NetherRealms\obj\Debug\net5.0\NetherRealms.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\NetherRealms\obj\Debug\net5.0\NetherRealms.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\NetherRealms\obj\Debug\net5.0\NetherRealms.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\NetherRealms\obj\Debug\net5.0\ref\NetherRealms.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\NetherRealms\obj\Debug\net5.0\NetherRealms.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\NetherRealms\obj\Debug\net5.0\NetherRealms.genruntimeconfig.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\NetherRealms\obj\Debug\net5.0\NetherRealms.csproj.AssemblyReference.cache
