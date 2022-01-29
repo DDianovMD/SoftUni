@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\ExtractEmails\bin\Debug\net5.0\ExtractEmails.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\ExtractEmails\bin\Debug\net5.0\ExtractEmails.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\ExtractEmails\bin\Debug\net5.0\ExtractEmails.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\ExtractEmails\bin\Debug\net5.0\ExtractEmails.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\ExtractEmails\bin\Debug\net5.0\ExtractEmails.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\ExtractEmails\bin\Debug\net5.0\ref\ExtractEmails.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\ExtractEmails\bin\Debug\net5.0\ExtractEmails.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\ExtractEmails\obj\Debug\net5.0\ExtractEmails.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\ExtractEmails\obj\Debug\net5.0\ExtractEmails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\ExtractEmails\obj\Debug\net5.0\ExtractEmails.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\ExtractEmails\obj\Debug\net5.0\ExtractEmails.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\ExtractEmails\obj\Debug\net5.0\ExtractEmails.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\ExtractEmails\obj\Debug\net5.0\ExtractEmails.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\ExtractEmails\obj\Debug\net5.0\ref\ExtractEmails.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\ExtractEmails\obj\Debug\net5.0\ExtractEmails.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsExercise\ExtractEmails\obj\Debug\net5.0\ExtractEmails.genruntimeconfig.cache
