@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\WinningTicket\bin\Debug\net5.0\WinningTicket.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\WinningTicket\bin\Debug\net5.0\WinningTicket.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\WinningTicket\bin\Debug\net5.0\WinningTicket.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\WinningTicket\bin\Debug\net5.0\WinningTicket.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\WinningTicket\bin\Debug\net5.0\WinningTicket.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\WinningTicket\bin\Debug\net5.0\ref\WinningTicket.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\WinningTicket\bin\Debug\net5.0\WinningTicket.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\WinningTicket\obj\Debug\net5.0\WinningTicket.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\WinningTicket\obj\Debug\net5.0\WinningTicket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\WinningTicket\obj\Debug\net5.0\WinningTicket.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\WinningTicket\obj\Debug\net5.0\WinningTicket.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\WinningTicket\obj\Debug\net5.0\WinningTicket.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\WinningTicket\obj\Debug\net5.0\WinningTicket.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\WinningTicket\obj\Debug\net5.0\ref\WinningTicket.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\WinningTicket\obj\Debug\net5.0\WinningTicket.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\WinningTicket\obj\Debug\net5.0\WinningTicket.genruntimeconfig.cache
