@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\RageQuit\bin\Debug\net5.0\RageQuit.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\RageQuit\bin\Debug\net5.0\RageQuit.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\RageQuit\bin\Debug\net5.0\RageQuit.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\RageQuit\bin\Debug\net5.0\RageQuit.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\RageQuit\bin\Debug\net5.0\RageQuit.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\RageQuit\bin\Debug\net5.0\ref\RageQuit.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\RageQuit\bin\Debug\net5.0\RageQuit.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\RageQuit\obj\Debug\net5.0\RageQuit.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\RageQuit\obj\Debug\net5.0\RageQuit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\RageQuit\obj\Debug\net5.0\RageQuit.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\RageQuit\obj\Debug\net5.0\RageQuit.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\RageQuit\obj\Debug\net5.0\RageQuit.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\RageQuit\obj\Debug\net5.0\RageQuit.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\RageQuit\obj\Debug\net5.0\ref\RageQuit.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\RageQuit\obj\Debug\net5.0\RageQuit.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\RageQuit\obj\Debug\net5.0\RageQuit.genruntimeconfig.cache
