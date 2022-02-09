@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\PostOffice\bin\Debug\net5.0\PostOffice.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\PostOffice\bin\Debug\net5.0\PostOffice.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\PostOffice\bin\Debug\net5.0\PostOffice.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\PostOffice\bin\Debug\net5.0\PostOffice.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\PostOffice\bin\Debug\net5.0\PostOffice.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\PostOffice\bin\Debug\net5.0\ref\PostOffice.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\PostOffice\bin\Debug\net5.0\PostOffice.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\PostOffice\obj\Debug\net5.0\PostOffice.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\PostOffice\obj\Debug\net5.0\PostOffice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\PostOffice\obj\Debug\net5.0\PostOffice.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\PostOffice\obj\Debug\net5.0\PostOffice.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\PostOffice\obj\Debug\net5.0\PostOffice.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\PostOffice\obj\Debug\net5.0\PostOffice.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\PostOffice\obj\Debug\net5.0\ref\PostOffice.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\PostOffice\obj\Debug\net5.0\PostOffice.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\RegularExpressionsMoreExercise\PostOffice\obj\Debug\net5.0\PostOffice.genruntimeconfig.cache
