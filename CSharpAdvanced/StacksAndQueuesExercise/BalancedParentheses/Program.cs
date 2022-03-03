@@ -1,66 +1,63 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
 namespace BalancedParentheses
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             string input = Console.ReadLine();
 
-            Stack<string> leftSide = new Stack<string>();
-            Queue<string> rightSide = new Queue<string>();
-
-            for (int i = 0; i < input.Length; i++)
-            {
-                if (input[i].ToString() == "(" || input[i].ToString() == "{" || input[i].ToString() == "[")
-                {
-                    leftSide.Push(input[i].ToString());
-                }
-            }
-
-            for (int i = 0; i < input.Length; i++)
-            {
-                if (input[i].ToString() == ")" || input[i].ToString() == "}" || input[i].ToString() == "]")
-                {
-                    rightSide.Enqueue(input[i].ToString());
-                }
-            }
-
+            Stack<char> openParenthesis = new Stack<char>();
             bool isBalanced = true;
-            
-            while (isBalanced && leftSide.Count > 0 && rightSide.Count > 0)
+
+            for (int i = 0; i < input.Length; i++)
             {
-                if (leftSide.Peek() == "(" && rightSide.Peek() == ")")
+                if (input[i] == '(' || input[i] == '[' || input[i] == '{')
                 {
-                    leftSide.Pop();
-                    rightSide.Dequeue();
-                }
-                else if (leftSide.Peek() == "[" && rightSide.Peek() == "]")
-                {
-                    leftSide.Pop();
-                    rightSide.Dequeue();
-                }
-                else if (leftSide.Peek() == "{" && rightSide.Peek() == "}")
-                {
-                    leftSide.Pop();
-                    rightSide.Dequeue();
+                    openParenthesis.Push(input[i]);
                 }
                 else
                 {
-                    isBalanced = false;                    
+                    if (openParenthesis.Count > 0)
+                    {
+                        if (openParenthesis.Peek() == '(' && input[i] == ')')
+                        {
+                            isBalanced = true;
+                            openParenthesis.Pop();
+                        }
+                        else if (openParenthesis.Peek() == '[' && input[i] == ']')
+                        {
+                            isBalanced = true;
+                            openParenthesis.Pop();
+                        }
+                        else if (openParenthesis.Peek() == '{' && input[i] == '}')
+                        {
+                            isBalanced = true;
+                            openParenthesis.Pop();
+                        }
+                        else
+                        {
+                            isBalanced = false;
+                        }
+                    }
+                    else
+                    {
+                        isBalanced = false;                        
+                    }
+                }
+
+                if (isBalanced == false)
+                {
+                    Console.WriteLine("NO");
+                    break;
                 }
             }
 
-            if (isBalanced && leftSide.Count == 0 && rightSide.Count == 0)
+            if (isBalanced)
             {
                 Console.WriteLine("YES");
-            }
-            else
-            {
-                Console.WriteLine("NO");
             }
         }
     }
