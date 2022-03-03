@@ -33,43 +33,20 @@ namespace BasicStackOperations
                 }
             }
 
-            //If stack is not empty:
-            if (stackOfNumbers.Count > 0)
-            {
-                int smallestNumberInStack = int.MaxValue;
-                bool printSmallestNumber = true;
-
-                for (int i = 0; i < stackOfNumbers.Count; i++)
-                {
-                    // If number is presented in the stack -> print "true".
-                    if (commands[2] == stackOfNumbers.Peek())
-                    {
-                        Console.WriteLine("true");
-                        printSmallestNumber = false;
-                        break;
-                    }
-                    // If number is not presented in the stack -> remember smallest number.
-                    else
-                    {
-                        if (stackOfNumbers.Peek() <= smallestNumberInStack)
-                        {
-                            smallestNumberInStack = stackOfNumbers.Peek();
-                            stackOfNumbers.Pop();
-                            i--;
-                        }
-                    }
-                }
-
-                // Print smallest number.
-                if (printSmallestNumber == true)
-                {
-                    Console.WriteLine(smallestNumberInStack);
-                }
-            }
-            // If stack is empty -> print 0
-            else
+            if (stackOfNumbers.Count() == 0)
             {
                 Console.WriteLine(0);
+            }
+            else
+            {
+                if (stackOfNumbers.Contains(commands[2]))
+                {
+                    Console.WriteLine("true");
+                }
+                else
+                {
+                    Console.WriteLine(stackOfNumbers.Min());
+                }
             }
         }
     }
