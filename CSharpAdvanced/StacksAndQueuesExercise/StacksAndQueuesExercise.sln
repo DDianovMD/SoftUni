@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SongsQueue", "SongsQueue\So
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TruckTour", "TruckTour\TruckTour.csproj", "{1C99AB23-301D-470F-AD81-9A7287BFE151}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BalancedParentheses", "BalancedParentheses\BalancedParentheses.csproj", "{B395AA3D-4823-421D-8346-757F60BFA2BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BalancedParentheses", "BalancedParentheses\BalancedParentheses.csproj", "{B395AA3D-4823-421D-8346-757F60BFA2BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleTextEditor", "SimpleTextEditor\SimpleTextEditor.csproj", "{C3D644EC-3E9E-42CB-B289-0D8FA6BBF3DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{B395AA3D-4823-421D-8346-757F60BFA2BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B395AA3D-4823-421D-8346-757F60BFA2BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B395AA3D-4823-421D-8346-757F60BFA2BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3D644EC-3E9E-42CB-B289-0D8FA6BBF3DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3D644EC-3E9E-42CB-B289-0D8FA6BBF3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3D644EC-3E9E-42CB-B289-0D8FA6BBF3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3D644EC-3E9E-42CB-B289-0D8FA6BBF3DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SimpleTextEditor\bin\Debug\net5.0\SimpleTextEditor.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SimpleTextEditor\bin\Debug\net5.0\SimpleTextEditor.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SimpleTextEditor\bin\Debug\net5.0\SimpleTextEditor.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SimpleTextEditor\bin\Debug\net5.0\SimpleTextEditor.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SimpleTextEditor\bin\Debug\net5.0\SimpleTextEditor.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SimpleTextEditor\bin\Debug\net5.0\ref\SimpleTextEditor.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SimpleTextEditor\bin\Debug\net5.0\SimpleTextEditor.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\net5.0\SimpleTextEditor.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\net5.0\SimpleTextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\net5.0\SimpleTextEditor.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\net5.0\SimpleTextEditor.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\net5.0\SimpleTextEditor.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\net5.0\SimpleTextEditor.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\net5.0\ref\SimpleTextEditor.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\net5.0\SimpleTextEditor.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\SimpleTextEditor\obj\Debug\net5.0\SimpleTextEditor.genruntimeconfig.cache
