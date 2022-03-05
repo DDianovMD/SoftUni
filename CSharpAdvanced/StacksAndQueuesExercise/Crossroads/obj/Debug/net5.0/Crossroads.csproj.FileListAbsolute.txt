@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\Crossroads\bin\Debug\net5.0\Crossroads.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\Crossroads\bin\Debug\net5.0\Crossroads.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\Crossroads\bin\Debug\net5.0\Crossroads.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\Crossroads\bin\Debug\net5.0\Crossroads.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\Crossroads\bin\Debug\net5.0\Crossroads.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\Crossroads\bin\Debug\net5.0\ref\Crossroads.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\Crossroads\bin\Debug\net5.0\Crossroads.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\Crossroads\obj\Debug\net5.0\Crossroads.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\Crossroads\obj\Debug\net5.0\Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\Crossroads\obj\Debug\net5.0\Crossroads.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\Crossroads\obj\Debug\net5.0\Crossroads.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\Crossroads\obj\Debug\net5.0\Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\Crossroads\obj\Debug\net5.0\Crossroads.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\Crossroads\obj\Debug\net5.0\ref\Crossroads.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\Crossroads\obj\Debug\net5.0\Crossroads.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\Crossroads\obj\Debug\net5.0\Crossroads.genruntimeconfig.cache
