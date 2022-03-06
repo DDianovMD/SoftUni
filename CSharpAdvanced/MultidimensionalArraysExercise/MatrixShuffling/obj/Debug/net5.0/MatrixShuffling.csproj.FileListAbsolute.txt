@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MatrixShuffling\bin\Debug\net5.0\MatrixShuffling.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MatrixShuffling\bin\Debug\net5.0\MatrixShuffling.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MatrixShuffling\bin\Debug\net5.0\MatrixShuffling.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MatrixShuffling\bin\Debug\net5.0\MatrixShuffling.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MatrixShuffling\bin\Debug\net5.0\MatrixShuffling.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MatrixShuffling\bin\Debug\net5.0\ref\MatrixShuffling.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MatrixShuffling\bin\Debug\net5.0\MatrixShuffling.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MatrixShuffling\obj\Debug\net5.0\MatrixShuffling.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MatrixShuffling\obj\Debug\net5.0\MatrixShuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MatrixShuffling\obj\Debug\net5.0\MatrixShuffling.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MatrixShuffling\obj\Debug\net5.0\MatrixShuffling.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MatrixShuffling\obj\Debug\net5.0\MatrixShuffling.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MatrixShuffling\obj\Debug\net5.0\MatrixShuffling.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MatrixShuffling\obj\Debug\net5.0\ref\MatrixShuffling.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MatrixShuffling\obj\Debug\net5.0\MatrixShuffling.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MatrixShuffling\obj\Debug\net5.0\MatrixShuffling.genruntimeconfig.cache
