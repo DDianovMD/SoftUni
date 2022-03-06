@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\net5.0\SnakeMoves.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\net5.0\SnakeMoves.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\net5.0\SnakeMoves.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\net5.0\SnakeMoves.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\net5.0\SnakeMoves.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\net5.0\ref\SnakeMoves.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\SnakeMoves\bin\Debug\net5.0\SnakeMoves.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\net5.0\SnakeMoves.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\net5.0\SnakeMoves.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\net5.0\SnakeMoves.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\net5.0\SnakeMoves.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\net5.0\SnakeMoves.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\net5.0\SnakeMoves.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\net5.0\ref\SnakeMoves.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\net5.0\SnakeMoves.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\SnakeMoves\obj\Debug\net5.0\SnakeMoves.genruntimeconfig.cache
