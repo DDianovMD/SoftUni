@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\DiagonalDifference\bin\Debug\net5.0\ref\DiagonalDifference.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\DiagonalDifference\bin\Debug\net5.0\DiagonalDifference.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\net5.0\ref\DiagonalDifference.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\DiagonalDifference\obj\Debug\net5.0\DiagonalDifference.genruntimeconfig.cache
