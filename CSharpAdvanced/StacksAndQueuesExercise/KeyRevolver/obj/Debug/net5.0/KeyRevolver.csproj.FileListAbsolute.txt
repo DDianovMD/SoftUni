@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\KeyRevolver\bin\Debug\net5.0\KeyRevolver.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\KeyRevolver\bin\Debug\net5.0\KeyRevolver.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\KeyRevolver\bin\Debug\net5.0\KeyRevolver.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\KeyRevolver\bin\Debug\net5.0\KeyRevolver.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\KeyRevolver\bin\Debug\net5.0\KeyRevolver.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\KeyRevolver\bin\Debug\net5.0\ref\KeyRevolver.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\KeyRevolver\bin\Debug\net5.0\KeyRevolver.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\KeyRevolver\obj\Debug\net5.0\KeyRevolver.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\KeyRevolver\obj\Debug\net5.0\KeyRevolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\KeyRevolver\obj\Debug\net5.0\KeyRevolver.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\KeyRevolver\obj\Debug\net5.0\KeyRevolver.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\KeyRevolver\obj\Debug\net5.0\KeyRevolver.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\KeyRevolver\obj\Debug\net5.0\KeyRevolver.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\KeyRevolver\obj\Debug\net5.0\ref\KeyRevolver.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\KeyRevolver\obj\Debug\net5.0\KeyRevolver.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\StacksAndQueuesExercise\KeyRevolver\obj\Debug\net5.0\KeyRevolver.genruntimeconfig.cache
