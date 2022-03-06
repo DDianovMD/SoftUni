@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MaximalSum\bin\Debug\net5.0\MaximalSum.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MaximalSum\bin\Debug\net5.0\MaximalSum.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MaximalSum\bin\Debug\net5.0\MaximalSum.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MaximalSum\bin\Debug\net5.0\MaximalSum.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MaximalSum\bin\Debug\net5.0\MaximalSum.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MaximalSum\bin\Debug\net5.0\ref\MaximalSum.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MaximalSum\bin\Debug\net5.0\MaximalSum.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MaximalSum\obj\Debug\net5.0\MaximalSum.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MaximalSum\obj\Debug\net5.0\MaximalSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MaximalSum\obj\Debug\net5.0\MaximalSum.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MaximalSum\obj\Debug\net5.0\MaximalSum.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MaximalSum\obj\Debug\net5.0\MaximalSum.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MaximalSum\obj\Debug\net5.0\MaximalSum.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MaximalSum\obj\Debug\net5.0\ref\MaximalSum.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MaximalSum\obj\Debug\net5.0\MaximalSum.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\MaximalSum\obj\Debug\net5.0\MaximalSum.genruntimeconfig.cache
