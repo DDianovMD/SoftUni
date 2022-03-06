@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\2X2SquaresInMatrix\bin\Debug\net5.0\2X2SquaresInMatrix.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\2X2SquaresInMatrix\bin\Debug\net5.0\2X2SquaresInMatrix.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\2X2SquaresInMatrix\bin\Debug\net5.0\2X2SquaresInMatrix.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\2X2SquaresInMatrix\bin\Debug\net5.0\2X2SquaresInMatrix.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\2X2SquaresInMatrix\bin\Debug\net5.0\2X2SquaresInMatrix.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\2X2SquaresInMatrix\bin\Debug\net5.0\ref\2X2SquaresInMatrix.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\2X2SquaresInMatrix\bin\Debug\net5.0\2X2SquaresInMatrix.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\2X2SquaresInMatrix\obj\Debug\net5.0\2X2SquaresInMatrix.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\2X2SquaresInMatrix\obj\Debug\net5.0\2X2SquaresInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\2X2SquaresInMatrix\obj\Debug\net5.0\2X2SquaresInMatrix.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\2X2SquaresInMatrix\obj\Debug\net5.0\2X2SquaresInMatrix.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\2X2SquaresInMatrix\obj\Debug\net5.0\2X2SquaresInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\2X2SquaresInMatrix\obj\Debug\net5.0\2X2SquaresInMatrix.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\2X2SquaresInMatrix\obj\Debug\net5.0\ref\2X2SquaresInMatrix.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\2X2SquaresInMatrix\obj\Debug\net5.0\2X2SquaresInMatrix.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\2X2SquaresInMatrix\obj\Debug\net5.0\2X2SquaresInMatrix.genruntimeconfig.cache
