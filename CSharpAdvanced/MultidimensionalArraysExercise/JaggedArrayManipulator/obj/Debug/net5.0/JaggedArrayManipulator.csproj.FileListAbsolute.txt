@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\JaggedArrayManipulator\bin\Debug\net5.0\JaggedArrayManipulator.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\JaggedArrayManipulator\bin\Debug\net5.0\JaggedArrayManipulator.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\JaggedArrayManipulator\bin\Debug\net5.0\JaggedArrayManipulator.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\JaggedArrayManipulator\bin\Debug\net5.0\JaggedArrayManipulator.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\JaggedArrayManipulator\bin\Debug\net5.0\JaggedArrayManipulator.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\JaggedArrayManipulator\bin\Debug\net5.0\ref\JaggedArrayManipulator.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\JaggedArrayManipulator\bin\Debug\net5.0\JaggedArrayManipulator.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\JaggedArrayManipulator\obj\Debug\net5.0\JaggedArrayManipulator.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\JaggedArrayManipulator\obj\Debug\net5.0\JaggedArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\JaggedArrayManipulator\obj\Debug\net5.0\JaggedArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\JaggedArrayManipulator\obj\Debug\net5.0\JaggedArrayManipulator.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\JaggedArrayManipulator\obj\Debug\net5.0\JaggedArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\JaggedArrayManipulator\obj\Debug\net5.0\JaggedArrayManipulator.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\JaggedArrayManipulator\obj\Debug\net5.0\ref\JaggedArrayManipulator.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\JaggedArrayManipulator\obj\Debug\net5.0\JaggedArrayManipulator.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\JaggedArrayManipulator\obj\Debug\net5.0\JaggedArrayManipulator.genruntimeconfig.cache
