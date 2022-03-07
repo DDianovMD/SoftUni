@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\KnightGame\bin\Debug\net5.0\KnightGame.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\KnightGame\bin\Debug\net5.0\KnightGame.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\KnightGame\bin\Debug\net5.0\KnightGame.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\KnightGame\bin\Debug\net5.0\KnightGame.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\KnightGame\bin\Debug\net5.0\KnightGame.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\KnightGame\bin\Debug\net5.0\ref\KnightGame.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\KnightGame\bin\Debug\net5.0\KnightGame.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\KnightGame\obj\Debug\net5.0\KnightGame.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\KnightGame\obj\Debug\net5.0\KnightGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\KnightGame\obj\Debug\net5.0\KnightGame.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\KnightGame\obj\Debug\net5.0\KnightGame.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\KnightGame\obj\Debug\net5.0\KnightGame.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\KnightGame\obj\Debug\net5.0\KnightGame.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\KnightGame\obj\Debug\net5.0\ref\KnightGame.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\KnightGame\obj\Debug\net5.0\KnightGame.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\KnightGame\obj\Debug\net5.0\KnightGame.genruntimeconfig.cache
