@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\Bombs\bin\Debug\net5.0\Bombs.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\Bombs\bin\Debug\net5.0\Bombs.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\Bombs\bin\Debug\net5.0\Bombs.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\Bombs\bin\Debug\net5.0\Bombs.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\Bombs\bin\Debug\net5.0\Bombs.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\Bombs\bin\Debug\net5.0\ref\Bombs.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\Bombs\bin\Debug\net5.0\Bombs.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\Bombs\obj\Debug\net5.0\Bombs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\Bombs\obj\Debug\net5.0\Bombs.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\Bombs\obj\Debug\net5.0\Bombs.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\Bombs\obj\Debug\net5.0\Bombs.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\Bombs\obj\Debug\net5.0\Bombs.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\Bombs\obj\Debug\net5.0\ref\Bombs.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\Bombs\obj\Debug\net5.0\Bombs.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\Bombs\obj\Debug\net5.0\Bombs.genruntimeconfig.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\Bombs\obj\Debug\net5.0\Bombs.csproj.AssemblyReference.cache
