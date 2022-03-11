@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\bin\Debug\net5.0\RadioactiveMutantVampireBunnies.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\bin\Debug\net5.0\RadioactiveMutantVampireBunnies.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\bin\Debug\net5.0\RadioactiveMutantVampireBunnies.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\bin\Debug\net5.0\RadioactiveMutantVampireBunnies.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\bin\Debug\net5.0\RadioactiveMutantVampireBunnies.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\bin\Debug\net5.0\ref\RadioactiveMutantVampireBunnies.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\bin\Debug\net5.0\RadioactiveMutantVampireBunnies.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\obj\Debug\net5.0\RadioactiveMutantVampireBunnies.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\obj\Debug\net5.0\RadioactiveMutantVampireBunnies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\obj\Debug\net5.0\RadioactiveMutantVampireBunnies.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\obj\Debug\net5.0\RadioactiveMutantVampireBunnies.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\obj\Debug\net5.0\RadioactiveMutantVampireBunnies.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\obj\Debug\net5.0\RadioactiveMutantVampireBunnies.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\obj\Debug\net5.0\ref\RadioactiveMutantVampireBunnies.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\obj\Debug\net5.0\RadioactiveMutantVampireBunnies.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysExercise\RadioactiveMutantVampireBunnies\obj\Debug\net5.0\RadioactiveMutantVampireBunnies.genruntimeconfig.cache
