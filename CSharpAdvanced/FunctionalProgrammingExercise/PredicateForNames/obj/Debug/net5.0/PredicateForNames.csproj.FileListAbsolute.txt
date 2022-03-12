@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateForNames\bin\Debug\net5.0\PredicateForNames.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateForNames\bin\Debug\net5.0\PredicateForNames.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateForNames\bin\Debug\net5.0\PredicateForNames.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateForNames\bin\Debug\net5.0\PredicateForNames.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateForNames\bin\Debug\net5.0\PredicateForNames.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateForNames\bin\Debug\net5.0\ref\PredicateForNames.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateForNames\bin\Debug\net5.0\PredicateForNames.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateForNames\obj\Debug\net5.0\PredicateForNames.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateForNames\obj\Debug\net5.0\PredicateForNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateForNames\obj\Debug\net5.0\PredicateForNames.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateForNames\obj\Debug\net5.0\PredicateForNames.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateForNames\obj\Debug\net5.0\PredicateForNames.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateForNames\obj\Debug\net5.0\PredicateForNames.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateForNames\obj\Debug\net5.0\ref\PredicateForNames.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateForNames\obj\Debug\net5.0\PredicateForNames.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateForNames\obj\Debug\net5.0\PredicateForNames.genruntimeconfig.cache
