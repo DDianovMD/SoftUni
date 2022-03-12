@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\EvenTimes\bin\Debug\net5.0\EvenTimes.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\EvenTimes\bin\Debug\net5.0\EvenTimes.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\EvenTimes\bin\Debug\net5.0\EvenTimes.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\EvenTimes\bin\Debug\net5.0\EvenTimes.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\EvenTimes\bin\Debug\net5.0\EvenTimes.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\EvenTimes\bin\Debug\net5.0\ref\EvenTimes.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\EvenTimes\bin\Debug\net5.0\EvenTimes.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\EvenTimes\obj\Debug\net5.0\EvenTimes.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\EvenTimes\obj\Debug\net5.0\EvenTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\EvenTimes\obj\Debug\net5.0\EvenTimes.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\EvenTimes\obj\Debug\net5.0\EvenTimes.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\EvenTimes\obj\Debug\net5.0\EvenTimes.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\EvenTimes\obj\Debug\net5.0\EvenTimes.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\EvenTimes\obj\Debug\net5.0\ref\EvenTimes.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\EvenTimes\obj\Debug\net5.0\EvenTimes.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\EvenTimes\obj\Debug\net5.0\EvenTimes.genruntimeconfig.cache
