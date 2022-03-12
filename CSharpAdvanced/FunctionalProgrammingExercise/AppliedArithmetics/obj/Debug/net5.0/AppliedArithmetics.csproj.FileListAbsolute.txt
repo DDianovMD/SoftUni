@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\AppliedArithmetics\bin\Debug\net5.0\AppliedArithmetics.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\AppliedArithmetics\bin\Debug\net5.0\AppliedArithmetics.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\AppliedArithmetics\bin\Debug\net5.0\AppliedArithmetics.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\AppliedArithmetics\bin\Debug\net5.0\AppliedArithmetics.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\AppliedArithmetics\bin\Debug\net5.0\AppliedArithmetics.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\AppliedArithmetics\bin\Debug\net5.0\ref\AppliedArithmetics.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\AppliedArithmetics\bin\Debug\net5.0\AppliedArithmetics.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\AppliedArithmetics\obj\Debug\net5.0\AppliedArithmetics.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\AppliedArithmetics\obj\Debug\net5.0\AppliedArithmetics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\AppliedArithmetics\obj\Debug\net5.0\AppliedArithmetics.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\AppliedArithmetics\obj\Debug\net5.0\AppliedArithmetics.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\AppliedArithmetics\obj\Debug\net5.0\AppliedArithmetics.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\AppliedArithmetics\obj\Debug\net5.0\AppliedArithmetics.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\AppliedArithmetics\obj\Debug\net5.0\ref\AppliedArithmetics.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\AppliedArithmetics\obj\Debug\net5.0\AppliedArithmetics.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\AppliedArithmetics\obj\Debug\net5.0\AppliedArithmetics.genruntimeconfig.cache
