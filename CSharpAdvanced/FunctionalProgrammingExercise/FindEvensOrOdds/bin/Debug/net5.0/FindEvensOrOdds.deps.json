@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FindEvensOrOdds/1.0.0": {
+        "runtime": {
+          "FindEvensOrOdds.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FindEvensOrOdds/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\FindEvensOrOdds\bin\Debug\net5.0\FindEvensOrOdds.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\FindEvensOrOdds\bin\Debug\net5.0\FindEvensOrOdds.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\FindEvensOrOdds\bin\Debug\net5.0\FindEvensOrOdds.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\FindEvensOrOdds\bin\Debug\net5.0\FindEvensOrOdds.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\FindEvensOrOdds\bin\Debug\net5.0\FindEvensOrOdds.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\FindEvensOrOdds\bin\Debug\net5.0\ref\FindEvensOrOdds.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\FindEvensOrOdds\bin\Debug\net5.0\FindEvensOrOdds.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\FindEvensOrOdds\obj\Debug\net5.0\FindEvensOrOdds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\FindEvensOrOdds\obj\Debug\net5.0\FindEvensOrOdds.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\FindEvensOrOdds\obj\Debug\net5.0\FindEvensOrOdds.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\FindEvensOrOdds\obj\Debug\net5.0\FindEvensOrOdds.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\FindEvensOrOdds\obj\Debug\net5.0\FindEvensOrOdds.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\FindEvensOrOdds\obj\Debug\net5.0\ref\FindEvensOrOdds.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\FindEvensOrOdds\obj\Debug\net5.0\FindEvensOrOdds.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\FindEvensOrOdds\obj\Debug\net5.0\FindEvensOrOdds.genruntimeconfig.cache
