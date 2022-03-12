@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateParty!\bin\Debug\net5.0\PredicateParty!.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateParty!\bin\Debug\net5.0\PredicateParty!.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateParty!\bin\Debug\net5.0\PredicateParty!.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateParty!\bin\Debug\net5.0\PredicateParty!.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateParty!\bin\Debug\net5.0\PredicateParty!.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateParty!\bin\Debug\net5.0\ref\PredicateParty!.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateParty!\bin\Debug\net5.0\PredicateParty!.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateParty!\obj\Debug\net5.0\PredicateParty!.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateParty!\obj\Debug\net5.0\PredicateParty!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateParty!\obj\Debug\net5.0\PredicateParty!.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateParty!\obj\Debug\net5.0\PredicateParty!.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateParty!\obj\Debug\net5.0\PredicateParty!.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateParty!\obj\Debug\net5.0\PredicateParty!.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateParty!\obj\Debug\net5.0\ref\PredicateParty!.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateParty!\obj\Debug\net5.0\PredicateParty!.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PredicateParty!\obj\Debug\net5.0\PredicateParty!.genruntimeconfig.cache
