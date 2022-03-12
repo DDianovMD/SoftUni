@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\PeriodicTable\bin\Debug\net5.0\PeriodicTable.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\PeriodicTable\bin\Debug\net5.0\PeriodicTable.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\PeriodicTable\bin\Debug\net5.0\PeriodicTable.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\PeriodicTable\bin\Debug\net5.0\PeriodicTable.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\PeriodicTable\bin\Debug\net5.0\PeriodicTable.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\PeriodicTable\bin\Debug\net5.0\ref\PeriodicTable.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\PeriodicTable\bin\Debug\net5.0\PeriodicTable.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net5.0\PeriodicTable.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net5.0\PeriodicTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net5.0\PeriodicTable.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net5.0\PeriodicTable.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net5.0\PeriodicTable.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net5.0\PeriodicTable.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net5.0\ref\PeriodicTable.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net5.0\PeriodicTable.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\PeriodicTable\obj\Debug\net5.0\PeriodicTable.genruntimeconfig.cache
