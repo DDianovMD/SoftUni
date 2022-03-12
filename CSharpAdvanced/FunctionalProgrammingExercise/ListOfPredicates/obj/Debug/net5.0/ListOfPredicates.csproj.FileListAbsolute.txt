@@ -1,0 +1,15 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ListOfPredicates\bin\Debug\net5.0\ListOfPredicates.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ListOfPredicates\bin\Debug\net5.0\ListOfPredicates.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ListOfPredicates\bin\Debug\net5.0\ListOfPredicates.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ListOfPredicates\bin\Debug\net5.0\ListOfPredicates.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ListOfPredicates\bin\Debug\net5.0\ListOfPredicates.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ListOfPredicates\bin\Debug\net5.0\ref\ListOfPredicates.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ListOfPredicates\bin\Debug\net5.0\ListOfPredicates.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\net5.0\ListOfPredicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\net5.0\ListOfPredicates.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\net5.0\ListOfPredicates.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\net5.0\ListOfPredicates.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\net5.0\ListOfPredicates.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\net5.0\ref\ListOfPredicates.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\net5.0\ListOfPredicates.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ListOfPredicates\obj\Debug\net5.0\ListOfPredicates.genruntimeconfig.cache
