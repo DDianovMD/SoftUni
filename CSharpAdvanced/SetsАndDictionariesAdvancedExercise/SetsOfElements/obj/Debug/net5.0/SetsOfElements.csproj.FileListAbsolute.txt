@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SetsOfElements\bin\Debug\net5.0\SetsOfElements.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SetsOfElements\bin\Debug\net5.0\SetsOfElements.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SetsOfElements\bin\Debug\net5.0\SetsOfElements.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SetsOfElements\bin\Debug\net5.0\SetsOfElements.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SetsOfElements\bin\Debug\net5.0\SetsOfElements.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SetsOfElements\bin\Debug\net5.0\ref\SetsOfElements.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SetsOfElements\bin\Debug\net5.0\SetsOfElements.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SetsOfElements\obj\Debug\net5.0\SetsOfElements.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SetsOfElements\obj\Debug\net5.0\SetsOfElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SetsOfElements\obj\Debug\net5.0\SetsOfElements.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SetsOfElements\obj\Debug\net5.0\SetsOfElements.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SetsOfElements\obj\Debug\net5.0\SetsOfElements.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SetsOfElements\obj\Debug\net5.0\SetsOfElements.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SetsOfElements\obj\Debug\net5.0\ref\SetsOfElements.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SetsOfElements\obj\Debug\net5.0\SetsOfElements.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SetsOfElements\obj\Debug\net5.0\SetsOfElements.genruntimeconfig.cache

@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniqueUsernames", "UniqueUsernames\UniqueUsernames.csproj", "{A98C8924-2C0A-4121-B842-A26D02AAE60A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniqueUsernames", "UniqueUsernames\UniqueUsernames.csproj", "{A98C8924-2C0A-4121-B842-A26D02AAE60A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetsOfElements", "SetsOfElements\SetsOfElements.csproj", "{5A28B7E6-D9A3-4F26-8577-5B0CF1DC1D89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A98C8924-2C0A-4121-B842-A26D02AAE60A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A98C8924-2C0A-4121-B842-A26D02AAE60A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A98C8924-2C0A-4121-B842-A26D02AAE60A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A28B7E6-D9A3-4F26-8577-5B0CF1DC1D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A28B7E6-D9A3-4F26-8577-5B0CF1DC1D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A28B7E6-D9A3-4F26-8577-5B0CF1DC1D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A28B7E6-D9A3-4F26-8577-5B0CF1DC1D89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
