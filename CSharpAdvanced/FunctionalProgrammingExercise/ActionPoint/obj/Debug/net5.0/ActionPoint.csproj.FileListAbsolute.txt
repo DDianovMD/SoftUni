@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ActionPoint\bin\Debug\net5.0\ActionPoint.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ActionPoint\bin\Debug\net5.0\ActionPoint.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ActionPoint\bin\Debug\net5.0\ActionPoint.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ActionPoint\bin\Debug\net5.0\ActionPoint.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ActionPoint\bin\Debug\net5.0\ActionPoint.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ActionPoint\bin\Debug\net5.0\ref\ActionPoint.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ActionPoint\bin\Debug\net5.0\ActionPoint.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ActionPoint\obj\Debug\net5.0\ActionPoint.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ActionPoint\obj\Debug\net5.0\ActionPoint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ActionPoint\obj\Debug\net5.0\ActionPoint.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ActionPoint\obj\Debug\net5.0\ActionPoint.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ActionPoint\obj\Debug\net5.0\ActionPoint.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ActionPoint\obj\Debug\net5.0\ActionPoint.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ActionPoint\obj\Debug\net5.0\ref\ActionPoint.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ActionPoint\obj\Debug\net5.0\ActionPoint.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\ActionPoint\obj\Debug\net5.0\ActionPoint.genruntimeconfig.cache
