@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\TriFunction\bin\Debug\net5.0\TriFunction.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\TriFunction\bin\Debug\net5.0\TriFunction.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\TriFunction\bin\Debug\net5.0\TriFunction.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\TriFunction\bin\Debug\net5.0\TriFunction.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\TriFunction\bin\Debug\net5.0\TriFunction.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\TriFunction\bin\Debug\net5.0\ref\TriFunction.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\TriFunction\bin\Debug\net5.0\TriFunction.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\TriFunction\obj\Debug\net5.0\TriFunction.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\TriFunction\obj\Debug\net5.0\TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\TriFunction\obj\Debug\net5.0\TriFunction.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\TriFunction\obj\Debug\net5.0\TriFunction.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\TriFunction\obj\Debug\net5.0\TriFunction.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\TriFunction\obj\Debug\net5.0\TriFunction.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\TriFunction\obj\Debug\net5.0\ref\TriFunction.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\TriFunction\obj\Debug\net5.0\TriFunction.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\TriFunction\obj\Debug\net5.0\TriFunction.genruntimeconfig.cache
