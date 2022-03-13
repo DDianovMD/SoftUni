@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OldestFamilyMember\bin\Debug\netcoreapp3.1\OldestFamilyMember.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OldestFamilyMember\obj\Debug\netcoreapp3.1\OldestFamilyMember.genruntimeconfig.cache
