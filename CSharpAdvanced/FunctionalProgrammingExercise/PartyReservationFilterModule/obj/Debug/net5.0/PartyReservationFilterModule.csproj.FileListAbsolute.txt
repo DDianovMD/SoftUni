@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PartyReservationFilterModule\bin\Debug\net5.0\PartyReservationFilterModule.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PartyReservationFilterModule\bin\Debug\net5.0\PartyReservationFilterModule.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PartyReservationFilterModule\bin\Debug\net5.0\PartyReservationFilterModule.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PartyReservationFilterModule\bin\Debug\net5.0\PartyReservationFilterModule.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PartyReservationFilterModule\bin\Debug\net5.0\PartyReservationFilterModule.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PartyReservationFilterModule\bin\Debug\net5.0\ref\PartyReservationFilterModule.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PartyReservationFilterModule\bin\Debug\net5.0\PartyReservationFilterModule.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PartyReservationFilterModule\obj\Debug\net5.0\PartyReservationFilterModule.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PartyReservationFilterModule\obj\Debug\net5.0\PartyReservationFilterModule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PartyReservationFilterModule\obj\Debug\net5.0\PartyReservationFilterModule.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PartyReservationFilterModule\obj\Debug\net5.0\PartyReservationFilterModule.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PartyReservationFilterModule\obj\Debug\net5.0\PartyReservationFilterModule.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PartyReservationFilterModule\obj\Debug\net5.0\PartyReservationFilterModule.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PartyReservationFilterModule\obj\Debug\net5.0\ref\PartyReservationFilterModule.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PartyReservationFilterModule\obj\Debug\net5.0\PartyReservationFilterModule.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingExercise\PartyReservationFilterModule\obj\Debug\net5.0\PartyReservationFilterModule.genruntimeconfig.cache
