@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OpinionPoll\bin\Debug\netcoreapp3.1\OpinionPoll.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\OpinionPoll\obj\Debug\netcoreapp3.1\OpinionPoll.genruntimeconfig.cache
