@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\CarSalesman\bin\Debug\netcoreapp3.1\CarSalesman.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\CarSalesman\obj\Debug\netcoreapp3.1\CarSalesman.genruntimeconfig.cache
