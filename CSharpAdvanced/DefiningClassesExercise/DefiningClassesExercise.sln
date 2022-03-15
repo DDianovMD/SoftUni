@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreatingConstructors", "Cre
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OldestFamilyMember", "OldestFamilyMember\OldestFamilyMember.csproj", "{99B11DDE-7306-4722-83C5-3AA681C31755}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpinionPoll", "OpinionPoll\OpinionPoll.csproj", "{730D0A97-9DF5-4BE8-815A-754ADC74B795}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpinionPoll", "OpinionPoll\OpinionPoll.csproj", "{730D0A97-9DF5-4BE8-815A-754ADC74B795}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateModifier", "DateModifier\DateModifier.csproj", "{F4A8E5DC-1AA2-4A60-9DD1-128957C1A8B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{730D0A97-9DF5-4BE8-815A-754ADC74B795}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{730D0A97-9DF5-4BE8-815A-754ADC74B795}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{730D0A97-9DF5-4BE8-815A-754ADC74B795}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4A8E5DC-1AA2-4A60-9DD1-128957C1A8B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4A8E5DC-1AA2-4A60-9DD1-128957C1A8B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4A8E5DC-1AA2-4A60-9DD1-128957C1A8B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4A8E5DC-1AA2-4A60-9DD1-128957C1A8B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
