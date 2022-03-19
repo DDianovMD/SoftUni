@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\PokemonTrainer\bin\Debug\netcoreapp3.1\PokemonTrainer.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\DefiningClassesExercise\PokemonTrainer\obj\Debug\netcoreapp3.1\PokemonTrainer.genruntimeconfig.cache
