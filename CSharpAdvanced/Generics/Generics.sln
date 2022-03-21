@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericBoxOfString", "GenericBoxOfString\GenericBoxOfString.csproj", "{EDFA913A-3119-489B-B6E7-69C5A9808B90}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericBoxOfString", "GenericBoxOfString\GenericBoxOfString.csproj", "{EDFA913A-3119-489B-B6E7-69C5A9808B90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericBoxОfInteger", "GenericBoxОfInteger\GenericBoxОfInteger.csproj", "{2D316585-0AFE-461B-A9C5-EF0E9096C4EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{EDFA913A-3119-489B-B6E7-69C5A9808B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDFA913A-3119-489B-B6E7-69C5A9808B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDFA913A-3119-489B-B6E7-69C5A9808B90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D316585-0AFE-461B-A9C5-EF0E9096C4EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D316585-0AFE-461B-A9C5-EF0E9096C4EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D316585-0AFE-461B-A9C5-EF0E9096C4EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D316585-0AFE-461B-A9C5-EF0E9096C4EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
