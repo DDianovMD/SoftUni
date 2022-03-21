@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.genruntimeconfig.cache
