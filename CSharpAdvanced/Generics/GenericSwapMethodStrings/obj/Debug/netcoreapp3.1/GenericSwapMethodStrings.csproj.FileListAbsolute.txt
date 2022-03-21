@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\GenericSwapMethodStrings.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\GenericSwapMethodStrings.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\GenericSwapMethodStrings.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\GenericSwapMethodStrings.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\GenericSwapMethodStrings.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodStrings\bin\Debug\netcoreapp3.1\GenericSwapMethodStrings.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\GenericSwapMethodStrings.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\GenericSwapMethodStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\GenericSwapMethodStrings.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\GenericSwapMethodStrings.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\GenericSwapMethodStrings.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\GenericSwapMethodStrings.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\GenericSwapMethodStrings.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodStrings\obj\Debug\netcoreapp3.1\GenericSwapMethodStrings.genruntimeconfig.cache
