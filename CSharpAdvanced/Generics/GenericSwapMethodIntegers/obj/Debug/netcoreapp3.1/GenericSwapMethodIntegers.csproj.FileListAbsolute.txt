@@ -1,0 +1,13 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\GenericSwapMethodIntegers.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\GenericSwapMethodIntegers.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\GenericSwapMethodIntegers.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\GenericSwapMethodIntegers.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\GenericSwapMethodIntegers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.1\GenericSwapMethodIntegers.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\GenericSwapMethodIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\GenericSwapMethodIntegers.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\GenericSwapMethodIntegers.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\GenericSwapMethodIntegers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\GenericSwapMethodIntegers.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.1\GenericSwapMethodIntegers.genruntimeconfig.cache
