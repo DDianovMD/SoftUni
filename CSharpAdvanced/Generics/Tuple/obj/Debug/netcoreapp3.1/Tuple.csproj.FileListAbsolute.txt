@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\Tuple\bin\Debug\netcoreapp3.1\Tuple.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\Tuple\bin\Debug\netcoreapp3.1\Tuple.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\Tuple\bin\Debug\netcoreapp3.1\Tuple.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\Tuple\bin\Debug\netcoreapp3.1\Tuple.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\Tuple\bin\Debug\netcoreapp3.1\Tuple.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\Tuple\bin\Debug\netcoreapp3.1\Tuple.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\Tuple\obj\Debug\netcoreapp3.1\Tuple.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\Tuple\obj\Debug\netcoreapp3.1\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\Tuple\obj\Debug\netcoreapp3.1\Tuple.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\Tuple\obj\Debug\netcoreapp3.1\Tuple.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\Tuple\obj\Debug\netcoreapp3.1\Tuple.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\Tuple\obj\Debug\netcoreapp3.1\Tuple.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\Tuple\obj\Debug\netcoreapp3.1\Tuple.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\Generics\Tuple\obj\Debug\netcoreapp3.1\Tuple.genruntimeconfig.cache
