@@ -1,9 +1,10 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 
 namespace _ListyIterator
 {
-    public class ListyIterator<T>
+    public class ListyIterator<T> : IEnumerable<T>
     {
         private List<T> _collection;
         private int _index = 0;
@@ -42,6 +43,29 @@ namespace _ListyIterator
             {
                 throw new InvalidOperationException();
             }
+        }
+
+        public void PrintAll()
+        {
+            foreach (var item in _collection)
+            {
+                Console.Write($"{item} ");
+            }
+
+            Console.WriteLine();
+        }
+
+        public IEnumerator<T> GetEnumerator()
+        {
+            foreach (var item in _collection)
+            {
+                yield return item;
+            }
+        }
+
+        IEnumerator IEnumerable.GetEnumerator()
+        {
+            return GetEnumerator();
         }
     }
 }

@@ -39,6 +39,10 @@ namespace _ListyIterator
                 {
                     Console.WriteLine(iterator.HasNext());
                 }
+                else if (command.ToLower() == "printall")
+                {
+                    iterator.PrintAll();
+                }
 
                 command = Console.ReadLine();
             }
