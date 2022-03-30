@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\bin\Debug\netcoreapp3.1\ComparingObjects.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\ComparingObjects\obj\Debug\netcoreapp3.1\ComparingObjects.genruntimeconfig.cache
