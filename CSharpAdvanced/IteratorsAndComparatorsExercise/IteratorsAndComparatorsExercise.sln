@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListyIterator", "ListyIterator\ListyIterator.csproj", "{684CB169-8A4F-4E22-841F-71BD87E7BC93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack", "Stack\Stack.csproj", "{B9AD6F6A-64AE-410F-9173-077A1788487D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack", "Stack\Stack.csproj", "{B9AD6F6A-64AE-410F-9173-077A1788487D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Froggy", "Froggy\Froggy.csproj", "{F482B96E-7438-4411-ADD2-0AF697B607AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B9AD6F6A-64AE-410F-9173-077A1788487D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B9AD6F6A-64AE-410F-9173-077A1788487D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B9AD6F6A-64AE-410F-9173-077A1788487D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F482B96E-7438-4411-ADD2-0AF697B607AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F482B96E-7438-4411-ADD2-0AF697B607AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F482B96E-7438-4411-ADD2-0AF697B607AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F482B96E-7438-4411-ADD2-0AF697B607AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
