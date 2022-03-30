@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\Stack\bin\Debug\netcoreapp3.1\Stack.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\Stack\bin\Debug\netcoreapp3.1\Stack.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\Stack\bin\Debug\netcoreapp3.1\Stack.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\Stack\bin\Debug\netcoreapp3.1\Stack.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\Stack\bin\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\Stack\obj\Debug\netcoreapp3.1\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\Stack\obj\Debug\netcoreapp3.1\Stack.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\Stack\obj\Debug\netcoreapp3.1\Stack.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\Stack\obj\Debug\netcoreapp3.1\Stack.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\Stack\obj\Debug\netcoreapp3.1\Stack.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsExercise\Stack\obj\Debug\netcoreapp3.1\Stack.genruntimeconfig.cache
