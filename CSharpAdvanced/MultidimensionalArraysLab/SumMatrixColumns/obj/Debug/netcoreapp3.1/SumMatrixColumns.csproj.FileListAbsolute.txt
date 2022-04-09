@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SumMatrixColumns\bin\Debug\netcoreapp3.1\SumMatrixColumns.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SumMatrixColumns\bin\Debug\netcoreapp3.1\SumMatrixColumns.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SumMatrixColumns\bin\Debug\netcoreapp3.1\SumMatrixColumns.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SumMatrixColumns\bin\Debug\netcoreapp3.1\SumMatrixColumns.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SumMatrixColumns\bin\Debug\netcoreapp3.1\SumMatrixColumns.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SumMatrixColumns\bin\Debug\netcoreapp3.1\SumMatrixColumns.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SumMatrixColumns\obj\Debug\netcoreapp3.1\SumMatrixColumns.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SumMatrixColumns\obj\Debug\netcoreapp3.1\SumMatrixColumns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SumMatrixColumns\obj\Debug\netcoreapp3.1\SumMatrixColumns.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SumMatrixColumns\obj\Debug\netcoreapp3.1\SumMatrixColumns.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SumMatrixColumns\obj\Debug\netcoreapp3.1\SumMatrixColumns.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SumMatrixColumns\obj\Debug\netcoreapp3.1\SumMatrixColumns.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SumMatrixColumns\obj\Debug\netcoreapp3.1\SumMatrixColumns.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SumMatrixColumns\obj\Debug\netcoreapp3.1\SumMatrixColumns.genruntimeconfig.cache
