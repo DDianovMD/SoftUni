@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumMatrixElements", "SumMatrixElements\SumMatrixElements.csproj", "{9248171E-B05E-4EB2-B26B-1034504A95B4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumMatrixColumns", "SumMatrixColumns\SumMatrixColumns.csproj", "{12E97C05-1E64-46AC-813B-7F672045B7C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumMatrixColumns", "SumMatrixColumns\SumMatrixColumns.csproj", "{12E97C05-1E64-46AC-813B-7F672045B7C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimaryDiagonal", "PrimaryDiagonal\PrimaryDiagonal.csproj", "{7ABB9A2C-C640-4F63-B84D-2E12659A4AA9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{12E97C05-1E64-46AC-813B-7F672045B7C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12E97C05-1E64-46AC-813B-7F672045B7C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12E97C05-1E64-46AC-813B-7F672045B7C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ABB9A2C-C640-4F63-B84D-2E12659A4AA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ABB9A2C-C640-4F63-B84D-2E12659A4AA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ABB9A2C-C640-4F63-B84D-2E12659A4AA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ABB9A2C-C640-4F63-B84D-2E12659A4AA9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

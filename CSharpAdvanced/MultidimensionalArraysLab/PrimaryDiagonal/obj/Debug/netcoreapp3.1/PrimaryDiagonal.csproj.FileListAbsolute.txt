@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\PrimaryDiagonal\bin\Debug\netcoreapp3.1\PrimaryDiagonal.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\PrimaryDiagonal\obj\Debug\netcoreapp3.1\PrimaryDiagonal.genruntimeconfig.cache
