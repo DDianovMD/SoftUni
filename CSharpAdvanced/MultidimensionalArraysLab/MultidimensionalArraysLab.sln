@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimaryDiagonal", "PrimaryD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SymbolInMatrix", "SymbolInMatrix\SymbolInMatrix.csproj", "{E261F7D4-B67A-4BBF-AC9F-56378C3A17FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareWithMaximumSum", "SquareWithMaximumSum\SquareWithMaximumSum.csproj", "{ACE30F20-B46B-4EDD-B69A-F1507F7D9F51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquareWithMaximumSum", "SquareWithMaximumSum\SquareWithMaximumSum.csproj", "{ACE30F20-B46B-4EDD-B69A-F1507F7D9F51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArrayModification", "JaggedArrayModification\JaggedArrayModification.csproj", "{5FABB015-9368-4D26-A6CA-5F440354D53A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{ACE30F20-B46B-4EDD-B69A-F1507F7D9F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ACE30F20-B46B-4EDD-B69A-F1507F7D9F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ACE30F20-B46B-4EDD-B69A-F1507F7D9F51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FABB015-9368-4D26-A6CA-5F440354D53A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FABB015-9368-4D26-A6CA-5F440354D53A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FABB015-9368-4D26-A6CA-5F440354D53A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FABB015-9368-4D26-A6CA-5F440354D53A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
