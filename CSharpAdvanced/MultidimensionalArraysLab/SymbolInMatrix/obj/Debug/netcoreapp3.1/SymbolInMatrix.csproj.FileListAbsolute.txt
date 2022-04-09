@@ -1,0 +1,13 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\bin\Debug\netcoreapp3.1\SymbolInMatrix.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SymbolInMatrix\obj\Debug\netcoreapp3.1\SymbolInMatrix.genruntimeconfig.cache
