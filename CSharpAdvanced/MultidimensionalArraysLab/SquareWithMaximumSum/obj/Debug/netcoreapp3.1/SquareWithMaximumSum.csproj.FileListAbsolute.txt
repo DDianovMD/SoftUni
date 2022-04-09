@@ -1,0 +1,13 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SquareWithMaximumSum\bin\Debug\netcoreapp3.1\SquareWithMaximumSum.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\MultidimensionalArraysLab\SquareWithMaximumSum\obj\Debug\netcoreapp3.1\SquareWithMaximumSum.genruntimeconfig.cache
