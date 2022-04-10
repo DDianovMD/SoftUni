@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\bin\Debug\netcoreapp3.1\SoftUniParty.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\SoftUniParty\obj\Debug\netcoreapp3.1\SoftUniParty.genruntimeconfig.cache
