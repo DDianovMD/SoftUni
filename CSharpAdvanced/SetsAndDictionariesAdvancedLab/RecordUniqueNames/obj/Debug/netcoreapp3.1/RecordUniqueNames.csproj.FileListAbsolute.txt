@@ -1,0 +1,13 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\RecordUniqueNames\bin\Debug\netcoreapp3.1\RecordUniqueNames.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\RecordUniqueNames\bin\Debug\netcoreapp3.1\RecordUniqueNames.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\RecordUniqueNames\bin\Debug\netcoreapp3.1\RecordUniqueNames.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\RecordUniqueNames\bin\Debug\netcoreapp3.1\RecordUniqueNames.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\RecordUniqueNames\bin\Debug\netcoreapp3.1\RecordUniqueNames.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\RecordUniqueNames\bin\Debug\netcoreapp3.1\RecordUniqueNames.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\netcoreapp3.1\RecordUniqueNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\netcoreapp3.1\RecordUniqueNames.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\netcoreapp3.1\RecordUniqueNames.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\netcoreapp3.1\RecordUniqueNames.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\netcoreapp3.1\RecordUniqueNames.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\netcoreapp3.1\RecordUniqueNames.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\RecordUniqueNames\obj\Debug\netcoreapp3.1\RecordUniqueNames.genruntimeconfig.cache
