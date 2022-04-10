@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AverageStudentGrades", "Ave
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Largest3Numbers", "Largest3Numbers\Largest3Numbers.csproj", "{911A7AB6-A1B5-4A35-82E8-867BEDADCD4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductShop", "ProductShop\ProductShop.csproj", "{1A7C8656-BBB0-4254-BD5D-16C11877CC71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProductShop", "ProductShop\ProductShop.csproj", "{1A7C8656-BBB0-4254-BD5D-16C11877CC71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CitiesByContinentAndCountry", "CitiesByContinentAndCountry\CitiesByContinentAndCountry.csproj", "{5913882E-A184-4DED-A7B9-67CB4CC6CDD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{1A7C8656-BBB0-4254-BD5D-16C11877CC71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A7C8656-BBB0-4254-BD5D-16C11877CC71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A7C8656-BBB0-4254-BD5D-16C11877CC71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5913882E-A184-4DED-A7B9-67CB4CC6CDD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5913882E-A184-4DED-A7B9-67CB4CC6CDD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5913882E-A184-4DED-A7B9-67CB4CC6CDD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5913882E-A184-4DED-A7B9-67CB4CC6CDD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

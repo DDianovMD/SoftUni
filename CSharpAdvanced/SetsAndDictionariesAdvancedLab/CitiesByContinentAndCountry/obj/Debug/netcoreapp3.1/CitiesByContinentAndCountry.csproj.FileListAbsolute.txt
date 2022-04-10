@@ -1,0 +1,13 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\bin\Debug\netcoreapp3.1\CitiesByContinentAndCountry.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\CitiesByContinentAndCountry\obj\Debug\netcoreapp3.1\CitiesByContinentAndCountry.genruntimeconfig.cache
