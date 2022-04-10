@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\Largest3Numbers\bin\Debug\netcoreapp3.1\Largest3Numbers.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\Largest3Numbers\bin\Debug\netcoreapp3.1\Largest3Numbers.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\Largest3Numbers\bin\Debug\netcoreapp3.1\Largest3Numbers.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\Largest3Numbers\bin\Debug\netcoreapp3.1\Largest3Numbers.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\Largest3Numbers\bin\Debug\netcoreapp3.1\Largest3Numbers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\Largest3Numbers\bin\Debug\netcoreapp3.1\Largest3Numbers.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\Largest3Numbers\obj\Debug\netcoreapp3.1\Largest3Numbers.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\Largest3Numbers\obj\Debug\netcoreapp3.1\Largest3Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\Largest3Numbers\obj\Debug\netcoreapp3.1\Largest3Numbers.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\Largest3Numbers\obj\Debug\netcoreapp3.1\Largest3Numbers.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\Largest3Numbers\obj\Debug\netcoreapp3.1\Largest3Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\Largest3Numbers\obj\Debug\netcoreapp3.1\Largest3Numbers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\Largest3Numbers\obj\Debug\netcoreapp3.1\Largest3Numbers.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsAndDictionariesAdvancedLab\Largest3Numbers\obj\Debug\netcoreapp3.1\Largest3Numbers.genruntimeconfig.cache
