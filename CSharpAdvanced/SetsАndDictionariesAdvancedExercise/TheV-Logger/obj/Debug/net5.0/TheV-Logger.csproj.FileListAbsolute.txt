@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\TheV-Logger\bin\Debug\net5.0\TheV-Logger.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\TheV-Logger\bin\Debug\net5.0\TheV-Logger.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\TheV-Logger\bin\Debug\net5.0\TheV-Logger.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\TheV-Logger\bin\Debug\net5.0\TheV-Logger.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\TheV-Logger\bin\Debug\net5.0\TheV-Logger.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\TheV-Logger\bin\Debug\net5.0\ref\TheV-Logger.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\TheV-Logger\bin\Debug\net5.0\TheV-Logger.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\TheV-Logger\obj\Debug\net5.0\TheV-Logger.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\TheV-Logger\obj\Debug\net5.0\TheV-Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\TheV-Logger\obj\Debug\net5.0\TheV-Logger.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\TheV-Logger\obj\Debug\net5.0\TheV-Logger.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\TheV-Logger\obj\Debug\net5.0\TheV-Logger.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\TheV-Logger\obj\Debug\net5.0\TheV-Logger.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\TheV-Logger\obj\Debug\net5.0\ref\TheV-Logger.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\TheV-Logger\obj\Debug\net5.0\TheV-Logger.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\TheV-Logger\obj\Debug\net5.0\TheV-Logger.genruntimeconfig.cache
