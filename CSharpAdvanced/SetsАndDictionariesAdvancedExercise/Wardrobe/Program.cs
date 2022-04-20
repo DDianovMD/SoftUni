@@ -20,29 +20,38 @@ namespace Wardrobe
                                                   .Split(" -> ", StringSplitOptions.RemoveEmptyEntries)
                                                   .ToArray();
 
+                string color = colorAndClothes[0];
+
                 string[] clothes = colorAndClothes[1].Split(",", StringSplitOptions.RemoveEmptyEntries)
                                                      .ToArray();
 
-                if (wardrobe.ContainsKey(colorAndClothes[0]) == false) // if given color doesn't exist
+                if (wardrobe.ContainsKey(color) == false) // if given color doesn't exist
                 {
-                    wardrobe.Add(colorAndClothes[0], new Dictionary<string, int>()); // add color
+                    wardrobe.Add(color, new Dictionary<string, int>()); // add color
 
                     for (int j = 0; j < clothes.Length; j++) // add items with this color
                     {
-                        wardrobe[colorAndClothes[0]].Add(clothes[j], 1);
+                        if (wardrobe[color].ContainsKey(clothes[j]) == false) // if current item doesn't exist - add item
+                        {
+                            wardrobe[color].Add(clothes[j], 1);
+                        }
+                        else
+                        {
+                            wardrobe[color][clothes[j]] += 1; // else - itemCount++
+                        }
                     }
                 }
                 else
                 {
                     for (int j = 0; j < clothes.Length; j++)
                     {
-                        if (wardrobe[colorAndClothes[0]].ContainsKey(clothes[j]) == false) // if current item doesn't exist - add item
+                        if (wardrobe[color].ContainsKey(clothes[j]) == false) // if current item doesn't exist - add item
                         {
-                            wardrobe[colorAndClothes[0]].Add(clothes[j], 1);
+                            wardrobe[color].Add(clothes[j], 1);
                         }
                         else
                         {
-                            wardrobe[colorAndClothes[0]][clothes[j]] += 1; // else - itemCount++
+                            wardrobe[color][clothes[j]] += 1; // else - itemCount++
                         }
                     }
                 }
