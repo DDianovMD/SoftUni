@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\ForceBook\bin\Debug\net5.0\ForceBook.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\ForceBook\bin\Debug\net5.0\ForceBook.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\ForceBook\bin\Debug\net5.0\ForceBook.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\ForceBook\bin\Debug\net5.0\ForceBook.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\ForceBook\bin\Debug\net5.0\ForceBook.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\ForceBook\bin\Debug\net5.0\ref\ForceBook.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\ForceBook\bin\Debug\net5.0\ForceBook.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\ForceBook\obj\Debug\net5.0\ForceBook.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\ForceBook\obj\Debug\net5.0\ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\ForceBook\obj\Debug\net5.0\ForceBook.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\ForceBook\obj\Debug\net5.0\ForceBook.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\ForceBook\obj\Debug\net5.0\ForceBook.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\ForceBook\obj\Debug\net5.0\ForceBook.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\ForceBook\obj\Debug\net5.0\ref\ForceBook.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\ForceBook\obj\Debug\net5.0\ForceBook.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\ForceBook\obj\Debug\net5.0\ForceBook.genruntimeconfig.cache
