@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Wardrobe", "Wardrobe\Wardro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheV-Logger", "TheV-Logger\TheV-Logger.csproj", "{03B5688F-3DE5-427F-9424-E3083137CBCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ranking", "Ranking\Ranking.csproj", "{EE779BB9-6A9D-46B9-B02B-F7CD0934DF89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ranking", "Ranking\Ranking.csproj", "{EE779BB9-6A9D-46B9-B02B-F7CD0934DF89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniExamResults", "SoftUniExamResults\SoftUniExamResults.csproj", "{8C097D36-C901-4737-BB62-7478F62E3CC1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{EE779BB9-6A9D-46B9-B02B-F7CD0934DF89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE779BB9-6A9D-46B9-B02B-F7CD0934DF89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE779BB9-6A9D-46B9-B02B-F7CD0934DF89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C097D36-C901-4737-BB62-7478F62E3CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C097D36-C901-4737-BB62-7478F62E3CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C097D36-C901-4737-BB62-7478F62E3CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C097D36-C901-4737-BB62-7478F62E3CC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

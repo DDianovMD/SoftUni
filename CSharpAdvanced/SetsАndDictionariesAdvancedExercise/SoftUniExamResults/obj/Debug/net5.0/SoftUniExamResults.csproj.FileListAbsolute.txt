@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SoftUniExamResults\bin\Debug\net5.0\SoftUniExamResults.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SoftUniExamResults\bin\Debug\net5.0\SoftUniExamResults.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SoftUniExamResults\bin\Debug\net5.0\SoftUniExamResults.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SoftUniExamResults\bin\Debug\net5.0\SoftUniExamResults.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SoftUniExamResults\bin\Debug\net5.0\SoftUniExamResults.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SoftUniExamResults\bin\Debug\net5.0\ref\SoftUniExamResults.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SoftUniExamResults\bin\Debug\net5.0\SoftUniExamResults.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SoftUniExamResults\obj\Debug\net5.0\SoftUniExamResults.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SoftUniExamResults\obj\Debug\net5.0\SoftUniExamResults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SoftUniExamResults\obj\Debug\net5.0\SoftUniExamResults.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SoftUniExamResults\obj\Debug\net5.0\SoftUniExamResults.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SoftUniExamResults\obj\Debug\net5.0\SoftUniExamResults.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SoftUniExamResults\obj\Debug\net5.0\SoftUniExamResults.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SoftUniExamResults\obj\Debug\net5.0\ref\SoftUniExamResults.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SoftUniExamResults\obj\Debug\net5.0\SoftUniExamResults.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\SetsАndDictionariesAdvancedExercise\SoftUniExamResults\obj\Debug\net5.0\SoftUniExamResults.genruntimeconfig.cache
