@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SumNumbers\bin\Debug\net5.0\SumNumbers.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SumNumbers\bin\Debug\net5.0\SumNumbers.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SumNumbers\bin\Debug\net5.0\SumNumbers.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SumNumbers\bin\Debug\net5.0\SumNumbers.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SumNumbers\bin\Debug\net5.0\SumNumbers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SumNumbers\bin\Debug\net5.0\ref\SumNumbers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SumNumbers\bin\Debug\net5.0\SumNumbers.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SumNumbers\obj\Debug\net5.0\SumNumbers.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SumNumbers\obj\Debug\net5.0\SumNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SumNumbers\obj\Debug\net5.0\SumNumbers.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SumNumbers\obj\Debug\net5.0\SumNumbers.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SumNumbers\obj\Debug\net5.0\SumNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SumNumbers\obj\Debug\net5.0\SumNumbers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SumNumbers\obj\Debug\net5.0\ref\SumNumbers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SumNumbers\obj\Debug\net5.0\SumNumbers.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SumNumbers\obj\Debug\net5.0\SumNumbers.genruntimeconfig.cache
