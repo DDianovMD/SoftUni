@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SortEvenNumbers\bin\Debug\net5.0\SortEvenNumbers.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SortEvenNumbers\bin\Debug\net5.0\SortEvenNumbers.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SortEvenNumbers\bin\Debug\net5.0\SortEvenNumbers.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SortEvenNumbers\bin\Debug\net5.0\SortEvenNumbers.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SortEvenNumbers\bin\Debug\net5.0\SortEvenNumbers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SortEvenNumbers\bin\Debug\net5.0\ref\SortEvenNumbers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SortEvenNumbers\bin\Debug\net5.0\SortEvenNumbers.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SortEvenNumbers\obj\Debug\net5.0\SortEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SortEvenNumbers\obj\Debug\net5.0\SortEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SortEvenNumbers\obj\Debug\net5.0\SortEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SortEvenNumbers\obj\Debug\net5.0\SortEvenNumbers.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SortEvenNumbers\obj\Debug\net5.0\SortEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SortEvenNumbers\obj\Debug\net5.0\SortEvenNumbers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SortEvenNumbers\obj\Debug\net5.0\ref\SortEvenNumbers.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SortEvenNumbers\obj\Debug\net5.0\SortEvenNumbers.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\SortEvenNumbers\obj\Debug\net5.0\SortEvenNumbers.genruntimeconfig.cache
