@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortEvenNumbers", "SortEvenNumbers\SortEvenNumbers.csproj", "{7DB3157E-C867-46D8-BA0F-2C72BAD06CCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumNumbers", "SumNumbers\SumNumbers.csproj", "{D5DC7279-874C-431C-BF6C-64263FF5D240}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SumNumbers", "SumNumbers\SumNumbers.csproj", "{D5DC7279-874C-431C-BF6C-64263FF5D240}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountUppercaseWords", "CountUppercaseWords\CountUppercaseWords.csproj", "{0C0B0BBC-8764-466A-B9FA-E45142BBADB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D5DC7279-874C-431C-BF6C-64263FF5D240}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5DC7279-874C-431C-BF6C-64263FF5D240}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5DC7279-874C-431C-BF6C-64263FF5D240}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C0B0BBC-8764-466A-B9FA-E45142BBADB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C0B0BBC-8764-466A-B9FA-E45142BBADB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C0B0BBC-8764-466A-B9FA-E45142BBADB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C0B0BBC-8764-466A-B9FA-E45142BBADB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\CountUppercaseWords\bin\Debug\net5.0\CountUppercaseWords.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\CountUppercaseWords\bin\Debug\net5.0\CountUppercaseWords.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\CountUppercaseWords\bin\Debug\net5.0\CountUppercaseWords.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\CountUppercaseWords\bin\Debug\net5.0\CountUppercaseWords.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\CountUppercaseWords\bin\Debug\net5.0\CountUppercaseWords.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\CountUppercaseWords\bin\Debug\net5.0\ref\CountUppercaseWords.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\CountUppercaseWords\bin\Debug\net5.0\CountUppercaseWords.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\CountUppercaseWords\obj\Debug\net5.0\CountUppercaseWords.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\CountUppercaseWords\obj\Debug\net5.0\CountUppercaseWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\CountUppercaseWords\obj\Debug\net5.0\CountUppercaseWords.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\CountUppercaseWords\obj\Debug\net5.0\CountUppercaseWords.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\CountUppercaseWords\obj\Debug\net5.0\CountUppercaseWords.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\CountUppercaseWords\obj\Debug\net5.0\CountUppercaseWords.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\CountUppercaseWords\obj\Debug\net5.0\ref\CountUppercaseWords.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\CountUppercaseWords\obj\Debug\net5.0\CountUppercaseWords.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\CountUppercaseWords\obj\Debug\net5.0\CountUppercaseWords.genruntimeconfig.cache
