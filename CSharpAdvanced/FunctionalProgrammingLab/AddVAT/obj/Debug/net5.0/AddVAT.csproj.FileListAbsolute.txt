@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\AddVAT\bin\Debug\net5.0\AddVAT.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\AddVAT\bin\Debug\net5.0\AddVAT.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\AddVAT\bin\Debug\net5.0\AddVAT.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\AddVAT\bin\Debug\net5.0\AddVAT.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\AddVAT\bin\Debug\net5.0\AddVAT.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\AddVAT\bin\Debug\net5.0\ref\AddVAT.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\AddVAT\bin\Debug\net5.0\AddVAT.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\AddVAT\obj\Debug\net5.0\AddVAT.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\AddVAT\obj\Debug\net5.0\AddVAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\AddVAT\obj\Debug\net5.0\AddVAT.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\AddVAT\obj\Debug\net5.0\AddVAT.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\AddVAT\obj\Debug\net5.0\AddVAT.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\AddVAT\obj\Debug\net5.0\AddVAT.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\AddVAT\obj\Debug\net5.0\ref\AddVAT.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\AddVAT\obj\Debug\net5.0\AddVAT.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\AddVAT\obj\Debug\net5.0\AddVAT.genruntimeconfig.cache
