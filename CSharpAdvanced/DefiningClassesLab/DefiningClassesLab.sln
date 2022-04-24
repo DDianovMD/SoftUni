@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Car", "Car\Car.csproj", "{D5EA7406-56F8-4D8F-9BCC-799DDC19BBAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Car", "Car\Car.csproj", "{D5EA7406-56F8-4D8F-9BCC-799DDC19BBAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarExtension", "CarExtension\CarExtension.csproj", "{6660D5DA-C283-41EC-A9FA-5E293BF27B1E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D5EA7406-56F8-4D8F-9BCC-799DDC19BBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D5EA7406-56F8-4D8F-9BCC-799DDC19BBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D5EA7406-56F8-4D8F-9BCC-799DDC19BBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6660D5DA-C283-41EC-A9FA-5E293BF27B1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6660D5DA-C283-41EC-A9FA-5E293BF27B1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6660D5DA-C283-41EC-A9FA-5E293BF27B1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6660D5DA-C283-41EC-A9FA-5E293BF27B1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
