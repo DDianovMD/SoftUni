@@ -1,0 +1,16 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\FilterByAge\obj\Debug\net5.0\FilterByAge.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\FilterByAge\obj\Debug\net5.0\FilterByAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\FilterByAge\obj\Debug\net5.0\FilterByAge.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\FilterByAge\obj\Debug\net5.0\FilterByAge.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\FilterByAge\obj\Debug\net5.0\FilterByAge.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\FilterByAge\bin\Debug\net5.0\FilterByAge.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\FilterByAge\bin\Debug\net5.0\FilterByAge.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\FilterByAge\bin\Debug\net5.0\FilterByAge.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\FilterByAge\bin\Debug\net5.0\FilterByAge.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\FilterByAge\bin\Debug\net5.0\FilterByAge.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\FilterByAge\bin\Debug\net5.0\ref\FilterByAge.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\FilterByAge\bin\Debug\net5.0\FilterByAge.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\FilterByAge\obj\Debug\net5.0\FilterByAge.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\FilterByAge\obj\Debug\net5.0\ref\FilterByAge.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\FilterByAge\obj\Debug\net5.0\FilterByAge.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\FunctionalProgrammingLab\FilterByAge\obj\Debug\net5.0\FilterByAge.genruntimeconfig.cache
