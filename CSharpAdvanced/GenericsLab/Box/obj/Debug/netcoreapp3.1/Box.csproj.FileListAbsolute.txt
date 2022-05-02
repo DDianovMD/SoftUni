@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\GenericsLab\Box\bin\Debug\netcoreapp3.1\Box.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\GenericsLab\Box\bin\Debug\netcoreapp3.1\Box.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\GenericsLab\Box\bin\Debug\netcoreapp3.1\Box.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\GenericsLab\Box\bin\Debug\netcoreapp3.1\Box.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\GenericsLab\Box\bin\Debug\netcoreapp3.1\Box.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\GenericsLab\Box\bin\Debug\netcoreapp3.1\Box.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\GenericsLab\Box\obj\Debug\netcoreapp3.1\Box.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\GenericsLab\Box\obj\Debug\netcoreapp3.1\Box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\GenericsLab\Box\obj\Debug\netcoreapp3.1\Box.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\GenericsLab\Box\obj\Debug\netcoreapp3.1\Box.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\GenericsLab\Box\obj\Debug\netcoreapp3.1\Box.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\GenericsLab\Box\obj\Debug\netcoreapp3.1\Box.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\GenericsLab\Box\obj\Debug\netcoreapp3.1\Box.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\GenericsLab\Box\obj\Debug\netcoreapp3.1\Box.genruntimeconfig.cache
