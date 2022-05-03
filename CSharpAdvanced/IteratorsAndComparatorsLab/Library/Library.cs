@@ -1,11 +1,10 @@
-﻿using System;
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
 namespace IteratorsAndComparators
 {
-    public class Library : IEnumerable<Book>
+    public partial class Library : IEnumerable<Book>
     {
         public Library(params Book[] books)
         {
@@ -15,10 +14,7 @@ namespace IteratorsAndComparators
 
         public IEnumerator<Book> GetEnumerator()
         {
-            foreach (var item in Books)
-            {
-                yield return item;
-            }
+            return new LibraryIterator(Books);
         }
 
         IEnumerator IEnumerable.GetEnumerator()

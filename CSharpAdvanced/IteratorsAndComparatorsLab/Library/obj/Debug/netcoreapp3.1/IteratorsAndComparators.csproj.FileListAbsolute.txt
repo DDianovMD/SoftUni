@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsLab\Library\bin\Debug\netcoreapp3.1\IteratorsAndComparators.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsLab\Library\bin\Debug\netcoreapp3.1\IteratorsAndComparators.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsLab\Library\bin\Debug\netcoreapp3.1\IteratorsAndComparators.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsLab\Library\bin\Debug\netcoreapp3.1\IteratorsAndComparators.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsLab\Library\bin\Debug\netcoreapp3.1\IteratorsAndComparators.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsLab\Library\bin\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsLab\Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsLab\Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsLab\Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsLab\Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsLab\Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsLab\Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsLab\Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\IteratorsAndComparatorsLab\Library\obj\Debug\netcoreapp3.1\IteratorsAndComparators.genruntimeconfig.cache
