@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\Generics\\GenericBoxОfInteger\\GenericBoxОfInteger.csproj",
+      "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\GenericsExercise\\GenericBoxОfInteger\\GenericBoxОfInteger.csproj",
       "projectName": "GenericBoxОfInteger",
-      "projectPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\Generics\\GenericBoxОfInteger\\GenericBoxОfInteger.csproj",
+      "projectPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\GenericsExercise\\GenericBoxОfInteger\\GenericBoxОfInteger.csproj",
       "packagesPath": "C:\\Users\\ddian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\Generics\\GenericBoxОfInteger\\obj\\",
+      "outputPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\GenericsExercise\\GenericBoxОfInteger\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

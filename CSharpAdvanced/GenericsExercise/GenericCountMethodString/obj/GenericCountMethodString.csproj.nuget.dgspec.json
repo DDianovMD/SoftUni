@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\Generics\\GenericCountMethodString\\GenericCountMethodString.csproj": {}
+    "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\GenericsExercise\\GenericCountMethodString\\GenericCountMethodString.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\Generics\\GenericCountMethodString\\GenericCountMethodString.csproj": {
+    "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\GenericsExercise\\GenericCountMethodString\\GenericCountMethodString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\Generics\\GenericCountMethodString\\GenericCountMethodString.csproj",
+        "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\GenericsExercise\\GenericCountMethodString\\GenericCountMethodString.csproj",
         "projectName": "GenericCountMethodString",
-        "projectPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\Generics\\GenericCountMethodString\\GenericCountMethodString.csproj",
+        "projectPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\GenericsExercise\\GenericCountMethodString\\GenericCountMethodString.csproj",
         "packagesPath": "C:\\Users\\ddian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\Generics\\GenericCountMethodString\\obj\\",
+        "outputPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\GenericsExercise\\GenericCountMethodString\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

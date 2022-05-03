@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\Generics\\Tuple\\Tuple.csproj",
+      "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\GenericsExercise\\Tuple\\Tuple.csproj",
       "projectName": "Tuple",
-      "projectPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\Generics\\Tuple\\Tuple.csproj",
+      "projectPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\GenericsExercise\\Tuple\\Tuple.csproj",
       "packagesPath": "C:\\Users\\ddian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\Generics\\Tuple\\obj\\",
+      "outputPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\GenericsExercise\\Tuple\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

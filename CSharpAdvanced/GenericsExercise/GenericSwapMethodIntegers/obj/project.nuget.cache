@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gISWM32PM9jx61jrPajPvKOO4Lksng1cM2/aQmDSeaz6TS/raXnobs4FA0OZuBBxy7aBdaYFpWrIBf2+On8zTQ==",
+  "dgSpecHash": "196v231hOWj70OmSTreTYeNT/OBSyQJrJDY6s08Gv1zG3eBsLAM08JuDuJQPEEumRbV1ORrrWOG+tyLBQOzPHA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\Generics\\GenericSwapMethodIntegers\\GenericSwapMethodIntegers.csproj",
+  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\GenericsExercise\\GenericSwapMethodIntegers\\GenericSwapMethodIntegers.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

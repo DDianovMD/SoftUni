@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\Generics\\GenericCountMethodDoubles\\GenericCountMethodDoubles.csproj",
+      "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\GenericsExercise\\GenericCountMethodDoubles\\GenericCountMethodDoubles.csproj",
       "projectName": "GenericCountMethodDoubles",
-      "projectPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\Generics\\GenericCountMethodDoubles\\GenericCountMethodDoubles.csproj",
+      "projectPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\GenericsExercise\\GenericCountMethodDoubles\\GenericCountMethodDoubles.csproj",
       "packagesPath": "C:\\Users\\ddian\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\Generics\\GenericCountMethodDoubles\\obj\\",
+      "outputPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\GenericsExercise\\GenericCountMethodDoubles\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

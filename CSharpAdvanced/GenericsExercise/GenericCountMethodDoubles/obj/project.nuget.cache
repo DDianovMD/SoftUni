@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uB3ADtcXRmSdg6uJdZIncfHWj+HGjQ3gV5W6abGA/7mnd3Jil6FOaycB1IzxSn6BQlf1roFSjkGiguSby6MqfA==",
+  "dgSpecHash": "vy4WwPRZ1oSlcriVq9xLJNjSiieYh7vUVKSvXIbOtwNm/179X9AYHukr1y4GDu5sbUVaAY+sZfxEkLSYMdoimA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\Generics\\GenericCountMethodDoubles\\GenericCountMethodDoubles.csproj",
+  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\GenericsExercise\\GenericCountMethodDoubles\\GenericCountMethodDoubles.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

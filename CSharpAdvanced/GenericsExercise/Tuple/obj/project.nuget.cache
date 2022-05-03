@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "btp1OfkaquWditOy06iHo4+kE0VJGL/iiAWcqxg4IJllpnK6G3YZQIaCx1dRBd2UKAWfM0p6tRgIEnRWTiwNcw==",
+  "dgSpecHash": "eh+CJWn/Jm+BTQJNRN1l/MsyvQtKHh3W1/rSAuVudbrM2yMZvQ+SQ0jQBbrRMsQDp8OS5W0MFojXeEDYOsiVfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\Generics\\Tuple\\Tuple.csproj",
+  "projectFilePath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\GenericsExercise\\Tuple\\Tuple.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
