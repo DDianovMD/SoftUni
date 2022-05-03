@@ -1,4 +1,6 @@
-﻿namespace IteratorsAndComparators
+﻿using System;
+
+namespace IteratorsAndComparators
 {
     public class StartUp
     {
@@ -15,7 +17,7 @@
 
                 foreach (var book in libraryTwo)
                 {
-                    Console.WriteLine(book.Title);
+                    Console.WriteLine(book);
                 }
                 */
             }
