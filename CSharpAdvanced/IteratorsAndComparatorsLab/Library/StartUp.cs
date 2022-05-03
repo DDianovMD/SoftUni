@@ -12,10 +12,9 @@ namespace IteratorsAndComparators
                 Book bookTwo = new Book("The Documents in the Case", 2002, "Dorothy Sayers", "Robert Eustace");
                 Book bookThree = new Book("The Documents in the Case", 1930);
 
-                Library libraryOne = new Library();
-                Library libraryTwo = new Library(bookOne, bookTwo, bookThree);
+                Library library = new Library(bookOne, bookTwo, bookThree);
 
-                foreach (var book in libraryTwo)
+                foreach (var book in library)
                 {
                     Console.WriteLine(book);
                 }
