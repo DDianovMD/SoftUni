@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Person\bin\Debug\netcoreapp3.1\Person.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache
