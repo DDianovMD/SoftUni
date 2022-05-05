@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceLab\HierarchicalInheritance\bin\Debug\netcoreapp3.1\HierarchicalInheritance.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceLab\HierarchicalInheritance\bin\Debug\netcoreapp3.1\HierarchicalInheritance.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceLab\HierarchicalInheritance\bin\Debug\netcoreapp3.1\HierarchicalInheritance.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceLab\HierarchicalInheritance\bin\Debug\netcoreapp3.1\HierarchicalInheritance.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceLab\HierarchicalInheritance\bin\Debug\netcoreapp3.1\HierarchicalInheritance.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceLab\HierarchicalInheritance\bin\Debug\netcoreapp3.1\HierarchicalInheritance.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceLab\HierarchicalInheritance\obj\Debug\netcoreapp3.1\HierarchicalInheritance.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceLab\HierarchicalInheritance\obj\Debug\netcoreapp3.1\HierarchicalInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceLab\HierarchicalInheritance\obj\Debug\netcoreapp3.1\HierarchicalInheritance.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceLab\HierarchicalInheritance\obj\Debug\netcoreapp3.1\HierarchicalInheritance.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceLab\HierarchicalInheritance\obj\Debug\netcoreapp3.1\HierarchicalInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceLab\HierarchicalInheritance\obj\Debug\netcoreapp3.1\HierarchicalInheritance.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceLab\HierarchicalInheritance\obj\Debug\netcoreapp3.1\HierarchicalInheritance.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceLab\HierarchicalInheritance\obj\Debug\netcoreapp3.1\HierarchicalInheritance.genruntimeconfig.cache
