@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InheritanceExercise\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache
