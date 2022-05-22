@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\AnimalFarm\AnimalFarm\bin\Debug\netcoreapp3.1\AnimalFarm.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\AnimalFarm\AnimalFarm\obj\Debug\netcoreapp3.1\AnimalFarm.genruntimeconfig.cache
