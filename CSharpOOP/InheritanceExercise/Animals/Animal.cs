@@ -6,6 +6,7 @@ namespace Animals
 {
     public class Animal
     {
+        private string name;
         private int age;
         protected string gender;
 
@@ -16,10 +17,64 @@ namespace Animals
             Gender = gender;
         }
 
-        public string Name { get; set; }
-        public int Age { get; set; }
+        public string Name
+        {
+            get
+            {
+                return name;
+            }
 
-        public virtual string Gender { get; set; }
+            private set
+            {
+                if (value != null && value != string.Empty)
+                {
+                    name = value;
+                }
+                else
+                {
+                    throw new Exception();
+                }
+            }
+        }
+        
+        public int Age
+        {
+            get
+            {
+                return age;
+            }
+
+            private set
+            {
+                if (value > 0)
+                {
+                    age = value;
+                }
+                else
+                {
+                    throw new Exception();
+                }
+            }
+        }
+
+        public virtual string Gender
+        {
+            get
+            {
+                return gender;
+            }
+            private set
+            {
+                if (value == "Male" || value == "Female")
+                {
+                    gender = value;
+                }
+                else
+                {
+                    throw new Exception();
+                }
+            }
+        }
 
         public virtual string ProduceSound()
         {
