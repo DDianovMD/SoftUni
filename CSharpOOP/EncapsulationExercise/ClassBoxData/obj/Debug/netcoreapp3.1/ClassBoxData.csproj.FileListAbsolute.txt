@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\ClassBoxData\bin\Debug\netcoreapp3.1\ClassBoxData.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\EncapsulationExercise\ClassBoxData\obj\Debug\netcoreapp3.1\ClassBoxData.genruntimeconfig.cache
