@@ -16,7 +16,7 @@ namespace PersonsInfo
             {
                 string[] userInput = Console.ReadLine().Split(" ", StringSplitOptions.RemoveEmptyEntries);
 
-                Person currentPerson = new Person(userInput[0], userInput[1], int.Parse(userInput[2]));
+                Person currentPerson = new Person(userInput[0], userInput[1], int.Parse(userInput[2]), decimal.Parse(userInput[3]));
 
                 people.Add(currentPerson);
             }
