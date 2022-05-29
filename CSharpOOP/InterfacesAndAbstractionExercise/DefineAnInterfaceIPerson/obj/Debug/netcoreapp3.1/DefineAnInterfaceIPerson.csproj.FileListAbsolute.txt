@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\DefineAnInterfaceIPerson.genruntimeconfig.cache
