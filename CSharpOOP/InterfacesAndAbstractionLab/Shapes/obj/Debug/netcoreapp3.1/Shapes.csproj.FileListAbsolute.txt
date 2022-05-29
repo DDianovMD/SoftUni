@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache
