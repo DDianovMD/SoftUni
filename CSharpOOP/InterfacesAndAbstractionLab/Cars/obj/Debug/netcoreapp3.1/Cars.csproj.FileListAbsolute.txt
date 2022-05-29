@@ -1,0 +1,13 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp3.1\Cars.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp3.1\Cars.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp3.1\Cars.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp3.1\Cars.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Cars\bin\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp3.1\Cars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp3.1\Cars.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp3.1\Cars.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp3.1\Cars.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp3.1\Cars.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionLab\Cars\obj\Debug\netcoreapp3.1\Cars.genruntimeconfig.cache
