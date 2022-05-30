@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefineAnInterfaceIPerson", "DefineAnInterfaceIPerson\DefineAnInterfaceIPerson.csproj", "{647EC856-7740-4918-A86A-152D8448C920}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Telephony", "Telephony\Telephony.csproj", "{D156259C-BCE2-4567-A289-876F5051381F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Telephony", "Telephony\Telephony.csproj", "{D156259C-BCE2-4567-A289-876F5051381F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorderControl", "BorderControl\BorderControl.csproj", "{D063A522-7935-4835-903D-4A4895E27DD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{D156259C-BCE2-4567-A289-876F5051381F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D156259C-BCE2-4567-A289-876F5051381F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D156259C-BCE2-4567-A289-876F5051381F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D063A522-7935-4835-903D-4A4895E27DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D063A522-7935-4835-903D-4A4895E27DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D063A522-7935-4835-903D-4A4895E27DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D063A522-7935-4835-903D-4A4895E27DD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
