@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismLab\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismLab\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismLab\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismLab\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismLab\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismLab\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismLab\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismLab\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismLab\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismLab\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismLab\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismLab\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismLab\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismLab\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.genruntimeconfig.cache
