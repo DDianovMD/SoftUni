@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DefineAnInterfaceIPerson", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Telephony", "Telephony\Telephony.csproj", "{D156259C-BCE2-4567-A289-876F5051381F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BorderControl", "BorderControl\BorderControl.csproj", "{D063A522-7935-4835-903D-4A4895E27DD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BorderControl", "BorderControl\BorderControl.csproj", "{D063A522-7935-4835-903D-4A4895E27DD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilitaryElite", "MilitaryElite\MilitaryElite.csproj", "{4C793470-2274-462D-A980-66BF040B6024}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{D063A522-7935-4835-903D-4A4895E27DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D063A522-7935-4835-903D-4A4895E27DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D063A522-7935-4835-903D-4A4895E27DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C793470-2274-462D-A980-66BF040B6024}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C793470-2274-462D-A980-66BF040B6024}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C793470-2274-462D-A980-66BF040B6024}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C793470-2274-462D-A980-66BF040B6024}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

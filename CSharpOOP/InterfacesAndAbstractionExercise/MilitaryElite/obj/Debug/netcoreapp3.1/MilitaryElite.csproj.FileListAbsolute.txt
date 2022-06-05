@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\MilitaryElite\bin\Debug\netcoreapp3.1\MilitaryElite.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\InterfacesAndAbstractionExercise\MilitaryElite\obj\Debug\netcoreapp3.1\MilitaryElite.genruntimeconfig.cache
