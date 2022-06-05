@@ -7,10 +7,11 @@ namespace Vehicles
     public class Car : Vehicle
     {
         public Car(double fuelQuantity, double litersPerKm)
-        {
-            this.FuelQuantity = fuelQuantity;
-            this.LitersConsumptionPerKm = litersPerKm + 0.9;
-        }
+            : base(fuelQuantity, litersPerKm + 0.9) { }
+
+        public Car(double fuelQuantity, double litersPerKm, double tankCapacity)
+            : base(fuelQuantity, litersPerKm + 0.9, tankCapacity) { }
+
 
         public override void Drive(double distance)
         {
@@ -29,7 +30,20 @@ namespace Vehicles
 
         public override void Refuel(double liters)
         {
-            this.FuelQuantity += liters;
+            if (liters <= 0)
+            {
+                Console.WriteLine("Fuel must be a positive number");
+                return;
+            }
+
+            if (FuelQuantity + liters <= TankCapacity)
+            {
+                this.FuelQuantity += liters;
+            }
+            else
+            {
+                Console.WriteLine($"Cannot fit {liters} fuel in the tank");
+            }
         }
     }
 }
