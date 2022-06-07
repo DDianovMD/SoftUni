@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismExercise\WildFarm\bin\Debug\netcoreapp3.1\WildFarm.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\PolymorphismExercise\WildFarm\obj\Debug\netcoreapp3.1\WildFarm.genruntimeconfig.cache
