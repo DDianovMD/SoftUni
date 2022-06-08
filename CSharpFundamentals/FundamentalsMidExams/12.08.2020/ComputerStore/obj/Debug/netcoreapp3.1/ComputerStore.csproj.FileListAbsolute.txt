@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\SoftUni_Fundamentals_August 2020_MidExamRetake\ComputerStore\bin\Debug\netcoreapp3.1\ComputerStore.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\SoftUni_Fundamentals_August 2020_MidExamRetake\ComputerStore\bin\Debug\netcoreapp3.1\ComputerStore.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\SoftUni_Fundamentals_August 2020_MidExamRetake\ComputerStore\bin\Debug\netcoreapp3.1\ComputerStore.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\SoftUni_Fundamentals_August 2020_MidExamRetake\ComputerStore\bin\Debug\netcoreapp3.1\ComputerStore.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\SoftUni_Fundamentals_August 2020_MidExamRetake\ComputerStore\bin\Debug\netcoreapp3.1\ComputerStore.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\SoftUni_Fundamentals_August 2020_MidExamRetake\ComputerStore\bin\Debug\netcoreapp3.1\ComputerStore.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\SoftUni_Fundamentals_August 2020_MidExamRetake\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\SoftUni_Fundamentals_August 2020_MidExamRetake\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\SoftUni_Fundamentals_August 2020_MidExamRetake\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\SoftUni_Fundamentals_August 2020_MidExamRetake\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\SoftUni_Fundamentals_August 2020_MidExamRetake\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\SoftUni_Fundamentals_August 2020_MidExamRetake\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\SoftUni_Fundamentals_August 2020_MidExamRetake\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\SoftUni_Fundamentals_August 2020_MidExamRetake\ComputerStore\obj\Debug\netcoreapp3.1\ComputerStore.genruntimeconfig.cache
