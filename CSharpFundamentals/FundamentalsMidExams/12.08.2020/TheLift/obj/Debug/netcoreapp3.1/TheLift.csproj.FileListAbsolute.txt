@@ -1,0 +1,13 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\TheLift\bin\Debug\netcoreapp3.1\TheLift.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\TheLift\bin\Debug\netcoreapp3.1\TheLift.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\TheLift\bin\Debug\netcoreapp3.1\TheLift.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\TheLift\bin\Debug\netcoreapp3.1\TheLift.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\TheLift\bin\Debug\netcoreapp3.1\TheLift.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\TheLift\bin\Debug\netcoreapp3.1\TheLift.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\TheLift\obj\Debug\netcoreapp3.1\TheLift.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\TheLift\obj\Debug\netcoreapp3.1\TheLift.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\TheLift\obj\Debug\netcoreapp3.1\TheLift.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\TheLift\obj\Debug\netcoreapp3.1\TheLift.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\TheLift\obj\Debug\netcoreapp3.1\TheLift.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\TheLift\obj\Debug\netcoreapp3.1\TheLift.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsMidExams\12.08.2020\TheLift\obj\Debug\netcoreapp3.1\TheLift.genruntimeconfig.cache
