@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.31702.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheHuntingGames", "TheHuntingGames\TheHuntingGames.csproj", "{8792A25D-030B-4EA5-8017-DA16498AB5B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceTravel", "SpaceTravel\SpaceTravel.csproj", "{4E172BDA-E3EF-4311-A6D8-3C64007E90D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpaceTravel", "SpaceTravel\SpaceTravel.csproj", "{4E172BDA-E3EF-4311-A6D8-3C64007E90D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneShop", "PhoneShop\PhoneShop.csproj", "{DBA5BED8-C9AC-45C2-BE17-DAF5CB5CC9A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4E172BDA-E3EF-4311-A6D8-3C64007E90D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E172BDA-E3EF-4311-A6D8-3C64007E90D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E172BDA-E3EF-4311-A6D8-3C64007E90D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBA5BED8-C9AC-45C2-BE17-DAF5CB5CC9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBA5BED8-C9AC-45C2-BE17-DAF5CB5CC9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBA5BED8-C9AC-45C2-BE17-DAF5CB5CC9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBA5BED8-C9AC-45C2-BE17-DAF5CB5CC9A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
