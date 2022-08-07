@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\SoftUni_Fundamentals_August2022_FinalExam\Task1\bin\Debug\netcoreapp3.1\Task1.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\SoftUni_Fundamentals_August2022_FinalExam\Task1\bin\Debug\netcoreapp3.1\Task1.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\SoftUni_Fundamentals_August2022_FinalExam\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\SoftUni_Fundamentals_August2022_FinalExam\Task1\bin\Debug\netcoreapp3.1\Task1.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\SoftUni_Fundamentals_August2022_FinalExam\Task1\bin\Debug\netcoreapp3.1\Task1.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\SoftUni_Fundamentals_August2022_FinalExam\Task1\bin\Debug\netcoreapp3.1\Task1.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\SoftUni_Fundamentals_August2022_FinalExam\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\SoftUni_Fundamentals_August2022_FinalExam\Task1\obj\Debug\netcoreapp3.1\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\SoftUni_Fundamentals_August2022_FinalExam\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\SoftUni_Fundamentals_August2022_FinalExam\Task1\obj\Debug\netcoreapp3.1\Task1.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\SoftUni_Fundamentals_August2022_FinalExam\Task1\obj\Debug\netcoreapp3.1\Task1.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\SoftUni_Fundamentals_August2022_FinalExam\Task1\obj\Debug\netcoreapp3.1\Task1.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\SoftUni_Fundamentals_August2022_FinalExam\Task1\obj\Debug\netcoreapp3.1\Task1.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpFundamentals\FundamentalsFinalExams\SoftUni_Fundamentals_August2022_FinalExam\Task1\obj\Debug\netcoreapp3.1\Task1.genruntimeconfig.cache
