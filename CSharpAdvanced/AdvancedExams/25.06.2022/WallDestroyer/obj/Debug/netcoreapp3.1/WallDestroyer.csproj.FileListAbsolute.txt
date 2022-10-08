@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\WallDestroyer\bin\Debug\netcoreapp3.1\WallDestroyer.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\WallDestroyer\bin\Debug\netcoreapp3.1\WallDestroyer.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\WallDestroyer\bin\Debug\netcoreapp3.1\WallDestroyer.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\WallDestroyer\bin\Debug\netcoreapp3.1\WallDestroyer.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\WallDestroyer\bin\Debug\netcoreapp3.1\WallDestroyer.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\WallDestroyer\bin\Debug\netcoreapp3.1\WallDestroyer.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\WallDestroyer\obj\Debug\netcoreapp3.1\WallDestroyer.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\WallDestroyer\obj\Debug\netcoreapp3.1\WallDestroyer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\WallDestroyer\obj\Debug\netcoreapp3.1\WallDestroyer.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\WallDestroyer\obj\Debug\netcoreapp3.1\WallDestroyer.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\WallDestroyer\obj\Debug\netcoreapp3.1\WallDestroyer.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\WallDestroyer\obj\Debug\netcoreapp3.1\WallDestroyer.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\WallDestroyer\obj\Debug\netcoreapp3.1\WallDestroyer.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\WallDestroyer\obj\Debug\netcoreapp3.1\WallDestroyer.genruntimeconfig.cache
