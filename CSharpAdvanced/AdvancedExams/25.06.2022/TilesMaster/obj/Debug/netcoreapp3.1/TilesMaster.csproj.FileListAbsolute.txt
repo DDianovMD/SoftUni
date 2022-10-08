@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\TilesMaster\bin\Debug\netcoreapp3.1\TilesMaster.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\TilesMaster\obj\Debug\netcoreapp3.1\TilesMaster.genruntimeconfig.cache
