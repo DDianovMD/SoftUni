@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\Renovators\bin\Debug\netcoreapp3.1\Renovators.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\Renovators\bin\Debug\netcoreapp3.1\Renovators.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\Renovators\bin\Debug\netcoreapp3.1\Renovators.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\Renovators\bin\Debug\netcoreapp3.1\Renovators.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\Renovators\bin\Debug\netcoreapp3.1\Renovators.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\Renovators\bin\Debug\netcoreapp3.1\Renovators.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\Renovators\obj\Debug\netcoreapp3.1\Renovators.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\Renovators\obj\Debug\netcoreapp3.1\Renovators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\Renovators\obj\Debug\netcoreapp3.1\Renovators.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\Renovators\obj\Debug\netcoreapp3.1\Renovators.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\Renovators\obj\Debug\netcoreapp3.1\Renovators.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\Renovators\obj\Debug\netcoreapp3.1\Renovators.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\Renovators\obj\Debug\netcoreapp3.1\Renovators.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\25.06.2022\Renovators\obj\Debug\netcoreapp3.1\Renovators.genruntimeconfig.cache
