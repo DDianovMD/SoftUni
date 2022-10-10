@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\BaristaContest\bin\Debug\netcoreapp3.1\BaristaContest.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\BaristaContest\bin\Debug\netcoreapp3.1\BaristaContest.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\BaristaContest\bin\Debug\netcoreapp3.1\BaristaContest.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\BaristaContest\bin\Debug\netcoreapp3.1\BaristaContest.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\BaristaContest\bin\Debug\netcoreapp3.1\BaristaContest.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\BaristaContest\bin\Debug\netcoreapp3.1\BaristaContest.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\BaristaContest\obj\Debug\netcoreapp3.1\BaristaContest.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\BaristaContest\obj\Debug\netcoreapp3.1\BaristaContest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\BaristaContest\obj\Debug\netcoreapp3.1\BaristaContest.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\BaristaContest\obj\Debug\netcoreapp3.1\BaristaContest.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\BaristaContest\obj\Debug\netcoreapp3.1\BaristaContest.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\BaristaContest\obj\Debug\netcoreapp3.1\BaristaContest.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\BaristaContest\obj\Debug\netcoreapp3.1\BaristaContest.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\BaristaContest\obj\Debug\netcoreapp3.1\BaristaContest.genruntimeconfig.cache
