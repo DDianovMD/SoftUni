@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\HelpAMole\bin\Debug\netcoreapp3.1\HelpAMole.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\HelpAMole\bin\Debug\netcoreapp3.1\HelpAMole.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\HelpAMole\bin\Debug\netcoreapp3.1\HelpAMole.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\HelpAMole\bin\Debug\netcoreapp3.1\HelpAMole.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\HelpAMole\bin\Debug\netcoreapp3.1\HelpAMole.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\HelpAMole\bin\Debug\netcoreapp3.1\HelpAMole.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\HelpAMole\obj\Debug\netcoreapp3.1\HelpAMole.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\HelpAMole\obj\Debug\netcoreapp3.1\HelpAMole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\HelpAMole\obj\Debug\netcoreapp3.1\HelpAMole.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\HelpAMole\obj\Debug\netcoreapp3.1\HelpAMole.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\HelpAMole\obj\Debug\netcoreapp3.1\HelpAMole.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\HelpAMole\obj\Debug\netcoreapp3.1\HelpAMole.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\HelpAMole\obj\Debug\netcoreapp3.1\HelpAMole.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2022\HelpAMole\obj\Debug\netcoreapp3.1\HelpAMole.genruntimeconfig.cache
