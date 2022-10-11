@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BaristaContest", "BaristaContest\BaristaContest.csproj", "{2671FBEC-684D-4B4E-8308-D4C99A81CC2A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelpAMole", "HelpAMole\HelpAMole.csproj", "{F11C5E10-2093-42BA-ADEB-83F5794E56DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelpAMole", "HelpAMole\HelpAMole.csproj", "{F11C5E10-2093-42BA-ADEB-83F5794E56DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basketball", "Basketball\Basketball.csproj", "{A04B9D93-BB87-4AE5-971E-A5E3F3D2F9FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F11C5E10-2093-42BA-ADEB-83F5794E56DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F11C5E10-2093-42BA-ADEB-83F5794E56DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F11C5E10-2093-42BA-ADEB-83F5794E56DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A04B9D93-BB87-4AE5-971E-A5E3F3D2F9FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04B9D93-BB87-4AE5-971E-A5E3F3D2F9FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04B9D93-BB87-4AE5-971E-A5E3F3D2F9FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04B9D93-BB87-4AE5-971E-A5E3F3D2F9FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
