@@ -12,3 +12,17 @@ C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\Soft
 C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\SoftUni_AdvancedRetakeExam_August2021\TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.dll
 C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\SoftUni_AdvancedRetakeExam_August2021\TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.pdb
 C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\SoftUni_AdvancedRetakeExam_August2021\TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.genruntimeconfig.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\TheBattleOfTheFiveArmies\bin\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\TheBattleOfTheFiveArmies\obj\Debug\netcoreapp3.1\TheBattleOfTheFiveArmies.genruntimeconfig.cache

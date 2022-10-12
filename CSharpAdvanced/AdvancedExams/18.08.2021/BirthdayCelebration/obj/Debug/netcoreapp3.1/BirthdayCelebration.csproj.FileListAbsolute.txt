@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\BirthdayCelebration\bin\Debug\netcoreapp3.1\BirthdayCelebration.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\BirthdayCelebration\bin\Debug\netcoreapp3.1\BirthdayCelebration.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\BirthdayCelebration\bin\Debug\netcoreapp3.1\BirthdayCelebration.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\BirthdayCelebration\bin\Debug\netcoreapp3.1\BirthdayCelebration.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\BirthdayCelebration\bin\Debug\netcoreapp3.1\BirthdayCelebration.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\BirthdayCelebration\bin\Debug\netcoreapp3.1\BirthdayCelebration.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\18.08.2021\BirthdayCelebration\obj\Debug\netcoreapp3.1\BirthdayCelebration.genruntimeconfig.cache
