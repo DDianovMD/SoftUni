@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\SoftUni_AdvancedRetakeExam_April2022\TruffleHunter\bin\Debug\netcoreapp3.1\TruffleHunter.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\SoftUni_AdvancedRetakeExam_April2022\TruffleHunter\bin\Debug\netcoreapp3.1\TruffleHunter.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\SoftUni_AdvancedRetakeExam_April2022\TruffleHunter\bin\Debug\netcoreapp3.1\TruffleHunter.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\SoftUni_AdvancedRetakeExam_April2022\TruffleHunter\bin\Debug\netcoreapp3.1\TruffleHunter.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\SoftUni_AdvancedRetakeExam_April2022\TruffleHunter\bin\Debug\netcoreapp3.1\TruffleHunter.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\SoftUni_AdvancedRetakeExam_April2022\TruffleHunter\bin\Debug\netcoreapp3.1\TruffleHunter.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\SoftUni_AdvancedRetakeExam_April2022\TruffleHunter\obj\Debug\netcoreapp3.1\TruffleHunter.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\SoftUni_AdvancedRetakeExam_April2022\TruffleHunter\obj\Debug\netcoreapp3.1\TruffleHunter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\SoftUni_AdvancedRetakeExam_April2022\TruffleHunter\obj\Debug\netcoreapp3.1\TruffleHunter.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\SoftUni_AdvancedRetakeExam_April2022\TruffleHunter\obj\Debug\netcoreapp3.1\TruffleHunter.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\SoftUni_AdvancedRetakeExam_April2022\TruffleHunter\obj\Debug\netcoreapp3.1\TruffleHunter.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\SoftUni_AdvancedRetakeExam_April2022\TruffleHunter\obj\Debug\netcoreapp3.1\TruffleHunter.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\SoftUni_AdvancedRetakeExam_April2022\TruffleHunter\obj\Debug\netcoreapp3.1\TruffleHunter.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\SoftUni_AdvancedRetakeExam_April2022\TruffleHunter\obj\Debug\netcoreapp3.1\TruffleHunter.genruntimeconfig.cache
