@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TheBattleOfTheFiveArmies", "TheBattleOfTheFiveArmies\TheBattleOfTheFiveArmies.csproj", "{3AC8DB68-03D3-4F80-A5A7-6AC021371E3C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayCelebration", "BirthdayCelebration\BirthdayCelebration.csproj", "{1F20EA86-0FBB-4ED5-89DE-8E15118472A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BirthdayCelebration", "BirthdayCelebration\BirthdayCelebration.csproj", "{1F20EA86-0FBB-4ED5-89DE-8E15118472A5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StreetRacing", "StreetRacing\StreetRacing.csproj", "{4FB808F9-DFA0-46C2-AFC0-6536409A2572}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{1F20EA86-0FBB-4ED5-89DE-8E15118472A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F20EA86-0FBB-4ED5-89DE-8E15118472A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F20EA86-0FBB-4ED5-89DE-8E15118472A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB808F9-DFA0-46C2-AFC0-6536409A2572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB808F9-DFA0-46C2-AFC0-6536409A2572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB808F9-DFA0-46C2-AFC0-6536409A2572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB808F9-DFA0-46C2-AFC0-6536409A2572}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
