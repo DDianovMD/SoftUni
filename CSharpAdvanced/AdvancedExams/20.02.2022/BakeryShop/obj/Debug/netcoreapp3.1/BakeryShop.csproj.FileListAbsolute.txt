@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\BakeryShop\bin\Debug\netcoreapp3.1\BakeryShop.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\BakeryShop\obj\Debug\netcoreapp3.1\BakeryShop.genruntimeconfig.cache
