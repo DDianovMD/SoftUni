@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\SoftUni_AdvancedRetakeExam_December2021\Armory\bin\Debug\netcoreapp3.1\Armory.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\SoftUni_AdvancedRetakeExam_December2021\Armory\bin\Debug\netcoreapp3.1\Armory.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\SoftUni_AdvancedRetakeExam_December2021\Armory\bin\Debug\netcoreapp3.1\Armory.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\SoftUni_AdvancedRetakeExam_December2021\Armory\bin\Debug\netcoreapp3.1\Armory.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\SoftUni_AdvancedRetakeExam_December2021\Armory\bin\Debug\netcoreapp3.1\Armory.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\SoftUni_AdvancedRetakeExam_December2021\Armory\bin\Debug\netcoreapp3.1\Armory.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\SoftUni_AdvancedRetakeExam_December2021\Armory\obj\Debug\netcoreapp3.1\Armory.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\SoftUni_AdvancedRetakeExam_December2021\Armory\obj\Debug\netcoreapp3.1\Armory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\SoftUni_AdvancedRetakeExam_December2021\Armory\obj\Debug\netcoreapp3.1\Armory.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\SoftUni_AdvancedRetakeExam_December2021\Armory\obj\Debug\netcoreapp3.1\Armory.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\SoftUni_AdvancedRetakeExam_December2021\Armory\obj\Debug\netcoreapp3.1\Armory.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\SoftUni_AdvancedRetakeExam_December2021\Armory\obj\Debug\netcoreapp3.1\Armory.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\SoftUni_AdvancedRetakeExam_December2021\Armory\obj\Debug\netcoreapp3.1\Armory.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\SoftUni_AdvancedRetakeExam_December2021\Armory\obj\Debug\netcoreapp3.1\Armory.genruntimeconfig.cache
