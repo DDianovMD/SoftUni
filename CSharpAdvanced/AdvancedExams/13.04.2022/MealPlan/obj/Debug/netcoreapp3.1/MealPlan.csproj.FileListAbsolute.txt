@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\MealPlan\bin\Debug\netcoreapp3.1\MealPlan.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\MealPlan\bin\Debug\netcoreapp3.1\MealPlan.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\MealPlan\bin\Debug\netcoreapp3.1\MealPlan.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\MealPlan\bin\Debug\netcoreapp3.1\MealPlan.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\MealPlan\bin\Debug\netcoreapp3.1\MealPlan.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\MealPlan\bin\Debug\netcoreapp3.1\MealPlan.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\MealPlan\obj\Debug\netcoreapp3.1\MealPlan.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\MealPlan\obj\Debug\netcoreapp3.1\MealPlan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\MealPlan\obj\Debug\netcoreapp3.1\MealPlan.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\MealPlan\obj\Debug\netcoreapp3.1\MealPlan.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\MealPlan\obj\Debug\netcoreapp3.1\MealPlan.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\MealPlan\obj\Debug\netcoreapp3.1\MealPlan.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\MealPlan\obj\Debug\netcoreapp3.1\MealPlan.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\MealPlan\obj\Debug\netcoreapp3.1\MealPlan.genruntimeconfig.cache
