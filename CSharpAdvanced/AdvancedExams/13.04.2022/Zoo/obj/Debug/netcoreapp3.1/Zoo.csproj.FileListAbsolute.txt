@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\Zoo\bin\Debug\netcoreapp3.1\Zoo.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\Zoo\bin\Debug\netcoreapp3.1\Zoo.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\Zoo\bin\Debug\netcoreapp3.1\Zoo.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\Zoo\bin\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\Zoo\bin\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\Zoo\obj\Debug\netcoreapp3.1\Zoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\Zoo\obj\Debug\netcoreapp3.1\Zoo.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\Zoo\obj\Debug\netcoreapp3.1\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\Zoo\obj\Debug\netcoreapp3.1\Zoo.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\Zoo\obj\Debug\netcoreapp3.1\Zoo.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\13.04.2022\Zoo\obj\Debug\netcoreapp3.1\Zoo.genruntimeconfig.cache

@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TruffleHunter", "TruffleHunter\TruffleHunter.csproj", "{5B586677-EFF8-4566-835D-333CDE79BD85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MealPlan", "MealPlan\MealPlan.csproj", "{1D240ABE-E688-4112-9DCA-811638D621D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MealPlan", "MealPlan\MealPlan.csproj", "{1D240ABE-E688-4112-9DCA-811638D621D9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Zoo", "Zoo\Zoo.csproj", "{174CB4C7-9892-4604-AA06-0E0FE34F3E1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{1D240ABE-E688-4112-9DCA-811638D621D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1D240ABE-E688-4112-9DCA-811638D621D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1D240ABE-E688-4112-9DCA-811638D621D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{174CB4C7-9892-4604-AA06-0E0FE34F3E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{174CB4C7-9892-4604-AA06-0E0FE34F3E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{174CB4C7-9892-4604-AA06-0E0FE34F3E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{174CB4C7-9892-4604-AA06-0E0FE34F3E1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
