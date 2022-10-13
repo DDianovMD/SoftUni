@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReVolt", "ReVolt\ReVolt.csproj", "{BBDFD524-ED51-4A2F-9C33-9B3567A2E86C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lootbox", "Lootbox\Lootbox.csproj", "{97C3B059-B2AB-4D85-B1F1-B6DD2B57B14B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lootbox", "Lootbox\Lootbox.csproj", "{97C3B059-B2AB-4D85-B1F1-B6DD2B57B14B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Guild", "Guild\Guild.csproj", "{8B0FAF55-3410-4577-B698-78F87BDF6467}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{97C3B059-B2AB-4D85-B1F1-B6DD2B57B14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97C3B059-B2AB-4D85-B1F1-B6DD2B57B14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97C3B059-B2AB-4D85-B1F1-B6DD2B57B14B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B0FAF55-3410-4577-B698-78F87BDF6467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B0FAF55-3410-4577-B698-78F87BDF6467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B0FAF55-3410-4577-B698-78F87BDF6467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B0FAF55-3410-4577-B698-78F87BDF6467}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
