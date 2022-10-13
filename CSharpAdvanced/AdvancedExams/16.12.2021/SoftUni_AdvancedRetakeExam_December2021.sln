@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Armory", "Armory\Armory.csproj", "{C6781AC2-5C1C-49D5-9219-74DBB67D4E93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Blacksmith", "Blacksmith\Blacksmith.csproj", "{54D3318E-A321-44F2-A269-4F3383B6168D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Blacksmith", "Blacksmith\Blacksmith.csproj", "{54D3318E-A321-44F2-A269-4F3383B6168D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Drones", "Drones\Drones.csproj", "{1374A018-5D09-4142-B4DF-FEBBD65FD6CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{54D3318E-A321-44F2-A269-4F3383B6168D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54D3318E-A321-44F2-A269-4F3383B6168D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54D3318E-A321-44F2-A269-4F3383B6168D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1374A018-5D09-4142-B4DF-FEBBD65FD6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1374A018-5D09-4142-B4DF-FEBBD65FD6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1374A018-5D09-4142-B4DF-FEBBD65FD6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1374A018-5D09-4142-B4DF-FEBBD65FD6CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
