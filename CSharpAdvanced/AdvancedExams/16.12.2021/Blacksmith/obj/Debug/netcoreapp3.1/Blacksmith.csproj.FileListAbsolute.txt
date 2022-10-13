@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\Blacksmith\bin\Debug\netcoreapp3.1\Blacksmith.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2021\Blacksmith\obj\Debug\netcoreapp3.1\Blacksmith.genruntimeconfig.cache
