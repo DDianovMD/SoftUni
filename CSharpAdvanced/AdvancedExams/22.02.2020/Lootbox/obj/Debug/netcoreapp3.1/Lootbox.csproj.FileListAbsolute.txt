@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.genruntimeconfig.cache
