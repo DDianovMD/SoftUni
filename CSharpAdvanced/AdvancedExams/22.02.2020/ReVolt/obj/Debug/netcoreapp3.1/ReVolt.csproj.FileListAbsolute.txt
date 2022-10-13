@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\SoftUni_AdvancedExam_February2020\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\SoftUni_AdvancedExam_February2020\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\SoftUni_AdvancedExam_February2020\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\SoftUni_AdvancedExam_February2020\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\SoftUni_AdvancedExam_February2020\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\SoftUni_AdvancedExam_February2020\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\SoftUni_AdvancedExam_February2020\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\SoftUni_AdvancedExam_February2020\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\SoftUni_AdvancedExam_February2020\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\SoftUni_AdvancedExam_February2020\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\SoftUni_AdvancedExam_February2020\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\SoftUni_AdvancedExam_February2020\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\SoftUni_AdvancedExam_February2020\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\22.02.2020\SoftUni_AdvancedExam_February2020\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.genruntimeconfig.cache
