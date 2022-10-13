@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\SoftUni_AdvancedExam_February2022\BeaverAtWork\bin\Debug\netcoreapp3.1\BeaverAtWork.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\SoftUni_AdvancedExam_February2022\BeaverAtWork\bin\Debug\netcoreapp3.1\BeaverAtWork.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\SoftUni_AdvancedExam_February2022\BeaverAtWork\bin\Debug\netcoreapp3.1\BeaverAtWork.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\SoftUni_AdvancedExam_February2022\BeaverAtWork\bin\Debug\netcoreapp3.1\BeaverAtWork.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\SoftUni_AdvancedExam_February2022\BeaverAtWork\bin\Debug\netcoreapp3.1\BeaverAtWork.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\SoftUni_AdvancedExam_February2022\BeaverAtWork\bin\Debug\netcoreapp3.1\BeaverAtWork.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\SoftUni_AdvancedExam_February2022\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\SoftUni_AdvancedExam_February2022\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\SoftUni_AdvancedExam_February2022\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\SoftUni_AdvancedExam_February2022\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\SoftUni_AdvancedExam_February2022\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\SoftUni_AdvancedExam_February2022\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\SoftUni_AdvancedExam_February2022\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2022\SoftUni_AdvancedExam_February2022\BeaverAtWork\obj\Debug\netcoreapp3.1\BeaverAtWork.genruntimeconfig.cache
