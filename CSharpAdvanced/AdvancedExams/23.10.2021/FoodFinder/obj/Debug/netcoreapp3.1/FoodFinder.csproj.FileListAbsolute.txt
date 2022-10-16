@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\23.10.2021\FoodFinder\bin\Debug\netcoreapp3.1\FoodFinder.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\23.10.2021\FoodFinder\bin\Debug\netcoreapp3.1\FoodFinder.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\23.10.2021\FoodFinder\bin\Debug\netcoreapp3.1\FoodFinder.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\23.10.2021\FoodFinder\bin\Debug\netcoreapp3.1\FoodFinder.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\23.10.2021\FoodFinder\bin\Debug\netcoreapp3.1\FoodFinder.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\23.10.2021\FoodFinder\bin\Debug\netcoreapp3.1\FoodFinder.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\23.10.2021\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\23.10.2021\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\23.10.2021\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\23.10.2021\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\23.10.2021\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\23.10.2021\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\23.10.2021\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\23.10.2021\FoodFinder\obj\Debug\netcoreapp3.1\FoodFinder.genruntimeconfig.cache
