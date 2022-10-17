@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\14.04.2021\SoftUni_AdvancedRetakeExam_April2021\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\14.04.2021\SoftUni_AdvancedRetakeExam_April2021\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\14.04.2021\SoftUni_AdvancedRetakeExam_April2021\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\14.04.2021\SoftUni_AdvancedRetakeExam_April2021\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\14.04.2021\SoftUni_AdvancedRetakeExam_April2021\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\14.04.2021\SoftUni_AdvancedRetakeExam_April2021\SuperMario\bin\Debug\netcoreapp3.1\SuperMario.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\14.04.2021\SoftUni_AdvancedRetakeExam_April2021\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\14.04.2021\SoftUni_AdvancedRetakeExam_April2021\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\14.04.2021\SoftUni_AdvancedRetakeExam_April2021\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\14.04.2021\SoftUni_AdvancedRetakeExam_April2021\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\14.04.2021\SoftUni_AdvancedRetakeExam_April2021\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\14.04.2021\SoftUni_AdvancedRetakeExam_April2021\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\14.04.2021\SoftUni_AdvancedRetakeExam_April2021\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\14.04.2021\SoftUni_AdvancedRetakeExam_April2021\SuperMario\obj\Debug\netcoreapp3.1\SuperMario.genruntimeconfig.cache
