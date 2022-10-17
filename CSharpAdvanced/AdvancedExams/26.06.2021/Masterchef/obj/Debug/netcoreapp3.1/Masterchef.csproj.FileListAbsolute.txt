@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\Masterchef\bin\Debug\netcoreapp3.1\Masterchef.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\Masterchef\obj\Debug\netcoreapp3.1\Masterchef.genruntimeconfig.cache

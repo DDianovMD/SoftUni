@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Survivor", "Survivor\Survivor.csproj", "{8D6F1E14-CA28-4954-B2EE-0AC21A4C85AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Survivor", "Survivor\Survivor.csproj", "{8D6F1E14-CA28-4954-B2EE-0AC21A4C85AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masterchef", "Masterchef\Masterchef.csproj", "{7D4E0CC3-7322-4D4D-BBB0-7C2E0E90F82D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8D6F1E14-CA28-4954-B2EE-0AC21A4C85AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D6F1E14-CA28-4954-B2EE-0AC21A4C85AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D6F1E14-CA28-4954-B2EE-0AC21A4C85AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D4E0CC3-7322-4D4D-BBB0-7C2E0E90F82D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4E0CC3-7322-4D4D-BBB0-7C2E0E90F82D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D4E0CC3-7322-4D4D-BBB0-7C2E0E90F82D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4E0CC3-7322-4D4D-BBB0-7C2E0E90F82D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

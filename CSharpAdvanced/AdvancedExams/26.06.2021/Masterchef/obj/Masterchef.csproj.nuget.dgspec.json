@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\AdvancedExams\\26.06.2021\\Survivor\\Survivor.csproj": {}
+    "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\AdvancedExams\\26.06.2021\\Masterchef\\Masterchef.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\AdvancedExams\\26.06.2021\\Survivor\\Survivor.csproj": {
+    "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\AdvancedExams\\26.06.2021\\Masterchef\\Masterchef.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\AdvancedExams\\26.06.2021\\Survivor\\Survivor.csproj",
-        "projectName": "Survivor",
-        "projectPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\AdvancedExams\\26.06.2021\\Survivor\\Survivor.csproj",
+        "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\AdvancedExams\\26.06.2021\\Masterchef\\Masterchef.csproj",
+        "projectName": "Masterchef",
+        "projectPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\AdvancedExams\\26.06.2021\\Masterchef\\Masterchef.csproj",
         "packagesPath": "C:\\Users\\ddian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\AdvancedExams\\26.06.2021\\Survivor\\obj\\",
+        "outputPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\AdvancedExams\\26.06.2021\\Masterchef\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
