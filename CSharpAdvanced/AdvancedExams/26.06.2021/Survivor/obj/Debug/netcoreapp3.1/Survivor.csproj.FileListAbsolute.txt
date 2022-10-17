@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\SoftUni_AdvancedExam_June2021\Survivor\bin\Debug\netcoreapp3.1\Survivor.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\SoftUni_AdvancedExam_June2021\Survivor\bin\Debug\netcoreapp3.1\Survivor.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\SoftUni_AdvancedExam_June2021\Survivor\bin\Debug\netcoreapp3.1\Survivor.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\SoftUni_AdvancedExam_June2021\Survivor\bin\Debug\netcoreapp3.1\Survivor.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\SoftUni_AdvancedExam_June2021\Survivor\bin\Debug\netcoreapp3.1\Survivor.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\SoftUni_AdvancedExam_June2021\Survivor\bin\Debug\netcoreapp3.1\Survivor.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\SoftUni_AdvancedExam_June2021\Survivor\obj\Debug\netcoreapp3.1\Survivor.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\SoftUni_AdvancedExam_June2021\Survivor\obj\Debug\netcoreapp3.1\Survivor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\SoftUni_AdvancedExam_June2021\Survivor\obj\Debug\netcoreapp3.1\Survivor.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\SoftUni_AdvancedExam_June2021\Survivor\obj\Debug\netcoreapp3.1\Survivor.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\SoftUni_AdvancedExam_June2021\Survivor\obj\Debug\netcoreapp3.1\Survivor.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\SoftUni_AdvancedExam_June2021\Survivor\obj\Debug\netcoreapp3.1\Survivor.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\SoftUni_AdvancedExam_June2021\Survivor\obj\Debug\netcoreapp3.1\Survivor.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\26.06.2021\SoftUni_AdvancedExam_June2021\Survivor\obj\Debug\netcoreapp3.1\Survivor.genruntimeconfig.cache
