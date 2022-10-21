@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2021\TheFightForGondor\bin\Debug\netcoreapp3.1\TheFightForGondor.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2021\TheFightForGondor\bin\Debug\netcoreapp3.1\TheFightForGondor.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2021\TheFightForGondor\bin\Debug\netcoreapp3.1\TheFightForGondor.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2021\TheFightForGondor\bin\Debug\netcoreapp3.1\TheFightForGondor.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2021\TheFightForGondor\bin\Debug\netcoreapp3.1\TheFightForGondor.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2021\TheFightForGondor\bin\Debug\netcoreapp3.1\TheFightForGondor.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2021\TheFightForGondor\obj\Debug\netcoreapp3.1\TheFightForGondor.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2021\TheFightForGondor\obj\Debug\netcoreapp3.1\TheFightForGondor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2021\TheFightForGondor\obj\Debug\netcoreapp3.1\TheFightForGondor.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2021\TheFightForGondor\obj\Debug\netcoreapp3.1\TheFightForGondor.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2021\TheFightForGondor\obj\Debug\netcoreapp3.1\TheFightForGondor.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2021\TheFightForGondor\obj\Debug\netcoreapp3.1\TheFightForGondor.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2021\TheFightForGondor\obj\Debug\netcoreapp3.1\TheFightForGondor.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\20.02.2021\TheFightForGondor\obj\Debug\netcoreapp3.1\TheFightForGondor.genruntimeconfig.cache

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\AdvancedExams\\20.02.2021\\Warships\\Warships.csproj": {}
+    "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\AdvancedExams\\20.02.2021\\TheFightForGondor\\TheFightForGondor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\AdvancedExams\\20.02.2021\\Warships\\Warships.csproj": {
+    "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\AdvancedExams\\20.02.2021\\TheFightForGondor\\TheFightForGondor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\AdvancedExams\\20.02.2021\\Warships\\Warships.csproj",
-        "projectName": "Warships",
-        "projectPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\AdvancedExams\\20.02.2021\\Warships\\Warships.csproj",
+        "projectUniqueName": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\AdvancedExams\\20.02.2021\\TheFightForGondor\\TheFightForGondor.csproj",
+        "projectName": "TheFightForGondor",
+        "projectPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\AdvancedExams\\20.02.2021\\TheFightForGondor\\TheFightForGondor.csproj",
         "packagesPath": "C:\\Users\\ddian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\AdvancedExams\\20.02.2021\\Warships\\obj\\",
+        "outputPath": "C:\\Users\\ddian\\source\\repos\\SoftUni\\CSharpAdvanced\\AdvancedExams\\20.02.2021\\TheFightForGondor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
