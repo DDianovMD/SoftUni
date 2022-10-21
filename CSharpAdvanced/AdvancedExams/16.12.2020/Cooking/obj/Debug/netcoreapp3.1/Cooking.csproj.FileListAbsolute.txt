@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Cooking\bin\Debug\netcoreapp3.1\Cooking.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Cooking\bin\Debug\netcoreapp3.1\Cooking.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Cooking\bin\Debug\netcoreapp3.1\Cooking.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Cooking\bin\Debug\netcoreapp3.1\Cooking.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Cooking\bin\Debug\netcoreapp3.1\Cooking.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Cooking\bin\Debug\netcoreapp3.1\Cooking.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Cooking\obj\Debug\netcoreapp3.1\Cooking.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Cooking\obj\Debug\netcoreapp3.1\Cooking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Cooking\obj\Debug\netcoreapp3.1\Cooking.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Cooking\obj\Debug\netcoreapp3.1\Cooking.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Cooking\obj\Debug\netcoreapp3.1\Cooking.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Cooking\obj\Debug\netcoreapp3.1\Cooking.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Cooking\obj\Debug\netcoreapp3.1\Cooking.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Cooking\obj\Debug\netcoreapp3.1\Cooking.genruntimeconfig.cache
