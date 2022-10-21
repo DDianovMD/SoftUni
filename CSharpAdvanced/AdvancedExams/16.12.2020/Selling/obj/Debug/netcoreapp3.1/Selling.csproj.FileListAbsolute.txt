@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\SoftUni_AdvancedRetakeExam_December2020\Selling\bin\Debug\netcoreapp3.1\Selling.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\SoftUni_AdvancedRetakeExam_December2020\Selling\bin\Debug\netcoreapp3.1\Selling.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\SoftUni_AdvancedRetakeExam_December2020\Selling\bin\Debug\netcoreapp3.1\Selling.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\SoftUni_AdvancedRetakeExam_December2020\Selling\bin\Debug\netcoreapp3.1\Selling.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\SoftUni_AdvancedRetakeExam_December2020\Selling\bin\Debug\netcoreapp3.1\Selling.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\SoftUni_AdvancedRetakeExam_December2020\Selling\bin\Debug\netcoreapp3.1\Selling.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\SoftUni_AdvancedRetakeExam_December2020\Selling\obj\Debug\netcoreapp3.1\Selling.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\SoftUni_AdvancedRetakeExam_December2020\Selling\obj\Debug\netcoreapp3.1\Selling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\SoftUni_AdvancedRetakeExam_December2020\Selling\obj\Debug\netcoreapp3.1\Selling.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\SoftUni_AdvancedRetakeExam_December2020\Selling\obj\Debug\netcoreapp3.1\Selling.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\SoftUni_AdvancedRetakeExam_December2020\Selling\obj\Debug\netcoreapp3.1\Selling.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\SoftUni_AdvancedRetakeExam_December2020\Selling\obj\Debug\netcoreapp3.1\Selling.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\SoftUni_AdvancedRetakeExam_December2020\Selling\obj\Debug\netcoreapp3.1\Selling.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\SoftUni_AdvancedRetakeExam_December2020\Selling\obj\Debug\netcoreapp3.1\Selling.genruntimeconfig.cache
