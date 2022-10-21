@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Openning\bin\Debug\netcoreapp3.1\Openning.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Openning\bin\Debug\netcoreapp3.1\Openning.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Openning\bin\Debug\netcoreapp3.1\Openning.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Openning\bin\Debug\netcoreapp3.1\Openning.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Openning\bin\Debug\netcoreapp3.1\Openning.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Openning\bin\Debug\netcoreapp3.1\Openning.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Openning\obj\Debug\netcoreapp3.1\Openning.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Openning\obj\Debug\netcoreapp3.1\Openning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Openning\obj\Debug\netcoreapp3.1\Openning.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Openning\obj\Debug\netcoreapp3.1\Openning.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Openning\obj\Debug\netcoreapp3.1\Openning.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Openning\obj\Debug\netcoreapp3.1\Openning.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Openning\obj\Debug\netcoreapp3.1\Openning.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpAdvanced\AdvancedExams\16.12.2020\Openning\obj\Debug\netcoreapp3.1\Openning.genruntimeconfig.cache

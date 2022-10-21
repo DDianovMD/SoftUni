@@ -5,7 +5,9 @@ VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Selling", "Selling\Selling.csproj", "{4FA37BE9-364C-45C8-89FD-8A66A702E90A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cooking", "Cooking\Cooking.csproj", "{7FCD5915-65FB-4B06-97B4-FA0EC1D24547}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cooking", "Cooking\Cooking.csproj", "{7FCD5915-65FB-4B06-97B4-FA0EC1D24547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Openning", "Openning\Openning.csproj", "{D0A8B1C5-3003-429D-B908-95EBED300701}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7FCD5915-65FB-4B06-97B4-FA0EC1D24547}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FCD5915-65FB-4B06-97B4-FA0EC1D24547}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FCD5915-65FB-4B06-97B4-FA0EC1D24547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A8B1C5-3003-429D-B908-95EBED300701}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A8B1C5-3003-429D-B908-95EBED300701}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A8B1C5-3003-429D-B908-95EBED300701}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A8B1C5-3003-429D-B908-95EBED300701}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
