@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\Exam_October2022\RallyRacing\bin\Debug\netcoreapp3.1\RallyRacing.exe
+C:\Users\ddian\source\repos\Exam_October2022\RallyRacing\bin\Debug\netcoreapp3.1\RallyRacing.deps.json
+C:\Users\ddian\source\repos\Exam_October2022\RallyRacing\bin\Debug\netcoreapp3.1\RallyRacing.runtimeconfig.json
+C:\Users\ddian\source\repos\Exam_October2022\RallyRacing\bin\Debug\netcoreapp3.1\RallyRacing.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\Exam_October2022\RallyRacing\bin\Debug\netcoreapp3.1\RallyRacing.dll
+C:\Users\ddian\source\repos\Exam_October2022\RallyRacing\bin\Debug\netcoreapp3.1\RallyRacing.pdb
+C:\Users\ddian\source\repos\Exam_October2022\RallyRacing\obj\Debug\netcoreapp3.1\RallyRacing.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\Exam_October2022\RallyRacing\obj\Debug\netcoreapp3.1\RallyRacing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\Exam_October2022\RallyRacing\obj\Debug\netcoreapp3.1\RallyRacing.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\Exam_October2022\RallyRacing\obj\Debug\netcoreapp3.1\RallyRacing.AssemblyInfo.cs
+C:\Users\ddian\source\repos\Exam_October2022\RallyRacing\obj\Debug\netcoreapp3.1\RallyRacing.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\Exam_October2022\RallyRacing\obj\Debug\netcoreapp3.1\RallyRacing.dll
+C:\Users\ddian\source\repos\Exam_October2022\RallyRacing\obj\Debug\netcoreapp3.1\RallyRacing.pdb
+C:\Users\ddian\source\repos\Exam_October2022\RallyRacing\obj\Debug\netcoreapp3.1\RallyRacing.genruntimeconfig.cache
