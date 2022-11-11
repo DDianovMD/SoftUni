@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\BookingAppStructureAndBusinessLogic\bin\Debug\netcoreapp3.1\BookingApp.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\BookingAppStructureAndBusinessLogic\bin\Debug\netcoreapp3.1\BookingApp.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\BookingAppStructureAndBusinessLogic\bin\Debug\netcoreapp3.1\BookingApp.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\BookingAppStructureAndBusinessLogic\bin\Debug\netcoreapp3.1\BookingApp.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\BookingAppStructureAndBusinessLogic\bin\Debug\netcoreapp3.1\BookingApp.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\BookingAppStructureAndBusinessLogic\bin\Debug\netcoreapp3.1\BookingApp.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\BookingAppStructureAndBusinessLogic\obj\Debug\netcoreapp3.1\BookingApp.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\BookingAppStructureAndBusinessLogic\obj\Debug\netcoreapp3.1\BookingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\BookingAppStructureAndBusinessLogic\obj\Debug\netcoreapp3.1\BookingApp.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\BookingAppStructureAndBusinessLogic\obj\Debug\netcoreapp3.1\BookingApp.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\BookingAppStructureAndBusinessLogic\obj\Debug\netcoreapp3.1\BookingApp.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\BookingAppStructureAndBusinessLogic\obj\Debug\netcoreapp3.1\BookingApp.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\BookingAppStructureAndBusinessLogic\obj\Debug\netcoreapp3.1\BookingApp.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\BookingAppStructureAndBusinessLogic\obj\Debug\netcoreapp3.1\BookingApp.genruntimeconfig.cache

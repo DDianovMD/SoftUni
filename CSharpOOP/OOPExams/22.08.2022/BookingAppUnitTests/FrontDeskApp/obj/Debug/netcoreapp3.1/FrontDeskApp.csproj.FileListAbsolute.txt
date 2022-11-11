@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\03. Unit Tests_Skeleton\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\03. Unit Tests_Skeleton\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\03. Unit Tests_Skeleton\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\03. Unit Tests_Skeleton\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\03. Unit Tests_Skeleton\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\03. Unit Tests_Skeleton\FrontDeskApp\bin\Debug\netcoreapp3.1\FrontDeskApp.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\03. Unit Tests_Skeleton\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\03. Unit Tests_Skeleton\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\03. Unit Tests_Skeleton\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\03. Unit Tests_Skeleton\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\03. Unit Tests_Skeleton\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\03. Unit Tests_Skeleton\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\03. Unit Tests_Skeleton\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\22.08.2022\03. Unit Tests_Skeleton\FrontDeskApp\obj\Debug\netcoreapp3.1\FrontDeskApp.genruntimeconfig.cache
