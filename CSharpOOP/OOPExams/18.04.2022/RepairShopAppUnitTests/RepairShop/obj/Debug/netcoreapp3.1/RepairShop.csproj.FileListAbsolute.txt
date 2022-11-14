@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\18.04.2022\RepairShopAppUnitTests\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\18.04.2022\RepairShopAppUnitTests\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\18.04.2022\RepairShopAppUnitTests\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\18.04.2022\RepairShopAppUnitTests\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\18.04.2022\RepairShopAppUnitTests\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\18.04.2022\RepairShopAppUnitTests\RepairShop\bin\Debug\netcoreapp3.1\RepairShop.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\18.04.2022\RepairShopAppUnitTests\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\18.04.2022\RepairShopAppUnitTests\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\18.04.2022\RepairShopAppUnitTests\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\18.04.2022\RepairShopAppUnitTests\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\18.04.2022\RepairShopAppUnitTests\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\18.04.2022\RepairShopAppUnitTests\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\18.04.2022\RepairShopAppUnitTests\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\18.04.2022\RepairShopAppUnitTests\RepairShop\obj\Debug\netcoreapp3.1\RepairShop.genruntimeconfig.cache
