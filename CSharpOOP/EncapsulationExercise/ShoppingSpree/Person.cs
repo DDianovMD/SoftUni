@@ -8,13 +8,13 @@ namespace ShoppingSpree
     {
         private string name;
         private double money;
-        private List<Product> shoppingBag;
+        private List<Product> bagOfProducts;
 
         public Person(string name, double money)
         {
             Name = name;
             Money = money;
-            shoppingBag = new List<Product>();
+            bagOfProducts = new List<Product>();
         }
         public string Name
         {
@@ -50,7 +50,7 @@ namespace ShoppingSpree
         }
         public IReadOnlyCollection<Product> ShoppingBag
         {
-            get => shoppingBag.AsReadOnly();
+            get => bagOfProducts.AsReadOnly();
         }
 
         public void BuyProduct(Product product)
@@ -58,7 +58,7 @@ namespace ShoppingSpree
             if (Money >= product.Cost)
             {
                 Money -= product.Cost;
-                shoppingBag.Add(product);
+                bagOfProducts.Add(product);
 
                 Console.WriteLine($"{this.Name} bought {product.Name}");
             }

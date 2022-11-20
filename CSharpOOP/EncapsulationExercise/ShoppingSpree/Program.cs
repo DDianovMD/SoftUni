@@ -39,6 +39,7 @@ namespace ShoppingSpree
             catch (ArgumentOutOfRangeException e)
             {
                 Console.WriteLine(e.ParamName);
+                return;
             }
 
             List<string> command = new List<string>();
@@ -76,6 +77,7 @@ namespace ShoppingSpree
             catch (ArgumentOutOfRangeException e)
             {
                 Console.WriteLine(e.ParamName);
+                return;
             }
 
             foreach (var person in people)
