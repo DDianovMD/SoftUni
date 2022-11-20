@@ -51,12 +51,12 @@ namespace Animals
                         }
                         else if (animalType == "Kitten")
                         {
-                            Animal animal = new Kitten(animalName, animalAge, "Female");
+                            Animal animal = new Kitten(animalName, animalAge);
                             animals.Add(animal);
                         }
                         else if (animalType == "Tomcat")
                         {
-                            Animal animal = new Tomcat(animalName, animalAge, "Male");
+                            Animal animal = new Tomcat(animalName, animalAge);
                             animals.Add(animal);
                         }
                     }                    
