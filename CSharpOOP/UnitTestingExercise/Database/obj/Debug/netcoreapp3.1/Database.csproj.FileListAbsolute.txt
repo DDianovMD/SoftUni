@@ -1,0 +1,10 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\UnitTestingExercise\Database\Database\bin\Debug\netcoreapp3.1\Database.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\UnitTestingExercise\Database\Database\bin\Debug\netcoreapp3.1\Database.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\UnitTestingExercise\Database\Database\bin\Debug\netcoreapp3.1\Database.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\UnitTestingExercise\Database\Database\obj\Debug\netcoreapp3.1\Database.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\UnitTestingExercise\Database\Database\obj\Debug\netcoreapp3.1\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\UnitTestingExercise\Database\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\UnitTestingExercise\Database\Database\obj\Debug\netcoreapp3.1\Database.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\UnitTestingExercise\Database\Database\obj\Debug\netcoreapp3.1\Database.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\UnitTestingExercise\Database\Database\obj\Debug\netcoreapp3.1\Database.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\UnitTestingExercise\Database\Database\obj\Debug\netcoreapp3.1\Database.pdb

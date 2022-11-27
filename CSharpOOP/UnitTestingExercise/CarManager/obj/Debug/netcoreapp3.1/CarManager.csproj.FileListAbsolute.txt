@@ -1,0 +1,10 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\UnitTestingExercise\Database\CarManager\bin\Debug\netcoreapp3.1\CarManager.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\UnitTestingExercise\Database\CarManager\bin\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\UnitTestingExercise\Database\CarManager\bin\Debug\netcoreapp3.1\CarManager.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\UnitTestingExercise\Database\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\UnitTestingExercise\Database\CarManager\obj\Debug\netcoreapp3.1\CarManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\UnitTestingExercise\Database\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\UnitTestingExercise\Database\CarManager\obj\Debug\netcoreapp3.1\CarManager.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\UnitTestingExercise\Database\CarManager\obj\Debug\netcoreapp3.1\CarManager.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\UnitTestingExercise\Database\CarManager\obj\Debug\netcoreapp3.1\CarManager.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\UnitTestingExercise\Database\CarManager\obj\Debug\netcoreapp3.1\CarManager.pdb
