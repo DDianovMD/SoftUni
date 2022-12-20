@@ -1,0 +1,14 @@
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\19.12.2022\UniversityCompetitionUnitTests\UniversityLibrary\bin\Debug\netcoreapp3.1\UniversityLibrary.exe
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\19.12.2022\UniversityCompetitionUnitTests\UniversityLibrary\bin\Debug\netcoreapp3.1\UniversityLibrary.deps.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\19.12.2022\UniversityCompetitionUnitTests\UniversityLibrary\bin\Debug\netcoreapp3.1\UniversityLibrary.runtimeconfig.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\19.12.2022\UniversityCompetitionUnitTests\UniversityLibrary\bin\Debug\netcoreapp3.1\UniversityLibrary.runtimeconfig.dev.json
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\19.12.2022\UniversityCompetitionUnitTests\UniversityLibrary\bin\Debug\netcoreapp3.1\UniversityLibrary.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\19.12.2022\UniversityCompetitionUnitTests\UniversityLibrary\bin\Debug\netcoreapp3.1\UniversityLibrary.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\19.12.2022\UniversityCompetitionUnitTests\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.csproj.AssemblyReference.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\19.12.2022\UniversityCompetitionUnitTests\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\19.12.2022\UniversityCompetitionUnitTests\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.AssemblyInfoInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\19.12.2022\UniversityCompetitionUnitTests\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.AssemblyInfo.cs
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\19.12.2022\UniversityCompetitionUnitTests\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\19.12.2022\UniversityCompetitionUnitTests\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.dll
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\19.12.2022\UniversityCompetitionUnitTests\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.pdb
+C:\Users\ddian\source\repos\SoftUni\CSharpOOP\OOPExams\19.12.2022\UniversityCompetitionUnitTests\UniversityLibrary\obj\Debug\netcoreapp3.1\UniversityLibrary.genruntimeconfig.cache
