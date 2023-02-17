@@ -12,9 +12,30 @@ namespace SoftUni
         {
             using (var db = new SoftUniContext())
             {
-                Console.WriteLine(AddNewAddressToEmployee(db));
+                Console.WriteLine(GetAddressesByTown(db));
             }
         }
+
+        public static string GetAddressesByTown(SoftUniContext context)
+        {
+            var adresses = context.Addresses
+                                  .OrderByDescending(x => x.Employees.Count)
+                                  .ThenBy(x => x.Town.Name)
+                                  .ThenBy(x => x.AddressText)
+                                  .Take(10)
+                                  .ToList();
+
+            StringBuilder sb = new StringBuilder();
+
+            foreach (var adress in adresses)
+            {
+                sb.AppendLine($"{adress.AddressText}, {adress.Town.Name} - {adress.Employees.Count} employees");
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+
+        //                      06. Adding a New Address and Updating Employee
 
         public static string AddNewAddressToEmployee(SoftUniContext context)
         {
