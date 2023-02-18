@@ -13,8 +13,33 @@ namespace SoftUni
         {
             using (var db = new SoftUniContext())
             {
-                Console.WriteLine(GetEmployee147(db));
+                Console.WriteLine(GetDepartmentsWithMoreThan5Employees(db));
             }
+        }
+
+        //                      10.	Departments with More Than 5 Employees
+
+        public static string GetDepartmentsWithMoreThan5Employees(SoftUniContext context)
+        {
+            var departments = context.Departments
+                                     .Where(x => x.Employees.Count > 5)
+                                     .OrderBy(x => x.Employees.Count)
+                                     .ThenBy(x => x.Name)
+                                     .ToList();
+
+            StringBuilder sb = new StringBuilder();
+
+            foreach (var department in departments)
+            {
+                sb.AppendLine($"{department.Name} - {department.Manager.FirstName} {department.Manager.LastName}");
+
+                foreach(var employee in department.Employees.OrderBy(x => x.FirstName).ThenBy(x => x.LastName))
+                {
+                    sb.AppendLine($"{employee.FirstName} {employee.LastName} - {employee.JobTitle}");
+                }
+            }
+
+            return sb.ToString().TrimEnd();
         }
 
         //                      09. Employee 147
