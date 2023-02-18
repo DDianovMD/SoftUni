@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Linq;
 using System.Text;
+using Microsoft.EntityFrameworkCore;
 using SoftUni.Data;
 using SoftUni.Models;
 
@@ -12,9 +13,11 @@ namespace SoftUni
         {
             using (var db = new SoftUniContext())
             {
-                Console.WriteLine(GetAddressesByTown(db));
+                Console.WriteLine(GetEmployeesInPeriod(db));
             }
         }
+
+        //                      08. Addresses by Town
 
         public static string GetAddressesByTown(SoftUniContext context)
         {
@@ -30,6 +33,41 @@ namespace SoftUni
             foreach (var adress in adresses)
             {
                 sb.AppendLine($"{adress.AddressText}, {adress.Town.Name} - {adress.Employees.Count} employees");
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+
+        //                      07. Employees and Projects
+
+        public static string GetEmployeesInPeriod(SoftUniContext context)
+        {
+            var employeeProjects = context.EmployeesProjects
+                                   .Include(x => x.Project)
+                                   .Include(x => x.Employee)
+                                   .Where(x => x.Project.StartDate.Year >= 2001 && x.Project.StartDate.Year <= 2003)
+                                   .Take(10)
+                                   .ToList();
+
+            StringBuilder sb = new StringBuilder();
+
+            foreach (var employeeProject in employeeProjects)
+            {
+                Employee employee = employeeProject.Employee;
+
+                sb.AppendLine($"{employee.FirstName} {employee.LastName} - Manager: {employee.Manager.FirstName} {employee.Manager.LastName}");
+
+                foreach (var project in employeeProjects.Select(x => x.Project).Where(x => x.ProjectId == employeeProject.ProjectId).ToList())
+                {
+                    if (project.EndDate != null)
+                    {
+                        sb.AppendLine($"--{project.Name} - {project.StartDate.ToString("M/d/yyyy h:mm:ss tt")} - {project.EndDate?.ToString("M/d/yyyy h:mm:ss tt")}");
+                    }
+                    else
+                    {
+                        sb.AppendLine($"--{project.Name} - {project.StartDate.ToString("M/d/yyyy h:mm:ss tt")} - not finished");
+                    }
+                }
             }
 
             return sb.ToString().TrimEnd();
