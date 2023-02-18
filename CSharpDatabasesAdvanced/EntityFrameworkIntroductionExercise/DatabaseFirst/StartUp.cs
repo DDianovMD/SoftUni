@@ -13,8 +13,30 @@ namespace SoftUni
         {
             using (var db = new SoftUniContext())
             {
-                Console.WriteLine(GetEmployeesInPeriod(db));
+                Console.WriteLine(GetEmployee147(db));
             }
+        }
+
+        //                      09. Employee 147
+
+        public static string GetEmployee147(SoftUniContext context)
+        {
+            var employee = context.Employees
+                                  .Include(x => x.EmployeesProjects)
+                                  .FirstOrDefault(x => x.EmployeeId == 147);
+
+            StringBuilder sb = new StringBuilder();
+
+            sb.AppendLine($"{employee.FirstName} {employee.LastName} - {employee.JobTitle}");
+
+            foreach (var employeeProject in employee.EmployeesProjects.OrderBy(x => x.Project.Name))
+            {
+                Project project = employeeProject.Project;
+
+                sb.AppendLine($"{project.Name}");
+            }
+
+            return sb.ToString().TrimEnd();
         }
 
         //                      08. Addresses by Town
