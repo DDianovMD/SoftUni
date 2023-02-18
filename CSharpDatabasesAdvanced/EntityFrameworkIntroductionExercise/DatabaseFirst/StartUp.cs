@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using Microsoft.EntityFrameworkCore;
@@ -13,8 +14,38 @@ namespace SoftUni
         {
             using (var db = new SoftUniContext())
             {
-                Console.WriteLine(IncreaseSalaries(db));
+                Console.WriteLine(RemoveTown(db));
             }
+        }
+
+        //                      15.	Remove Town
+
+        public static string RemoveTown(SoftUniContext context)
+        {
+            var adressesInSeattle = context.Addresses.Where(x => x.Town.Name == "Seattle");
+
+            int adressesCount = adressesInSeattle.Count();
+
+            foreach (var employee in context.Employees)
+            {
+                if (adressesInSeattle.Contains(employee.Address))
+                {
+                    employee.Address = null;
+                }
+            }
+
+            foreach (var adress in adressesInSeattle)
+            {
+                context.Addresses.Remove(adress);
+            }
+
+            var town = context.Towns.FirstOrDefault(x => x.Name == "Seattle");
+
+            context.Towns.Remove(town);
+
+            context.SaveChanges();
+
+            return $"{adressesCount} addresses in {town.Name} were deleted";
         }
 
         //                      14.	Delete Project by Id
