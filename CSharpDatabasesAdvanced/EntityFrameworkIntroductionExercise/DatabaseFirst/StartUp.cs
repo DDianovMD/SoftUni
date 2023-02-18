@@ -17,6 +17,24 @@ namespace SoftUni
             }
         }
 
+        //                      13.	Find Employees by First Name Starting with "Sa"
+
+        public static string GetEmployeesByFirstNameStartingWithSa(SoftUniContext context)
+        {
+            var employees = context.Employees
+                                   .Where(x => x.FirstName.Substring(0, 2) == "Sa")
+                                   .ToList();
+
+            StringBuilder sb = new StringBuilder();
+
+            foreach (var employee in employees.OrderBy(x => x.FirstName).ThenBy(x => x.LastName))
+            {
+                sb.AppendLine($"{employee.FirstName} {employee.LastName} - {employee.JobTitle} - (${employee.Salary:F2})");
+            }
+
+            return sb.ToString().TrimEnd();
+        }
+
         //                      12.	Increase Salaries
 
         public static string IncreaseSalaries(SoftUniContext context)
