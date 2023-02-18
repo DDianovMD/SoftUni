@@ -13,8 +13,35 @@ namespace SoftUni
         {
             using (var db = new SoftUniContext())
             {
-                Console.WriteLine(GetLatestProjects(db));
+                Console.WriteLine(IncreaseSalaries(db));
             }
+        }
+
+        //                      12.	Increase Salaries
+
+        public static string IncreaseSalaries(SoftUniContext context)
+        {
+            var employees = context.Employees
+                                   .Include(x => x.Department)
+                                   .Where(x => x.Department.Name == "Engineering" ||
+                                               x.Department.Name == "Tool Design" ||
+                                               x.Department.Name == "Marketing" ||
+                                               x.Department.Name == "Information Services")
+                                   .ToList();
+
+            foreach (var employee in employees)
+            {
+                employee.Salary *= (decimal)1.12;
+            }
+
+            StringBuilder sb = new StringBuilder();
+
+            foreach (var employee in employees.OrderBy(x => x.FirstName).ThenBy(x => x.LastName))
+            {
+                sb.AppendLine($"{employee.FirstName} {employee.LastName} (${employee.Salary:F2})");
+            }
+
+            return sb.ToString().TrimEnd();
         }
 
         //                      11. Find Latest 10 Projects
